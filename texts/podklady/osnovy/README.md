@@ -25,6 +25,8 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [První část a redakční rozhodování](e08-prvni-cast-a-redakcni-rozhodovani.md) | redakční podklad | E08 |
 | [Oddělení úvodu a první kapitoly](e09-oddeleni-uvodu-a-prvni-kapitoly.md) | redakční dialog + rozhodnutí | E09 |
 
+| [E11 — Vývojový oblouk vlastními slovy autora](e11-vyvojovy-oblouk-autora.md) | autorské zadání / pracovní osnova | E11 |
+
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 
 ## Další drobné pasáže
