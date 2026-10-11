@@ -21,3 +21,6 @@ Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako souč�
 ## Další drobné pasáže
 
 [Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).
+
+| [E15 — „Když láska bolí“: související autorský text mimo rukopis](e15-kdyz-laska-boli-souvisejici-autorsky-text.md) | související autorský text / scénář; výslovně mimo rukopis | E15 |
+| [E15 — Publikum, forma, osobní vazba a placená vrstva](e15-publikum-forma-osobni-vazba.md) | autorské formulace + neschválené strategické návrhy | E15 |
