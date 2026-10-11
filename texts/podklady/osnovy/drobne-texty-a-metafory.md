@@ -201,3 +201,78 @@ bolest – pochopení – ulehčení
 
 Za každý jeden odstavec bolesti aspoň jeden odstavec držení a pohlazení.
 
+
+
+## E07-01
+
+**Kniha jako lékárnička a dvojí struktura**
+
+Zdroj: E07 — současná konverzace 2026-10-11. Původ: autorovo zadání + návrh asistenta. Úplnost: celé dostupné znění relevantních pasáží. Status: pracovní koncepční podklad.
+
+Autor:
+
+„Chtěl bych knihu, kterou si změna možná jednou přečte, ale pak se k ní hlavně bude vracet jako k lékárničce - nalistovat 1 stránku, přečíst 1 odstavec nebo silnou větu. Bude se k ní vracet v tichu noci, v práci na záchodě, v autě před domem. Ve chvílích, kdy se se svou bolestí cítí sama, když je sama na tu bolest a bojí se, že ji sama neunese“
+
+Návrh asistenta:
+
+„Ne kniha, kterou ‚přečte a odloží‘. Ale kniha, která bude ležet na nočním stolku, v kabelce, v telefonu, v autě. Kniha jako **tichá lékárnička na vnitřní krvácení**.“
+
+„To znamená, že struktura musí být dvojí:
+
+Na jedné straně **cesta**, aby kniha měla vývoj od bolesti k naději.
+Na druhé straně **fragmentární použitelnost**, aby šla otevřít kdekoli a okamžitě fungovala jako obklad na ránu.“
+
+„Každá kapitola může mít stejnou vnitřní rytmiku:
+
+**1. Poznání bolesti**
+**2. Pojmenování výčitky**
+**3. Jemné rozpojení viny od bolesti**
+**4. Jedna věta jako obvaz**
+**5. Tichý návrat k sobě**“
+
+## E07-02
+
+**Pracovní návrh šesti rozsudků druhé části**
+
+Zdroj: E07 — současná konverzace 2026-10-11. Původ: návrh asistenta po autorově zadání. Úplnost: kompletní seznam v dostupné odpovědi. Status: pracovní návrh; nefixuje finální osnovu.
+
+1. „Jsem úplně blbá.“
+2. „Bylo to celé moje chyba.“
+3. „Nejsem dost.“
+4. „Jsem moc.“
+5. „Všechno pokazím.“
+6. „Asi se nedá milovat.“
+
+Pracovní logika návrhu: nejde po událostech, ale po vrstvách od pochybnosti o úsudku přes rozhodnutí, hodnotu a osobnost až k vlastní milovatelnosti.
+
+## E07-03
+
+**Pracovní pojmenování hlavního mechanismu: vnitřní soud**
+
+Zdroj: E07 — současná konverzace 2026-10-11. Původ: autorovo zadání + návrh asistenta. Status: redakční podklad, nikoli uzavřené rozhodnutí.
+
+Autor upozornil, že každodenní situace mohou vést od malé chyby k rozsudku: „Jsem úplně blbá, Jsem neschopná, Jsem k ničemu, Nezasloužím si lásku. Vina pak utváří to, kým je. Vina se stává součástí její identity.“
+
+Návrh asistenta formuloval rozdíl:
+
+„Ne:
+
+**Udělala jsem chybu.**
+
+Ale:
+
+**Jsem chyba.**“
+
+a dále:
+
+„Udělat chybu bolí.
+
+Ale ještě víc bolí, když se z chyby stane odpověď na otázku, kým jsi.“
+
+Pracovní závěr návrhu:
+
+„Ne **vina**.
+
+Ale **vnitřní soud**, který si žena plete s pravdou.
+
+A celá kniha je cesta od rozsudku k pravdě.“
