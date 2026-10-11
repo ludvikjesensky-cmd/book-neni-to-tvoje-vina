@@ -361,3 +361,22 @@ E13 nedoplnil žádný další starý E02 fragment do primárního historického
 E14 znovu nekopíruje starší E05 texty „Když bolest nemá kam jít…“, „Nejsi jediná, kdo to takhle cítí“ ani „Nejsi špatná, že tohle cítíš“. Nový autorský text „Někdy to není vina“ je významově příbuzný, ale formulacemi a stavbou odlišný, proto je zachován jako samostatná varianta.
 
 V tomto E14 průchodu nebyl žádný starší E02 fragment doplněn do původního historického celku. Přibyly nové celé texty z aktuálně dostupné konverzace.
+
+## E15 — „Když láska bolí“ a navazující mediální větev (2026-10-11)
+
+- Zdroj: přímo dostupná historie této konverzace 2026-10-11.
+- Rozsah: celý autorský text vložený pro YouTube kanál „Když láska bolí“ a navazující autorské formulace o publiku, audio/video formě, FB/IG/YT, placené vrstvě a osobní vazbě publika k autorovi.
+- Úplnost: celé znění dlouhého autorského textu i celé citované autorovy formulace jsou zachovány v E15 souborech. Dostupnost této konverzace neprokazuje úplnost případných starších částí, které nejsou v aktuálním kontextu přítomné.
+- Přílohy: v této dostupné větvi nebyla pro E15 použita žádná příloha.
+- Metoda: před importem byly hledány přesné charakteristické formulace („Ležíte vedle sebe“, „To ženské zavírání je pomalé“, „Když láska bolí“, „Herohero“, „YouTube“) v aktuálním repozitáři; nebyla nalezena identická uložená verze.
+
+### Přenesené soubory E15
+
+- [E15 — „Když láska bolí“: související autorský text mimo rukopis](../texts/podklady/propagace/e15-kdyz-laska-boli-souvisejici-autorsky-text.md) — celý vložený vztahový text, včetně obou variant závěrečné části „DÁ SE TO JEŠTĚ ZMĚNIT?“. Uložen bez korektury. Autor následně výslovně uvedl „Není to na knihu“, proto není klasifikován jako kapitola rukopisu.
+- [E15 — Publikum, forma, osobní vazba a placená vrstva](../texts/podklady/propagace/e15-publikum-forma-osobni-vazba.md) — celé klíčové autorovy formulace o přechodu od mužského k ženskému publiku, oddělení této tvorby od knihy, preferenci audia, rozšíření FB → IG/YT/Reels/Shorts, potřebě osobní vazby a otázce placené vrstvy. Vybrané návrhy asistenta jsou jasně označeny jako neschválené.
+
+### Porovnání a status
+
+E15 významově navazuje na E11 distribuční záměr, ale není jeho kopií. E11 zachycuje obecný ekosystém YouTube/Facebook → Herohero → kniha/e-book/kurz. E15 přidává skutečný celý text z konkrétního kanálu, přímý feedback publika a explicitní hranici, že tato konkrétní témata autor nepovažuje za knihu.
+
+E15 nedoplňuje žádný starší E02 fragment do historického celku a nepřepisuje pracovní texty v kořeni `texts/`. Drobné obrazy a věty z dlouhého textu nejsou duplikovány do `texts/DROBNE_TEXTY.md`; jejich úplný původní kontext zůstává v jednom zdrojovém souboru E15.
