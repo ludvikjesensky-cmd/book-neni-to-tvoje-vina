@@ -15,12 +15,12 @@ Tento dokument eviduje původ textu; současný stav projektu je pouze v [CURREN
 ## Importované texty
 | Soubor | Strany E01 | Provenience |
 | --- | --- | --- |
-| [Jak číst tuto knihu](../source/manuscript/jak-cist-tuto-knihu.md) | 213–215 | Vybraný historický text, obsahově nerevidovaný import |
-| [Když vina přijde místo spánku](../source/manuscript/kdyz-vina-prijde-misto-spanku.md) | 122–127 | Vybraný historický text, obsahově nerevidovaný import |
-| [Nejsi jediná žena, která takhle leží ve tmě](../source/manuscript/nejsi-jedina.md) | 130–134 | Vybraný historický text, obsahově nerevidovaný import |
-| [Když to všechno začalo mnohem dřív](../source/manuscript/kdyz-to-vsechno-zacalo-mnohem-driv.md) | 168–172 | Vybraný historický text, obsahově nerevidovaný import |
-| [Bolest, kterou jsi neměla kam položit](../source/manuscript/bolest-kterou-jsi-nemela-kam-polozit.md) | 173–178 | Vybraný historický text, obsahově nerevidovaný import |
-| [Co když to nikdy nebylo celé tvoje](../source/manuscript/co-kdyz-to-nikdy-nebylo-cele-tvoje.md) | 178–181 | Vybraný historický text, obsahově nerevidovaný import |
+| [Jak číst tuto knihu](../texts/jak-cist-tuto-knihu.md) | 213–215 | Vybraný historický text, obsahově nerevidovaný import |
+| [Když vina přijde místo spánku](../texts/kdyz-vina-prijde-misto-spanku.md) | 122–127 | Vybraný historický text, obsahově nerevidovaný import |
+| [Nejsi jediná žena, která takhle leží ve tmě](../texts/nejsi-jedina.md) | 130–134 | Vybraný historický text, obsahově nerevidovaný import |
+| [Když to všechno začalo mnohem dřív](../texts/kdyz-to-vsechno-zacalo-mnohem-driv.md) | 168–172 | Vybraný historický text, obsahově nerevidovaný import |
+| [Bolest, kterou jsi neměla kam položit](../texts/bolest-kterou-jsi-nemela-kam-polozit.md) | 173–178 | Vybraný historický text, obsahově nerevidovaný import |
+| [Co když to nikdy nebylo celé tvoje](../texts/co-kdyz-to-nikdy-nebylo-cele-tvoje.md) | 178–181 | Vybraný historický text, obsahově nerevidovaný import |
 
 Výběr importu nezakládá finální osnovu. Historická čísla 1–5 byla odstraněna z nadpisů, aby nevytvářela falešné finální pořadí. U kapitoly o dětství a bolesti byla vybrána pozdější varianta v tomto PDF; starší varianty zůstávají dohledatelné v E01.
 

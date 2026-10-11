@@ -1,6 +1,6 @@
 # Když vina přijde místo spánku
 
-> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 122–127; viz [katalog](../../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol. Toto je starší noční kapitola; pozdější přepis z 30. 7. 2026 dosud nebyl obnoven.
+> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 122–127; viz [katalog](../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol. Toto je starší noční kapitola; pozdější přepis z 30. 7. 2026 dosud nebyl obnoven.
 
 Je noc.
 Ten druh ticha, který není klidný.

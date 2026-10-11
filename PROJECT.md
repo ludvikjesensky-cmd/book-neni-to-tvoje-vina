@@ -19,7 +19,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 | Vrstva | Autoritativní umístění |
 | --- | --- |
 | KNOWLEDGE | PROJECT.md, project-memory/; detailní provenience v docs/SOURCE_CATALOG.md |
-| SOURCE | source/manuscript/ — textový content master; nyní importované pracovní texty, nikoli schválená kompletní kniha |
+| SOURCE | texts/ — textový content master; nyní importované pracovní texty, nikoli schválená kompletní kniha |
 | PRODUCTION | TBD; sazba ani její nástroj nejsou určeny |
 | ARTIFACTS | Žádné vydání; umístění finálního PDF/EPUB TBD |
 | EXTERNAL | Historický PDF export NTTV – Část 1 v ChatGPT; přesná identifikace v katalogu zdrojů |

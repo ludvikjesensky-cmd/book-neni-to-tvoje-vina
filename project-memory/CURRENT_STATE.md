@@ -6,8 +6,9 @@
 ## Ověřeně existuje
 - Repozitář, PROJECT.md a osm kanonických souborů Project Memory.
 - Destilace koncepce, rozhodnutí, slepých cest a historie.
-- Šest importovaných pracovních textů v source/manuscript/: úvod a pět kapitol historické první části.
+- Šest importovaných pracovních textů v texts/: úvod a pět kapitol historické první části.
 - Katalog zdrojů rozlišující přímo ověřené PDF, importované texty a poznatky z vyhledávání rozhovorů.
+- Přehled textů je v texts/README.md; kapitoly jsou odděleny od projektové dokumentace.
 - GitHub je autoritativní pro další práci; importované texty nejsou finální schválený rukopis.
 
 ## Známé mezery

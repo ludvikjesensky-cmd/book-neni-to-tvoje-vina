@@ -1,6 +1,6 @@
 # Když to všechno začalo mnohem dřív
 
-> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 168–172; viz [katalog](../../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
+> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 168–172; viz [katalog](../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
 
 Možná to nezačalo až v tom vztahu.
 Možná to nezačalo tou hádkou.

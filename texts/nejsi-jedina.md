@@ -1,6 +1,6 @@
 # Nejsi jediná žena, která takhle leží ve tmě
 
-> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 130–134; viz [katalog](../../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
+> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 130–134; viz [katalog](../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
 
 Možná sis myslela, že jsi v tom sama.
 Že jen ty ležíš večer ve tmě a v hlavě ti běží věty, za které by ses styděla, kdyby je někdo slyšel.

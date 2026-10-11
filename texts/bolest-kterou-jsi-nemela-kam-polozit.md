@@ -1,6 +1,6 @@
 # Bolest, kterou jsi neměla kam položit
 
-> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 173–178; viz [katalog](../../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
+> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 173–178; viz [katalog](../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
 
 Když jsi byla malá, možná ses naučila být hodná.
 Ne proto, že bys chtěla být dokonalá.

@@ -1,14 +1,15 @@
 # Architecture
 
 ## Současné uspořádání
-Jeden knižní projekt = jeden repozitář. PROJECT.md směruje k project-memory/ a source/manuscript/. Kanonická paměť popisuje projekt; editovatelné texty jsou samostatný content master.
+Jeden knižní projekt = jeden repozitář. PROJECT.md směruje k project-memory/ a texts/. Kanonická paměť popisuje projekt; editovatelné texty jsou samostatný content master.
 
 ## Tok práce
 Historické podklady → ověřený import s proveniencí → autorská editace textových zdrojů → schválený rukopis → sazba → vydané artefakty.
 První dvě fáze jsou zahájeny. Produkční nástroj, místo produkčních souborů a exportní workflow nejsou určeny.
 
 ## Textová struktura
-V source/manuscript/ jsou stabilně pojmenované soubory podle témat. Jejich názvy ani historická čísla v katalogu neurčují finální pořadí.
+V texts/ jsou stabilně pojmenované soubory podle témat. Jejich názvy ani historická čísla v katalogu neurčují finální pořadí.
+Přehled textů poskytuje texts/README.md; jde pouze o navigaci. Projektové dokumenty zůstávají v kořeni, project-memory/ a docs/.
 Každý nynější text má hlavičku s původem a označením pracovního importu. Finální lineární obsah dosud neexistuje.
 Koncepční opory: noční sebeodsuzování, sdílenost, rozlišení chyby a identity, hodná holčička/hodná žena, bolest obrácená proti sobě a závěrečné svolení k něze. Jejich finální členění zůstává otevřené.
 

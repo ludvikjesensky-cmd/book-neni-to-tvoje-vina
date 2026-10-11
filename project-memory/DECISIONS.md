@@ -58,3 +58,10 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 
 ## Historické návrhy bez statusu rozhodnutí
 Šest kapitol (2025), 14 mikrokapitol, sedmidílná/26kapitolová struktura, 34 kapitol i následných 12–15 kapitol byly pracovní varianty v různých fázích. Žádnou z nich tato inicializace nepovyšuje na finální obsah. Viz HISTORY a OPEN_QUESTIONS.
+
+## D009 — Samostatná složka texts
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: všechny texty knihy ukládat v kořenové složce texts/, odděleně od projektové dokumentace.
+- Důvod: autor požaduje přehledné oddělení projektu a kapitol.
+- Důsledky: dosavadních šest souborů přesunuto ze source/manuscript/ do texts/; texts/README.md je pouze navigace. Obsah kapitol se tím nemění. Upřesňuje úložnou cestu D008.
+- Zdroj: explicitní zadání autora v konverzaci 2026-10-11.

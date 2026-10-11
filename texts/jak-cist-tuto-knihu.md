@@ -1,6 +1,6 @@
 # Jak číst tuto knihu
 
-> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 213–215; viz [katalog](../../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
+> Pracovní import historického textu, 2026-10-11. Zdroj E01, strany 213–215; viz [katalog](../docs/SOURCE_CATALOG.md). Není finálně schválená verze ani závazné pořadí kapitol.
 
 Nemusíš ji číst od začátku do konce.
 Nemusíš si pamatovat všechno, co v ní zazní.
