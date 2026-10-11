@@ -100,3 +100,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Zachována i redakční doporučení „už znovu neotevírat otázku struktury“, cíl odjet z Nového Dvora s definitivní strukturou a pracovní otázka „Co je vlastně tato kniha?“.
 - Tento přenos neuzavírá Q001 a nepřepisuje žádnou pracovní kapitolu ani dřívější osnovu.
 - V této pozdější dostupné části nebyly nalezeny nové celé literární texty určené čtenářce; převážná část rozhovoru se týká pracovního prostředí, psacích nástrojů, Markdownu a AI workflow a nebyla zaměněna za rukopis.
+
+
+## Doplnění E13 z nejpozdější dostupné části konverzace 2026-10-11
+- Přidány čtyři neduplicitní podklady: koncepce knihy jako návratové „lékárničky“ s dvojí čitelností, nová pracovní varianta „Jak číst…“, celý redakční dialog „celek před efektem“ a nová pracovní noční kapitola „Když se všechno obrátí proti tobě“.
+- E13 zachovává autorovu formulaci, že čtenářka se ke knize vrací pro jednu stránku, odstavec či větu v noci, v práci na záchodě nebo v autě před domem, když se bojí, že bolest sama neunese.
+- Nová noční kapitola je archivována jako další varianta. Nenahrazuje E07/E09 ani současný pracovní výběr v kořeni `texts/`.
+- Žádný další historický E02 fragment nebyl tímto průchodem doplněn do původního celku. Starší materiály, které už byly úplně uloženy v E01/E06–E12, nebyly duplikovány.
+- Tento přenos nemění Q001/Q003 a neurčuje finální osnovu ani finální znění úvodu či první kapitoly.
