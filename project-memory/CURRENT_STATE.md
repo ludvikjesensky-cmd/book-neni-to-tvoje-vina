@@ -51,3 +51,12 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Zachováno celé znění nového pracovního úvodu „Sedím si teď vedle tebe“, tří návrhů úvodního bloku, 37 témat viny, návrhu 14 témat, 29 samostatných náplastí a jejich pracovního napárování.
 - Zachovány autorské formulace, že kniha nemá být výčtem bolestí, ale pohlazením a objetím, a že autor nepovažuje celek za uzavřený.
 - Tyto texty jsou podklady. Neuzavírají Q001 ani Q002 a nepřepisují současných šest pracovních textů.
+
+
+## Doplnění E07 z přímo dostupné konverzace 2026-10-11
+- Uloženy tři celé pracovní texty, které v dosavadním harvestu chyběly nebo byly jen fragmentární: „Když vina přijde místo spánku“, „Nemusíš nést, co tě zraňuje“ a „Jsem úplně blbá.“
+- U „Jsem úplně blbá.“ je nyní vedle starého fragmentárního E02 dostupné celé znění současné konverzace. U „Nemusíš nést, co tě zraňuje“ je nyní vedle V011 dostupný celý text.
+- Noční kapitola E07 je zachována jako samostatná varianta vedle E05; nebyla sloučena ani prohlášena za novější či finální.
+- Doplněny koncepční podklady o knize jako lékárničce, dvojí čitelnosti, šesti pracovních rozsudcích druhé části a o vině, která se z chyby mění v identitu.
+- Text „Jak číst tuhle knihu, když nemáš sílu číst“ nebyl duplikován, protože už je v E01 v plném znění. M044 již zachycuje redakční princip rytmu a „šperkárny po výbuchu“.
+- Přenos nemění finální osnovu ani status existujících pracovních kapitol.
