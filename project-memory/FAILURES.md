@@ -27,8 +27,9 @@
 - Podmínka návratu: větší rozsah pouze vědomým novým rozhodnutím, nikoli automatickým přidáváním.
 
 ## F004 — Opakování vstupu
-- Období: 2026-07-30; zdroj E02.
+- Období: 2026-07-30; upřesněno 2026-10-11; zdroj E02 a E09.
 - Cíl: silný úvod a první kapitola.
-- Výsledek: autor upozornil na opakování výčitek a titulní věty.
-- Příčina: oba texty plnily podobnou funkci.
-- Podmínka nápravy: oddělit pozvánku od prožitku, prověřit návaznost celku.
+- Výsledek: autor upozornil na opakování stejného mechanismu: připomenutí známých výčitek, věta „Není to tvoje vina“ a dovětek, že jí zatím nemusí věřit.
+- Příčina: oba texty plnily podobnou emoční funkci a úvod už začal dělat práci první kapitoly.
+- Riziko: déjà vu, oslabení prvního skutečného zaznění titulní věty a rozmazání dramaturgické cesty.
+- Podmínka nápravy: úvod pouze otevírá dveře a dovoluje nepravidelné čtení; první kapitola je čistý prožitek bez výkladu; pochopení mechanismu přijde později. Titulní větu nepoužívat mechanicky na každé druhé stránce.

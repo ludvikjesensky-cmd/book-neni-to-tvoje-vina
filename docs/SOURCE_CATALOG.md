@@ -230,3 +230,23 @@ Charakteristické formulace „Nemusela jsi to zvládnout líp“, „Ráno vsta
 - Původní úplný text „Jak číst tuhle knihu, když nemáš sílu číst“ z E01 zůstává zachován beze změny. E08 ukládá odlišnou pozdější variantu, nikoli kopii původní verze.
 - Původní noční kapitola E07 zůstává zachována beze změny. Pokus o její širší přepis nebyl při tomto přenosu vydáván za náhradu; důležitější je zde zachycené autorovo rozhodování, že složitější verze ztratila jednoduchost původního textu.
 - Návrh sedmi kapitol první části je archivován pouze jako pracovní struktura. Neuzavírá Q001/Q002 ani nepřepisuje existující pracovní kapitoly.
+
+
+## E09 — další přímo dostupná část konverzace 2026-10-11
+
+- Zdroj: tato přímo dostupná konverzace 2026-10-11.
+- Rozsah: autorova námitka proti opakování stejného mechanismu v úvodu a první kapitole; explicitní souhlas s jejich oddělením; nový krátký úvod „Jak číst…“; dvě celé následné varianty první kapitoly „Když vina přijde místo spánku“.
+- Úplnost: úplné znění níže uvedených výměn tak, jak jsou přímo dostupné v aktuálním kontextu. Tím není prokázána úplnost částí historie, které v aktuálním kontextu dostupné nejsou.
+- Název konverzace ani její stabilní přímý odkaz nejsou pro tuto část používány, protože nejsou potřeba k identifikaci uloženého znění.
+- Přílohy: v této dostupné části nejsou pro knihu použity žádné přílohy.
+- Metoda: formulace nebyly literárně korigovány ani slučovány. Autorské zadání, text knihy a redakční komentář jsou označeny odděleně.
+
+### Přenesené soubory E09
+- [Oddělení úvodu a první kapitoly](../texts/podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md) — celý redakční dialog o opakování mechanismu a autorovo „Skvěle. Souhlasím.“
+- [„Jak číst…“ jako čistá pozvánka](../texts/podklady/uvod/e09-jak-cist-cista-pozvanka.md) — celý nový pracovní úvod po tomto rozhodnutí, včetně alternativního návrhu názvu a bezprostřední autorovy reakce.
+- [Dvě pozdější varianty první kapitoly](../texts/podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md) — dvě celé po sobě jdoucí varianty; první vznikla po zadání „něžně, laskavě, s empatií a láskou“, druhá po „obrazně, niterně“.
+
+### Porovnání s dosavadním obsahem
+- E09 úvod není identický s kořenovým texts/jak-cist-tuto-knihu.md, E01 variantou ani E08 rozšířenou variantou. Je kratší a funkčně zúžený na pozvání ke čtení, proto je zachován jako samostatná varianta.
+- Obě E09 noční varianty se liší od kořenového historického textu, E05 i E07. Nejsou slučovány a nepřepisují pracovní výběr.
+- D007/F004 už existovaly jako starší záznam oddělení úvodu a první kapitoly. E09 je nepřidává duplicitně jako nové rozhodnutí, ale poskytuje celý přímo dostupný dialog a zpřesňuje důsledky.

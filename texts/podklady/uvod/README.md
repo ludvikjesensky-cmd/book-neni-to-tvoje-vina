@@ -12,6 +12,9 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Až tě to zase v noci probudí](e01-az-te-to-zase-v-noci-probudi.md) | text | E01, s. 101–102 |
 | [Jak číst tuhle knihu, když nemáš sílu číst](e01-jak-cist-kdyz-nemas-silu.md) | text | E01, s. 119–120 |
 | [Jak číst tuto knihu – pozdější přepis](e02-jak-cist-2026-07-30.md) | výňatky | E02 |
+| [Autorské zadání a úvodní pracovní texty](e06-autorske-zadani-a-uvodni-texty.md) | zadání + pracovní varianty | E06 |
+| [Jak číst… a pozdější úpravy](e08-jak-cist-a-upravy.md) | pracovní varianta + redakční připomínka | E08 |
+| [Jak číst… jako čistá pozvánka](e09-jak-cist-cista-pozvanka.md) | pracovní varianta | E09 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 

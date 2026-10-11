@@ -10,6 +10,8 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | --- | --- | --- |
 | [Když v noci nemůžeš usnout](e05-kdyz-v-noci-nemuzes-usnout.md) | text | E05, s. 119–122 |
 | [Noční kapitola – dva pozdější začátky](e02-noc-2026-07-30.md) | výňatky | E02 |
+| [Když vina přijde místo spánku](e07-kdyz-vina-prijde-misto-spanku.md) | celý pracovní text | E07 |
+| [Když vina přijde místo spánku – dvě pozdější varianty](e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md) | dvě celé pracovní varianty | E09 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 

@@ -44,10 +44,11 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Zdroj: E01 s. 203–212.
 
 ## D007 — Odlišit úvod a první kapitolu
-- Datum: 2026-07-30; stav: ACTIVE.
-- Rozhodnutí: úvod má zvát ke čtení; první kapitola má nést prožitek noci. Neopakovat stejný mechanismus v obou.
-- Důvod: autor upozornil na opakování.
-- Zdroj: E02; úplný pozdější přepis první kapitoly nebyl obnoven.
+- Datum: 2026-07-30; upřesněno 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: úvod má zvát k nepravidelnému čtení a používání knihy jako opory; první kapitola má nést noční prožitek. Neopakovat v obou výčet výčitek + titulní větu + „nemusíš tomu zatím věřit“.
+- Důvod: autor upozornil, že tento mechanismus se opakuje a oslabuje účinek.
+- Důsledky: úvod nemá začínat léčbou ani vysvětlováním. První kapitola má být primárně obrazná literatura bez výkladu mechanismu; titulní „Není to tvoje vina.“ může zaznít až na konci. Vysvětlení bolesti/viny patří do následujících kapitol. Titulní větu v celé knize používat střídmě jako refrén, ne jako slogan.
+- Zdroj: E02; upřesnění a explicitní souhlas autora E09, texts/podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md.
 
 ## D008 — GitHub jako domov projektu
 - Datum: 2026-10-11; stav: ACTIVE.

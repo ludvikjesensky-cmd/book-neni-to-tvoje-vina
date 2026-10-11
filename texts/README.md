@@ -39,3 +39,12 @@ Nové podklady z dostupné konverzace 2026-10-11 jsou uloženy bez zásahu do pr
 - [struktury a redakční pohledy](podklady/osnovy/e06-struktury-a-redakcni-pohledy.md).
 
 E06 je podkladová vrstva. Autor v této konverzaci výslovně uvedl, že knihu ještě nepovažuje za kompletní a nechce, aby se z ní stal jen výčet bolestí.
+
+
+## Přímý přenos současné konverzace E09
+Pozdější část dostupné konverzace 2026-10-11 doplňuje tři podklady bez zásahu do pracovního výběru:
+- [nový krátký úvod „Jak číst…“](podklady/uvod/e09-jak-cist-cista-pozvanka.md),
+- [dvě pozdější varianty první noční kapitoly](podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md),
+- [redakční dialog o oddělení funkcí úvodu a první kapitoly](podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md).
+
+Tento přenos zpřesňuje dramaturgický princip, ale neurčuje finální osnovu ani nevybírá definitivní textovou variantu.

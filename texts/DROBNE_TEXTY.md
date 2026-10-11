@@ -158,3 +158,14 @@ E06 nepovyšuje návrh 14 mikrokapitol ani žádnou jinou osnovu na finální ob
 | [E08 — Jak číst… a pozdější úpravy](podklady/uvod/e08-jak-cist-a-upravy.md) | rozšířená pracovní varianta „Jak číst…“, autorova připomínka ke slovu „výkon“, tři náhradní formulace | pracovní varianty + autorská připomínka |
 | [E08 — První část a redakční rozhodování](podklady/osnovy/e08-prvni-cast-a-redakcni-rozhodovani.md) | rozhodování, zda zachovat původní noční kapitolu; návrh sedmi kapitol první části | redakční podklad, nikoli finální osnova |
 | [E08 — Něco je tvoje. Ale ne všechno.](podklady/odpovednost-a-cizi-vina/e08-neco-je-tvoje-ale-ne-vsechno.md) | celý pracovní návrh kapitoly o vlastním dílu odpovědnosti a cizí tíze | pracovní varianta |
+
+
+## E09 — oddělení úvodu a pozdější varianty první kapitoly
+
+| Soubor | Obsah | Status |
+| --- | --- | --- |
+| [E09 — Oddělení úvodu a první kapitoly](podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md) | autorova námitka proti opakování mechanismu, celý redakční dialog a explicitní souhlas | redakční podklad + rozhodnutí |
+| [E09 — Jak číst… jako čistá pozvánka](podklady/uvod/e09-jak-cist-cista-pozvanka.md) | celý kratší pracovní úvod po oddělení funkcí | pracovní varianta |
+| [E09 — Dvě pozdější varianty první kapitoly](podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md) | dvě celé noční varianty a autorovo mezilehlé zadání „Obrazně, niterně“ | pracovní varianty |
+
+E09 nepřepisuje kořenové pracovní texty ani E07/E08. Zpřesňuje D007/F004 a uchovává plné formulace přímo dostupné pozdější části konverzace.

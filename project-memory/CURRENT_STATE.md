@@ -68,3 +68,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Uloženo redakční rozhodování kolem první kapitoly: autor označil širší přepis za složitější než původní a začal preferovat zachování původní jednoduchosti; návrh sedmi kapitol první části je zachován jen jako pracovní možnost.
 - Uložen celý pracovní text „Něco je tvoje. Ale ne všechno.“, který v repozitáři před tímto přenosem nebyl nalezen.
 - Existující E07 noční kapitola ani pracovní kapitoly v kořeni texts/ nebyly přepsány. Finální osnova zůstává otevřená.
+
+
+## Doplnění E09 z přímo dostupné konverzace 2026-10-11
+- Uložena nová krátká varianta „Jak číst…“ vzniklá po explicitním oddělení funkcí úvodu a první kapitoly. Úvod funguje jako pozvání k nepravidelnému používání knihy a záměrně neopakuje celý mechanismus nočního sebeobviňování.
+- Uloženy dvě celé po sobě jdoucí pracovní varianty „Když vina přijde místo spánku“: první po zadání „něžně, laskavě, s empatií a láskou“, druhá po požadavku „obrazně, niterně“. Ani jedna nenahrazuje E07 ani pracovní výběr v kořeni texts/.
+- Uložen celý redakční dialog, v němž autor pojmenoval opakování mezi úvodem a první kapitolou a výslovně souhlasil s jejich radikálním oddělením.
+- D007 a F004 byly upřesněny: úvod zve, první kapitola má primárně zprostředkovat prožitek a vysvětlení mechanismu má přijít až později. Titulní větu je vhodné používat střídmě, aby neztratila sílu.
+- V aktuálně dostupné části této konverzace nejsou použity žádné knižní přílohy. Přenos neprokazuje úplnost částí historie, které nejsou v dostupném kontextu této konverzace přítomné.
