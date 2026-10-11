@@ -60,3 +60,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Doplněny koncepční podklady o knize jako lékárničce, dvojí čitelnosti, šesti pracovních rozsudcích druhé části a o vině, která se z chyby mění v identitu.
 - Text „Jak číst tuhle knihu, když nemáš sílu číst“ nebyl duplikován, protože už je v E01 v plném znění. M044 již zachycuje redakční princip rytmu a „šperkárny po výbuchu“.
 - Přenos nemění finální osnovu ani status existujících pracovních kapitol.
+
+
+## Doplnění E08 z přímo dostupné konverzace 2026-10-11
+- Přeneseny tři další soubory z pozdější části této konverzace, která v E06/E07 ještě nebyla zachycena.
+- Uložena odlišná rozšířená varianta „Jak číst…“ včetně autorovy výslovné připomínky nepoužívat slovo „výkon“ a tří navržených náhrad.
+- Uloženo redakční rozhodování kolem první kapitoly: autor označil širší přepis za složitější než původní a začal preferovat zachování původní jednoduchosti; návrh sedmi kapitol první části je zachován jen jako pracovní možnost.
+- Uložen celý pracovní text „Něco je tvoje. Ale ne všechno.“, který v repozitáři před tímto přenosem nebyl nalezen.
+- Existující E07 noční kapitola ani pracovní kapitoly v kořeni texts/ nebyly přepsány. Finální osnova zůstává otevřená.
