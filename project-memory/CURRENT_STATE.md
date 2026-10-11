@@ -93,3 +93,10 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Přidány tři neduplicitní koncepční podklady E11: smysl knihy a hranice role autora, vývojový oblouk vlastními slovy autora a širší tvůrčí/distribuční záměr.
 - Audit neprokazuje úplnost částí historie, které nejsou v aktuálním kontextu konverzace dostupné. Nedostupné části nebyly rekonstruovány.
 - Žádný další E02 fragment nebyl E11 doplněn do celku.
+
+
+## Doplnění E12 z pozdější dostupné části konverzace 2026-10-11
+- Přidán jeden neduplicitní podkladový soubor s pracovním návrhem páteře knihy: úvod, pět částí a závěr, plus šestikroková vnitřní stavba kapitol.
+- Zachována i redakční doporučení „už znovu neotevírat otázku struktury“, cíl odjet z Nového Dvora s definitivní strukturou a pracovní otázka „Co je vlastně tato kniha?“.
+- Tento přenos neuzavírá Q001 a nepřepisuje žádnou pracovní kapitolu ani dřívější osnovu.
+- V této pozdější dostupné části nebyly nalezeny nové celé literární texty určené čtenářce; převážná část rozhovoru se týká pracovního prostředí, psacích nástrojů, Markdownu a AI workflow a nebyla zaměněna za rukopis.
