@@ -8,3 +8,5 @@
 - **L006 — Autorita potřebuje provenienci.** Původ obnovy 2026-10-11. Návrh asistenta, uživatelovo přijetí a samotný napsaný text jsou různé skutečnosti.
 - **L007 — Počet stran exportu není rozsah rukopisu.** Původ E01. 215 stran zahrnuje rozhovor, návrhy a opakované verze. Počítat až vybraný content master.
 - **L008 — Rozdílná funkce sousedních částí.** Původ D007/F004/E09. Úvod otevírá dveře, první kapitola vtahuje do prožitku a vysvětlení přichází později. Stejný silný mechanismus opakovaný ve dvou sousedních textech se mění z refrénu v redundanci.
+
+- **L009 — Archivace má preferovat neduplikaci před objemem.** Při opakovaném harvestu stejné konverzace nejprve porovnat plná znění a provenienci; nový soubor vzniká jen pro skutečně odlišnou variantu nebo chybějící autorské zadání.
