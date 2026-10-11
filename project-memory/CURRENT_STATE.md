@@ -18,6 +18,12 @@
 - Samostatný navigační rejstřík: texts/DROBNE_TEXTY.md. Kontrola importu: docs/HARVEST_REVIEW.md.
 - Celkem 69 zdrojových textových souborů: šest základních, 52 z prvního rozšíření a 11 tematických zásobníků z druhého průchodu; přehledy se do počtu nepočítají.
 
+## Doplnění po třetím průchodu
+- Devět dalších cílených hledání v historických rozhovorech přineslo 27 sad V015–V041: 90 krátkých úryvků a 956 slov navíc.
+- Doplněny existující tematické zásobníky; zdrojových textových souborů zůstává 69. Rejstřík nyní zahrnuje M001–M060 a V001–V041.
+- Nové nálezy obsahují stárnutí, tělesné prožívání viny, jemné odmítnutí, důstojnost, zpětný pohled a další metafory hlasu autora.
+- Tento průchod přidal výhradně neúplné výňatky E02; neobnovil nové celé kapitoly. Čtyři shody s přímými importy E05 byly vyřazeny.
+
 ## Známé mezery
 - Úplnost všech historických rozhovorů a rukopisných verzí není prokázána. Vyhledávání neposkytuje úplný archiv.
 - Pozdější noční přepisy a úvod z 30. 7. jsou v E02 jen v úryvcích.

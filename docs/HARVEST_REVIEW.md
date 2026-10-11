@@ -29,3 +29,31 @@ Technické značky, samotná přitakání, opakované nabídky dalšího kroku a
 Toto není potvrzení úplnosti všech rozhovorů ani všech možných literárních inspirací. Je to doložené další vytěžení dostupných zdrojů. Vyhledávání neposkytlo plné primární přepisy některých starších textů. Zejména nelze tvrdit úplné obnovení „Sednu si vedle tebe“, „Jsem úplně blbá.“, „Nemusíš nést, co tě zraňuje“ a celé lednové sady náplastí. Dochovaný manifest je jiný text než hledaný úvod „Sednu si vedle tebe“.
 
 Ani název nebo citovaná věta v souhrnu není důkazem existence celé kapitoly v repozitáři. Nový text dopisovaný při budoucí redakci musí být označen jako nová práce, nikoli jako nalezený originál.
+
+## Třetí průchod 2026-10-11
+
+Tento průchod rozšířil vyhledávání E02 namísto dalšího rozmnožování týchž PDF. Devět hledání přineslo 27 sad fragmentů (90 úryvků, 956 slov), uložených jako V015–V041 ve stávajících tematických zásobnících.
+
+### Nově zachycené oblasti
+
+- Stárnutí jako nenápadné stmívání, tvář ženy, která vydržela, a ticho po změně životní role.
+- Odpočinek, při kterém duše dohání tělo; vděčnost tělu a pomalé ráno.
+- Lednové věty o tělesné vině, hodné holce a drobném okamžiku na své straně.
+- Únorové a jarní formulace o bezmoci, tvrdnutí bolesti, malém prostoru před sebeobviněním a třesoucím se „ne“.
+- Dubnové zpětné hodnocení: žena tehdy v příběhu žila; ostří pozdější věty.
+- Červencové obrazy důstojnosti, vyšetřování minulosti, očí jako krajiny a slov jako lavičky.
+
+### Kontrola opakování
+
+Před přenosem porovnány jednotlivé kandidátní úryvky se všemi textovými podklady v repozitáři; pro kontrolu sjednocena velikost písmen, mezery a interpunkce. Čtyři shody nebyly kopírovány:
+
+- „noc je někdy jediné místo, kde už tvé srdce nemusí předstírat, že to nebolí“ — již v [existujícím textu](../texts/podklady/nejsi-sama/e05-nejsi-spatna-ze-tohle-citis.md).
+- „Nejsi stroj. Nejsi chyba v systému. Nejsi úkol k vyřešení.“ — již v [existujícím textu](../texts/podklady/nejsi-sama/e05-nejsi-spatna-ze-tohle-citis.md).
+- „Tvoje hodnota není odměna za to, že se zmenšíš.“ — již v [existujícím textu](../texts/podklady/zaver-a-nadeje/e05-ale-takhle-to-byt-nemusi.md).
+- „Nemusíš se dál ztrácet, aby tě někdo neopustil.“ — již v [existujícím textu](../texts/podklady/zaver-a-nadeje/e05-ale-takhle-to-byt-nemusi.md).
+
+Kontrola neprokazuje významovou jedinečnost všech vět. Dvě mírně odlišné formulace mohou být záměrně uchované jako varianty, stejně jako částečně překryté fragmenty téhož textu. To platí zejména pro začátky textu o stárnutí a různé věty o samotě ve vztahu.
+
+### Co další hledání neobnovilo
+
+Celou lednovou sadu dvaceti náplastí, celý dubnový návrh ani celé texty „Jinýma očima“ a „Pár slov“ se nepodařilo načíst; dostupné jsou jen citované části. Dodatečné hledání dalších krátkých textů z 23. listopadu nevrátilo další výsledky. Nesouvisející duchovní a vánoční texty, které vyhledávání také nabídlo, nebyly zařazeny do této knihy. Stejně tak nebyly převzaty neúplně uříznuté citace bez použitelného znění.

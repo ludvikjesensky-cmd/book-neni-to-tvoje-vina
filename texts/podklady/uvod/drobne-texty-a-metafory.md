@@ -381,3 +381,64 @@ Zdroj: E02; 2026-03-24 17:56:59 UTC. Neúplné znění.
 
 Počkej. Možná… to tentokrát není moje vina.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V040
+
+**Jinýma očima – červencový náčrt**
+
+Zdroj: E02; 2026-07-30 20:50:34 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh. Související literární tvorba; její konečné zařazení do knihy není rozhodnuté.
+
+### Úryvek 1
+
+Vždycky jsem se rád díval na svět kolem sebe a hledal v něm krásu…
+
+### Úryvek 2
+
+lidské oči jsou možná tou nejkrásnější krajinou na světě
+
+### Úryvek 3
+
+dlaň, která se tiše dotkne ramene
+
+### Úryvek 4
+
+místo, kde člověk smí na chvíli odložit to, co už tak dlouho nese
+
+## V041
+
+**Pár slov – červencový text**
+
+Zdroj: E02; 2026-07-30 21:00:13 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh. Související literární tvorba; její konečné zařazení do knihy není rozhodnuté.
+
+### Úryvek 1
+
+Myslel jsem si, že hledat krásu znamená dívat se kolem sebe. Až mnohem později jsem pochopil, že se někdy musím podívat blíž. Do lidské tváře. Do očí.
+
+### Úryvek 2
+
+Slova … mohou však být jako lavička u jejího okraje. Místo, na které si člověk na chvíli sedne…
+
+### Úryvek 3
+
+zapomenou předstírat
+
+### Úryvek 4
+
+den za dnem, starost za starostí, zklamání za zklamáním
+
+### Úryvek 5
+
+Nemusíš přede mnou předstírat, že jsi v pořádku.
+
+### Úryvek 6
+
+Nemusíš být pořád silná.
+
+### Úryvek 7
+
+Jsem tady.
+

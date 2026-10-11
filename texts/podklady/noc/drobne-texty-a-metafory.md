@@ -93,3 +93,22 @@ Jak jsem na to mohla zapomenout?
 
 Proč zase nic nezvládám?
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V039
+
+**Minulost jako vyšetřování**
+
+Zdroj: E02; 2026-07-23 13:28:50 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Minulost se mění ve vyšetřování a ona je současně obžalovanou, žalobkyní i soudkyní
+
+### Úryvek 2
+
+Vina pro tebe možná nebyla jen trestem. Někdy byla také útočištěm před bezmocí, hněvem, smutkem a pravdou o druhém člověku
+

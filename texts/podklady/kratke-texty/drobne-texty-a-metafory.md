@@ -346,3 +346,94 @@ Možná nepotřebuješ jen odpočívat. Možná potřebuješ někde být celá�
 
 Já už se za sebe nechci omlouvat.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V018
+
+**Odpočinek, tělo a pravdivé oči**
+
+Zdroj: E02; 2025-11-23 08:58:19 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh. Související literární tvorba; její konečné zařazení do knihy není rozhodnuté.
+
+### Úryvek 1
+
+Den bez výkonu není prázdný den. Je to den, kdy tvoje duše konečně stihne dohnat tvoje tělo.
+
+### Úryvek 2
+
+Děkuju, že jsi mě neslo, když jsem sama nevěděla, jak dál.
+
+### Úryvek 3
+
+Pomalé ráno je dar, který sis odpracovala.
+
+### Úryvek 4
+
+Stačí pár očí, ve kterých se vidíš pravdivě.
+
+## V024
+
+**Únorové náměty o těle a přijetí**
+
+Zdroj: E02; 2026-02-26 10:12:19 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Nejsi špatná máma
+
+### Úryvek 2
+
+Nemusíš všechno zvládat
+
+### Úryvek 3
+
+Tvoje tělo není chyba
+
+### Úryvek 4
+
+I tak jsi krásná
+
+### Úryvek 5
+
+Nemusíš se zmenšovat, aby ses mohla líbit
+
+### Úryvek 6
+
+Nemusíš být menší, abys byla milovaná
+
+### Úryvek 7
+
+Tvé tělo si nezaslouží stud
+
+### Úryvek 8
+
+Nemusíš se nejdřív změnit, aby ses mohla mít ráda
+
+## V026
+
+**Březnové vnitřní věty**
+
+Zdroj: E02; 2026-03-04 14:45:02 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Neměla jsem to dopustit.
+
+### Úryvek 2
+
+Už nemůžu. A stydím se za to.
+
+### Úryvek 3
+
+Nevím, co chci. Tak raději mlčím.
+
+### Úryvek 4
+
+Když řeknu ne, budu zlá.
+
+### Úryvek 5
+
+Kdybych odpustila, bolelo by to míň…
+

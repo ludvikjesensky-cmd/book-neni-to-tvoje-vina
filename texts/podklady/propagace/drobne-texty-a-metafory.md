@@ -51,3 +51,26 @@ Tvoje věta „Není to tvoje vina“ je přesně ten hlas,
 který ženy v sobě nechaly umlčet.
 A ty jim ho teď přinášíš zpět.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V029
+
+**Malá kniha první pomoci**
+
+Zdroj: E02; 2026-03-30, rozmezí 15:02:03–17:03:48 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Slova pro unavenou ženu
+
+### Úryvek 2
+
+malá kniha první pomoci
+
+### Úryvek 3
+
+Kniha, kterou nečteš celou. Kniha, po které sáhneš, když je ti nejhůř.
+

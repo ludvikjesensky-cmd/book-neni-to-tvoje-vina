@@ -89,3 +89,52 @@ Možná nejsi sama v domě… Ale s touhle konkrétní bolestí jsi stejně sama
 
 Nejdřív nepřicházím vzít ti vinu. Přicházím, aby ses v ní necítila sama.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V034
+
+**Samota vedle druhého člověka**
+
+Zdroj: E02; 2026-04-16 18:32:30 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Nejhorší samota není ta, když jsi sama. Ale když ležíš vedle někoho, kdo tě už dávno nevnímá.
+
+### Úryvek 2
+
+Žena často neztichne proto, že už necítí nic. Ale proto, že cítila příliš dlouho sama.
+
+### Úryvek 3
+
+Není tvoje vina, že jsi unavená z lásky
+
+### Úryvek 4
+
+I otupělost je někdy forma bolesti
+
+### Úryvek 5
+
+Nemusíš se rozhodnout dnes.
+
+## V035
+
+**Lhostejnost a ztracená víra v lásku**
+
+Zdroj: E02; 2026-04-16 18:44:13 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Nejhorší samota není, když jsi sama. Ale když ležíš vedle někoho, kdo tě už nevidí.
+
+### Úryvek 2
+
+Žena často nepřestane chtít lásku. Jen přestane věřit, že k ní ještě dojde.
+
+### Úryvek 3
+
+Nejvíc bolí, když tě nezraní křik. Ale lhostejnost.
+

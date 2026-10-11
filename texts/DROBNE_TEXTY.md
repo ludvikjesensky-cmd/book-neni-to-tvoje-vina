@@ -89,3 +89,39 @@ Doplnění z druhého podrobného průchodu 2026-10-11. 60 přímo převzatých 
 | [V014](podklady/uvod/drobne-texty-a-metafory.md#v014) | Počkej – březnový návrh | 2026-03-24 17:56:59 UTC |
 
 Souvislé historické texty a starší sbírky zůstávají dostupné v tematických přehledech. Tento rejstřík pokrývá nově doplněné drobnosti, nikoli celý rukopis. Starší anglické názvy a manifest jsou zachovány jako předhistorie knihy. Zobecnění a redakční doporučení v historických návrzích nejsou ověřenými odbornými tvrzeními ani novými rozhodnutími.
+
+## Třetí průchod — další rozhovory
+
+Dalších 27 sad V015–V041, celkem 90 samostatně uvedených úryvků (956 slov). Jde o menší fragmenty a varianty, ne o 90 nových unikátních myšlenek ani celé kapitoly. Čtyři formulace nalezené znovu již byly v přímých importech E05 a nebyly kopírovány.
+
+| ID | Pasáž | Datum podle vyhledávání |
+| --- | --- | --- |
+| [V015](podklady/odpovednost-a-cizi-vina/drobne-texty-a-metafory.md#v015) | Listopadový úvodní blok | 2025-11-15 07:54:10 UTC |
+| [V016](podklady/osnovy/drobne-texty-a-metafory.md#v016) | Objetí kolem ramen a rytmus držení | 2025-11-15 08:33:12 UTC |
+| [V017](podklady/zaver-a-nadeje/drobne-texty-a-metafory.md#v017) | Ten tichý okamžik, kdy si uvědomíš, že stárneš | 2025-11-23 08:40:08 UTC |
+| [V018](podklady/kratke-texty/drobne-texty-a-metafory.md#v018) | Odpočinek, tělo a pravdivé oči | 2025-11-23 08:58:19 UTC |
+| [V019](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v019) | Když se vina uloží do těla – lednová věta | 2026-01-29 15:30:06 UTC |
+| [V020](podklady/detstvi-a-hodna-holka/drobne-texty-a-metafory.md#v020) | Hodná holka – lednové fragmenty | 2026-01-29 15:30:06 UTC |
+| [V021](podklady/zaver-a-nadeje/drobne-texty-a-metafory.md#v021) | Drobný okamžik na své straně | 2026-01-29 15:30:06 UTC |
+| [V022](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v022) | Bolest mění tvar; místo pro bezmoc | 2026-02-25 13:20:40 UTC |
+| [V023](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v023) | Vina bolí méně než nezachráněná láska | 2026-02-25 13:30:51 UTC |
+| [V024](podklady/kratke-texty/drobne-texty-a-metafory.md#v024) | Únorové náměty o těle a přijetí | 2026-02-26 10:12:19 UTC |
+| [V025](podklady/detstvi-a-hodna-holka/drobne-texty-a-metafory.md#v025) | Omlouvat se dříve než chránit | 2026-03-04 14:45:02 UTC |
+| [V026](podklady/kratke-texty/drobne-texty-a-metafory.md#v026) | Březnové vnitřní věty | 2026-03-04 14:45:02 UTC |
+| [V027](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v027) | Malá mezera před sebeobviněním | 2026-03-24 17:42:28 UTC |
+| [V028](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v028) | Bolest dostala známé jméno | 2026-03-24 17:56:59 UTC |
+| [V029](podklady/propagace/drobne-texty-a-metafory.md#v029) | Malá kniha první pomoci | 2026-03-30, rozmezí 15:02:03–17:03:48 UTC |
+| [V030](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v030) | Bolest tvrdne; vina jako bezpečnější pravda | 2026-04-16 16:15:49 UTC |
+| [V031](podklady/zaver-a-nadeje/drobne-texty-a-metafory.md#v031) | Malé třesoucí se ne | 2026-04-16 16:28:59 UTC |
+| [V032](podklady/bolest-a-vina/drobne-texty-a-metafory.md#v032) | Pocit není důkaz a šaty jsou snesitelnější než bezmoc | 2026-04-16 17:12:58 a 17:22:58 UTC |
+| [V033](podklady/odpovednost-a-cizi-vina/drobne-texty-a-metafory.md#v033) | Zůstávala jsi, dokud žila naděje | 2026-04-16 17:30:50 UTC |
+| [V034](podklady/nejsi-sama/drobne-texty-a-metafory.md#v034) | Samota vedle druhého člověka | 2026-04-16 18:32:30 UTC |
+| [V035](podklady/nejsi-sama/drobne-texty-a-metafory.md#v035) | Lhostejnost a ztracená víra v lásku | 2026-04-16 18:44:13 UTC |
+| [V036](podklady/chyba-a-rozsudek/drobne-texty-a-metafory.md#v036) | Ostří věty míří špatným směrem | 2026-04-17 14:02:53 UTC |
+| [V037](podklady/chyba-a-rozsudek/drobne-texty-a-metafory.md#v037) | Měla jsem to poznat dřív – dubnový návrh | 2026-04-17 14:04:54 UTC |
+| [V038](podklady/zaver-a-nadeje/drobne-texty-a-metafory.md#v038) | Smutek a důstojnost | 2026-07-23 12:33:11 UTC |
+| [V039](podklady/noc/drobne-texty-a-metafory.md#v039) | Minulost jako vyšetřování | 2026-07-23 13:28:50 UTC |
+| [V040](podklady/uvod/drobne-texty-a-metafory.md#v040) | Jinýma očima – červencový náčrt | 2026-07-30 20:50:34 UTC |
+| [V041](podklady/uvod/drobne-texty-a-metafory.md#v041) | Pár slov – červencový text | 2026-07-30 21:00:13 UTC |
+
+Rozsah dalších hledání a omezení: [kontrola pokrytí](../docs/HARVEST_REVIEW.md). Všechny položky této části jsou neúplné výňatky E02, jejich primární doslovnost není ověřena. Část pochází z širší související tvorby a slouží jako inspirační zásoba.

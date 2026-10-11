@@ -58,3 +58,44 @@ Asi se nedá milovat.
 
 Tehdy jsem nevěděla to, co vím dnes. A přesto jsem dělala to nejlepší, čeho jsem byla v té chvíli schopná.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V036
+
+**Ostří věty míří špatným směrem**
+
+Zdroj: E02; 2026-04-17 14:02:53 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+někdo sedí vedle ženy, nebere jí tu větu z ruky, ale pomalu jí ukazuje, že ostří té věty míří špatným směrem
+
+## V037
+
+**Měla jsem to poznat dřív – dubnový návrh**
+
+Zdroj: E02; 2026-04-17 14:04:54 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Ty ses tehdy nedívala zpětně. Ty jsi v tom žila. To je velký rozdíl.
+
+### Úryvek 2
+
+A právě proto je tak ostrý.
+
+### Úryvek 3
+
+Možná jsi tehdy věděla přesně tolik, kolik jsi v té chvíli mohla unést.
+
+### Úryvek 4
+
+Důvěra není chyba. Naděje není chyba.
+
+### Úryvek 5
+
+A to není vina. To je lidskost.
+

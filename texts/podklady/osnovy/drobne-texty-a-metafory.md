@@ -178,3 +178,26 @@ Ne všechno, co jsi nesla, bylo tvoje.
 Tohle by byl práh mezi první a druhou částí knihy.
 Tichá, jednoduchá kapitola. Ne další analýza. Spíš zastavení po všem, co už žena uviděla.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V016
+
+**Objetí kolem ramen a rytmus držení**
+
+Zdroj: E02; 2025-11-15 08:33:12 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+objetí kolem ramen
+
+### Úryvek 2
+
+bolest – pochopení – ulehčení
+
+### Úryvek 3
+
+Za každý jeden odstavec bolesti aspoň jeden odstavec držení a pohlazení.
+

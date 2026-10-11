@@ -221,3 +221,40 @@ Opravdu je tohle moje?
 
 Nemusíš nést všechno, co tě zraňuje.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V015
+
+**Listopadový úvodní blok**
+
+Zdroj: E02; 2025-11-15 07:54:10 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Možná toho neseš moc. A možná ani zdaleka ne všechno z toho je tvoje.
+
+### Úryvek 2
+
+Ne všechno, co bolí, je moje vina.
+
+### Úryvek 3
+
+Není to všechno tvoje. A není to všechno tvoje vina.
+
+## V033
+
+**Zůstávala jsi, dokud žila naděje**
+
+Zdroj: E02; 2026-04-16 17:30:50 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+pořád jsi tady. A já taky
+
+### Úryvek 2
+
+Možná jsi jen zůstávala tak dlouho, jak dlouho ještě žila tvoje naděje.
+

@@ -19,3 +19,6 @@ Znovu prohledány rozhovory a přímo přečteny tři unikátní PDF exporty E01
 
 ## 2026-10-11 — Druhý průchod po drobných formulacích
 Na výslovnou žádost autora znovu porovnány zdrojové úseky s dosavadními importy. Doplněno 60 pasáží E01 a 14 sad výňatků E02, tematicky v 11 souborech. Přibyl rejstřík drobností a kontrola pokrytí. Obnoven i manifest a rané zásobníky témat; jejich širší původ je označen. Celé původní kapitoly nebyly přepisovány.
+
+## 2026-10-11 — Třetí průchod dalšími rozhovory
+Na opakované zadání autora devět cílených hledání historických rozhovorů. Doplněno 27 sad (90 krátkých výňatků, 956 slov) do stávajících tematických souborů. V rejstříku přibyly V015–V041. Vyřazeny čtyři textové shody s dosavadními importy a nesouvisející výsledky. Rozšíření poskytuje další drobnosti, nikoli potvrzení úplnosti historického archivu.

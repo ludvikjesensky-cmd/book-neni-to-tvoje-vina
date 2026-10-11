@@ -162,3 +162,13 @@ Přímé úseky jsou odvozené z konkrétních řádků E01 bez přepsání form
 Porovnáno se všemi dosavadními textovými soubory: žádný z 60 celých nových úseků není doslovnou kopií celého úseku již uloženého v repozitáři po sjednocení bílých znaků. Některé jednotlivé věty se přirozeně opakují v různých diskusích a variantách; jejich kontext je zachován. Opakované položky uvnitř původního anglického seznamu nebyly potichu škrtány.
 
 Podrobnosti, co se kontrolovalo a co zůstalo mimo knižní import: [kontrola pokrytí](HARVEST_REVIEW.md).
+
+## Třetí průchod — další rozhovory E02
+
+Dne 2026-10-11 provedeno devět dalších cílených vyhledání v rozhovorech: tři časové okruhy (listopad–leden, únor–květen, červenec), tři dohledání konkrétních textů (stárnutí, „Měla jsem to poznat dřív“, „Jinýma očima“ / „Pár slov“) a tři dohlédnutí (lednové mikrokapitoly, další dubnové formulace, listopadové krátké texty).
+
+Přeneseno 27 sad V015–V041, 90 citovaných úryvků, 956 slov. Přesná přiřazení dat a tematické odkazy jsou v [rejstříku](../texts/DROBNE_TEXTY.md). Přibyly pouze výňatky E02. Žádná nová celá kapitola ani přímý PDF přepis nebyly tímto průchodem obnoveny.
+
+U delších citací byly odstraněny pouze vnější citační uvozovky a prezentační kurzíva výsledku; zachovány výpustky i neúplné začátky/kontext. Překrývající se varianty počátku textu o stárnutí jsou uvedeny odděleně; nedoplňují se do domnělého originálu. Některé krátké věty zůstávají významově obdobné již uloženým formulacím, jde však o další vrácené varianty.
+
+Datum u každé sady je údaj vyhledávání, ne nově ověřená datace primárního dokumentu. Výsledky někdy tvrdí „celý text“ a současně poskytují jen několik úryvků. Do repozitáře vstupuje pouze vrácené znění, nikdy domnělá chybějící část.

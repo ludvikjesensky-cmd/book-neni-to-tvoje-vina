@@ -2,7 +2,7 @@
 
 Texty jsou uspořádány podle kapitol a témat. Šest souborů v kořeni texts/ tvoří dosavadní pracovní výběr. Ve složce podklady/ jsou další historické varianty, fragmenty a rozpracování. Nic z toho samo o sobě neurčuje finální obsah ani pořadí knihy.
 
-Nově doplněné jednotlivé věty, metafory, autorská zadání a malé odstavce najdeš v [rejstříku drobných textů](DROBNE_TEXTY.md). U každého je konkrétní zdroj a odkaz na příslušné téma.
+Jednotlivé věty, metafory, autorská zadání a malé odstavce najdeš v [rejstříku drobných textů](DROBNE_TEXTY.md). U každého je konkrétní zdroj a odkaz na příslušné téma. Rejstřík zahrnuje i další listopadové, lednové, jarní a červencové fragmenty z třetího průchodu.
 
 ## Mapa kapitol a podkladů
 

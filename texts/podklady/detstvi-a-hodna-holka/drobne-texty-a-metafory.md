@@ -114,3 +114,40 @@ dětství. Napiš to s láskou, něhou a vlídností
 Rozumím. A myslím, že právě tahle kapitola může být velmi tichá. Ne jako vysvětlení dětství, ale jako
 návrat k malé holčičce, která se jen snažila být milovaná.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V020
+
+**Hodná holka – lednové fragmenty**
+
+Zdroj: E02; 2026-01-29 15:30:06 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Hodná holka často znamená: nezlobit. Nepřekážet. Nebýt moc.
+
+### Úryvek 2
+
+Nemusíš být hodná, abys měla právo existovat.
+
+## V025
+
+**Omlouvat se dříve než chránit**
+
+Zdroj: E02; 2026-03-04 14:45:02 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Hodná holčička se učí omlouvat dřív, než se učí chránit
+
+### Úryvek 2
+
+Empatie, která tě naučila nést i to, co není tvoje
+
+### Úryvek 3
+
+Proč se ženské ‚měla jsem‘ vrací tak často
+

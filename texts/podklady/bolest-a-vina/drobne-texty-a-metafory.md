@@ -170,3 +170,98 @@ Bolest, která je příliš, si přepíšeš na vinu…
 
 Není to tvoje vina. Jen jsi moc dlouho nesla víc, než bylo tvoje.
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V019
+
+**Když se vina uloží do těla – lednová věta**
+
+Zdroj: E02; 2026-01-29 15:30:06 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Vina není jen myšlenka. Vina umí být tělesná.
+
+## V022
+
+**Bolest mění tvar; místo pro bezmoc**
+
+Zdroj: E02; 2026-02-25 13:20:40 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Bolest, kterou člověk nese sám příliš dlouho, začne měnit tvar… A pak… se z ní stane výčitka.
+
+### Úryvek 2
+
+Někdy ses neobviňovala proto, že jsi byla vinná. Ale proto, že jsi neměla kam položit bezmoc.
+
+## V023
+
+**Vina bolí méně než nezachráněná láska**
+
+Zdroj: E02; 2026-02-25 13:30:51 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Vina někdy bolí míň než pravda, že ses snažila… a stejně to nestačilo. Že jsi milovala… a stejně to nešlo zachránit.
+
+## V027
+
+**Malá mezera před sebeobviněním**
+
+Zdroj: E02; 2026-03-24 17:42:28 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Aby mezi bolestí a sebeobviněním vznikla malá mezera. A v ní nový hlas: Počkej. Možná to tentokrát opravdu není moje vina.
+
+## V028
+
+**Bolest dostala známé jméno**
+
+Zdroj: E02; 2026-03-24 17:56:59 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Možná je to bolest, kterou jsi neměla kam dát. A tak jsi ji vzala k sobě. A dala jí jméno, které jsi znala. Vina.
+
+## V030
+
+**Bolest tvrdne; vina jako bezpečnější pravda**
+
+Zdroj: E02; 2026-04-16 16:15:49 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Bolest, která nemá svědka, začne měnit tvar… když vedle ní nikdo neřekne tohle jsi neměla nést sama… začne tvrdnout… jednou zjistíš, že už jí neříkáš bolest. Ale vina.
+
+### Úryvek 2
+
+Vina je někdy bezpečnější než pravda. Protože když uvěříš, že jsi to způsobila ty, pořád máš pocit, že jsi to mohla změnit.
+
+### Úryvek 3
+
+Možná jsi jen příliš dlouho byla tam, kde se s citem zacházelo jako s přítěží. A tak ses nezačala zmenšovat proto, že bys byla špatně. Ale proto, abys byla snesitelná.
+
+## V032
+
+**Pocit není důkaz a šaty jsou snesitelnější než bezmoc**
+
+Zdroj: E02; 2026-04-16 17:12:58 a 17:22:58 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+cítit vinu ještě neznamená, že jsou vinné
+
+### Úryvek 2
+
+Možná se nemusí trestat za bolest, kterou nezpůsobily
+
+### Úryvek 3
+
+bolest si obléká šaty viny, aby byla snesitelnější než bezmoc
+

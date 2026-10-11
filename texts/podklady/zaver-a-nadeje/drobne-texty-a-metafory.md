@@ -73,3 +73,104 @@ Nechceme radit, nechceme dávat návody, ale žena potřebuje nějaké východis
 dohromady témata a myšlenky, které by tu mohly zaznít. Myslím, že společným motivem by mohlo
 být něco jako "Dovol si...". A zároveň výzva k tomu, aby k sobě byla něžná
 
+
+## Třetí průchod — další výňatky z rozhovorů
+
+Doplněno 2026-10-11. Zdroj E02: vyhledané historické návrhy asistenta. K dispozici jsou citované úseky výsledku vyhledávání, nikoli úplný primární přepis; přesné znění a dataci před publikací ověřit. Jednotlivé úryvky nejsou spojeny do nové kapitoly. Výpustky jsou zachované; návaznost mezi úryvky nelze dovozovat. Označení výsledku „dochovaný celý text“ zde neznamená, že byl celý text skutečně načten.
+
+## V017
+
+**Ten tichý okamžik, kdy si uvědomíš, že stárneš**
+
+Zdroj: E02; 2025-11-23 08:40:08 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh. Související literární tvorba; její konečné zařazení do knihy není rozhodnuté.
+
+### Úryvek 1
+
+Možná to nepřišlo najednou. Ne jako rána, ne jako den, kdy si řekneš: ‚Odteď jsem stará.‘ Spíš potichu. Jako když se večer nenápadně setmí…
+
+### Úryvek 2
+
+Spíš potichu. Jako když se večer nenápadně setmí a ty si toho všimneš až ve chvíli, kdy saháš po vypínači.
+
+### Úryvek 3
+
+Už nejsem ta, která jsem bývala
+
+### Úryvek 4
+
+Už nejsem vidět
+
+### Úryvek 5
+
+Jsem jen ta starší
+
+### Úryvek 6
+
+Tohle je tvář ženy, která dlouho vydržela.
+
+### Úryvek 7
+
+Není tvoje vina, že je to na tobě vidět.
+
+### Úryvek 8
+
+Není tvoje vina, že tě občas děsí, jak čas běží.
+
+### Úryvek 9
+
+Není tvoje vina, že ti někdy chybí dny, kdy tě někdo potřeboval každou minutu.
+
+### Úryvek 10
+
+Není tvoje vina, že někdy stojíš uprostřed pokoje, život za sebou, ticho před sebou a v hlavě otázku: ‚A co teď já?‘
+
+### Úryvek 11
+
+Smíš truchlit za to, co odchází. A zároveň se těšit z toho, co ještě přijde.
+
+## V021
+
+**Drobný okamžik na své straně**
+
+Zdroj: E02; 2026-01-29 15:30:06 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Zůstat na své straně někdy není hrdinské. Někdy je to jen drobný okamžik, kdy se přestaneš opouštět.
+
+## V031
+
+**Malé třesoucí se ne**
+
+Zdroj: E02; 2026-04-16 16:28:59 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Problém je v tom, že ses příliš dlouho pohybovala tam, kde pro hloubku nebylo místo.
+
+### Úryvek 2
+
+Nejsi zlá, když už se nechceš dál zmenšovat.
+
+### Úryvek 3
+
+Někdy nezačíná návrat k sobě velkým rozhodnutím… jedním malým, třesoucím se ‚ne‘.
+
+### Úryvek 4
+
+Jednou se možná… probudíš o něco méně proti sobě.
+
+## V038
+
+**Smutek a důstojnost**
+
+Zdroj: E02; 2026-07-23 12:33:11 UTC podle vyhledávání. Typ: neúplně dostupný historický návrh.
+
+### Úryvek 1
+
+Smutek nepotřebuje viníka
+
+### Úryvek 2
+
+Důstojnost není odměna za bezchybnost.
+
