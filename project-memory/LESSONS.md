@@ -10,3 +10,5 @@
 - **L008 — Rozdílná funkce sousedních částí.** Původ D007/F004/E09. Úvod otevírá dveře, první kapitola vtahuje do prožitku a vysvětlení přichází později. Stejný silný mechanismus opakovaný ve dvou sousedních textech se mění z refrénu v redundanci.
 
 - **L009 — Archivace má preferovat neduplikaci před objemem.** Při opakovaném harvestu stejné konverzace nejprve porovnat plná znění a provenienci; nový soubor vzniká jen pro skutečně odlišnou variantu nebo chybějící autorské zadání.
+
+- **L010 — Pracovní nástroj nesmí převzít autoritu nad textem.** Původ E12. Rozhovor o Scriveneru, Ulysses, Notes, Bearu, Markdownu a AI je důležitý pro workflow, ale není sám o sobě textem knihy. Při harvestu oddělovat rukopis, autorské zadání a pracovní infrastrukturu.
