@@ -149,3 +149,12 @@ E06 nepovyšuje návrh 14 mikrokapitol ani žádnou jinou osnovu na finální ob
 | [E07 — „Jsem úplně blbá.“](podklady/chyba-a-rozsudek/e07-jsem-uplne-blba-cele-zneni.md) | celý pracovní text kapitoly, dříve jen fragmenty E02 | pracovní varianta |
 | [E07-01 až E07-03](podklady/osnovy/drobne-texty-a-metafory.md#e07-01) | lékárnička, dvojí struktura, šest rozsudků, vnitřní soud | koncepční podklady |
 | [E07-04 až E07-05](podklady/chyba-a-rozsudek/drobne-texty-a-metafory.md#e07-04) | každodenní chyba → identita; „Udělala jsem chybu“ vs. „Já jsem chyba“ | autorské zadání + pracovní formulace |
+
+
+## E08 — pozdější práce z přímo dostupné konverzace 2026-10-11
+
+| Soubor | Obsah | Status |
+| --- | --- | --- |
+| [E08 — Jak číst… a pozdější úpravy](podklady/uvod/e08-jak-cist-a-upravy.md) | rozšířená pracovní varianta „Jak číst…“, autorova připomínka ke slovu „výkon“, tři náhradní formulace | pracovní varianty + autorská připomínka |
+| [E08 — První část a redakční rozhodování](podklady/osnovy/e08-prvni-cast-a-redakcni-rozhodovani.md) | rozhodování, zda zachovat původní noční kapitolu; návrh sedmi kapitol první části | redakční podklad, nikoli finální osnova |
+| [E08 — Něco je tvoje. Ale ne všechno.](podklady/odpovednost-a-cizi-vina/e08-neco-je-tvoje-ale-ne-vsechno.md) | celý pracovní návrh kapitoly o vlastním dílu odpovědnosti a cizí tíze | pracovní varianta |
