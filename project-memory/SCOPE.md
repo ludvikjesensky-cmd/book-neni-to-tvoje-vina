@@ -17,3 +17,6 @@ Audio, sociální sítě a další knihy byly zvažovány, nejsou podmínkou dok
 ## Produktové principy
 Slova a literární cesta, nikoli povinná forma dopisů. Něžný, obrazný, niterný hlas, který nechává prostor. Krátké samostatně použitelné pasáže i soudržný celek. Závěr nabízí možnost „Dovol si…“, nikoli další výkon.
 Pevný počet kapitol, slov a stran, definitivní podtitul, edice a formát zůstávají v OPEN_QUESTIONS.
+
+## Hranice související tvorby
+Kanál „Když láska bolí“ a jeho vztahové texty jsou tematicky a hlasově příbuzné, ale nejsou automaticky součástí rukopisu této knihy. Autor 2026-10-11 výslovně oddělil tuto větev větou „Není to na knihu.“ Materiály lze použít jako zdroj autorského hlasu, metafor a poznání publika; zařazení konkrétní pasáže do knihy vyžaduje samostatné autorské rozhodnutí.
