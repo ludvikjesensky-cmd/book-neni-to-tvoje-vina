@@ -96,3 +96,10 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: po přepracování na širší každodenní osu autor uvedl, že nová verze je „mnohem složitější než byla ta původní“ a začal váhat ve prospěch původní verze.
 - Důsledky: E07 se nepřepisuje novější variantou; případné změny první kapitoly mají být chirurgické, nikoli úplná koncepční přestavba. Návrh sedmi kapitol první části v E08 zůstává pouze pracovní strukturou.
 - Zdroj: E08, texts/podklady/osnovy/e08-prvni-cast-a-redakcni-rozhodovani.md.
+
+## D014 — „Když láska bolí“ je příbuzná tvorba, ne automaticky rukopis knihy
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: konkrétní vztahová témata a texty rozvíjené pro kanál „Když láska bolí“ nejsou automaticky textem knihy „Není to tvoje vina“. Autor v této konverzaci výslovně uvedl: „Není to na knihu.“
+- Důvod: autor hledá pro tuto větev spíše YouTube, podcast/audio a placenou vrstvu; současně chce mluvit především k ženám, se kterými jeho způsob psaní souzní.
+- Důsledky: příbuzné texty lze archivovat jako zdroj hlasu, obrazů a distribučního kontextu, ale nesmějí být bez dalšího autorského rozhodnutí zařazeny do rukopisu nebo použity k fixaci osnovy. Výběr platformy Herohero vs. YouTube subscription není tímto rozhodnut.
+- Zdroj: E15, `texts/podklady/propagace/e15-kdyz-laska-boli-souvisejici-autorsky-text.md` a `e15-publikum-forma-osobni-vazba.md`.
