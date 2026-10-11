@@ -138,3 +138,14 @@ Na rozdíl od Vxxx nejde o výňatky z historického vyhledávání, ale o pří
 | [E06 — struktury a redakční pohledy](podklady/osnovy/e06-struktury-a-redakcni-pohledy.md) | pohled nakladatele, editora, kritika, blogerky a čtenářky; pracovní návrhy stavby celku | redakční podklad |
 
 E06 nepovyšuje návrh 14 mikrokapitol ani žádnou jinou osnovu na finální obsah. Autor v témže zdroji výslovně uvedl, že knihu zatím nepovažuje za kompletní.
+
+
+## E07 — další přímo dostupná konverzace 2026-10-11
+
+| Soubor / položka | Obsah | Status |
+| --- | --- | --- |
+| [E07 — Když vina přijde místo spánku](podklady/noc/e07-kdyz-vina-prijde-misto-spanku.md) | celý niterný noční pracovní text | pracovní varianta |
+| [E07 — Nemusíš nést, co tě zraňuje](podklady/odpovednost-a-cizi-vina/e07-nemusis-nest-co-te-zranuje.md) | celý úvod druhé části | pracovní varianta |
+| [E07 — „Jsem úplně blbá.“](podklady/chyba-a-rozsudek/e07-jsem-uplne-blba-cele-zneni.md) | celý pracovní text kapitoly, dříve jen fragmenty E02 | pracovní varianta |
+| [E07-01 až E07-03](podklady/osnovy/drobne-texty-a-metafory.md#e07-01) | lékárnička, dvojí struktura, šest rozsudků, vnitřní soud | koncepční podklady |
+| [E07-04 až E07-05](podklady/chyba-a-rozsudek/drobne-texty-a-metafory.md#e07-04) | každodenní chyba → identita; „Udělala jsem chybu“ vs. „Já jsem chyba“ | autorské zadání + pracovní formulace |
