@@ -13,3 +13,6 @@ Historie je rekonstrukce, nikoli úplný seznam všech rozhovorů. E01/E02 viz d
 - **2026-10-11:** obnovení projektu, identifikace zdrojů a inicializace GitHub Project Memory podle centrálního standardu. Přeneseno šest pracovních textů z exportu; žádná nová koncepce knihy tím nebyla schválena.
 
 Dědí se hlas, účel, prožitková cesta a rozlišení odpovědnosti od sebeodsouzení. Opouští se závislost na jedné konverzaci; různé osnovy se uchovávají jako historické varianty, nikoli souběžné autority.
+
+## 2026-10-11 — Rozšířená obnova historického psaní
+Znovu prohledány rozhovory a přímo přečteny tři unikátní PDF exporty E01/E04/E05. Přidáno 52 souborů zdrojových textů a 11 tematických přehledů; původních šest pracovních textů zachováno. Import obsahuje 14 dalších souvislých variant, krátké série, obálkové texty, historické osnovy a rozpracování závěru. Fragmenty z vyhledávání jsou odděleny od přímého PDF přepisu. Opakované pasáže E04 a kopie stejných exportů nebyly importovány znovu. Finální osnova tím nevzniká.

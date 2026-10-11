@@ -1,0 +1,17 @@
+# Obálka, claimy a doprovodné texty
+
+[Zpět na přehled textů](../../README.md)
+
+Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakční navigace, nikoli schválení názvu nebo pořadí kapitoly. Úplná historická varianta může být stále rozpracovaná.
+
+| Text | Druh | Zdroj |
+| --- | --- | --- |
+| [Text na zadní stranu knihy](e01-zadni-strana.md) | doprovodný text | E01, s. 69–69 |
+| [Facebookový příspěvek ke knize](e01-facebook.md) | doprovodný text | E01, s. 69–70 |
+| [Voiceover ke knize](e01-voiceover.md) | doprovodný text | E01, s. 70–70 |
+| [Obálka – Možná se neobviňuješ](e01-obalka-mozna-se-neobvinujes.md) | doprovodný text | E01, s. 81–81 |
+| [Obálka – Měkké místo](e01-obalka-mekke-misto.md) | doprovodný text | E01, s. 85–85 |
+| [Claim knihy – původní návrh](e01-claim.md) | doprovodný text | E01, s. 99–99 |
+| [Tři jemnější varianty claimu](e01-claim-jemne-varianty.md) | doprovodný text | E01, s. 100–100 |
+
+Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.

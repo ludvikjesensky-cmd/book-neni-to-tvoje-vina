@@ -1,16 +1,30 @@
 # Texty knihy „Není to tvoje vina“
 
-Zde jsou všechny dosud přenesené texty knihy. Každý text má vlastní soubor; další úvody, kapitoly a závěr ukládáme také sem. Seznam je navigace, nikoli schválený obsah či konečné pořadí knihy.
+Texty jsou uspořádány podle kapitol a témat. Šest souborů v kořeni texts/ tvoří dosavadní pracovní výběr. Ve složce podklady/ jsou další historické varianty, fragmenty a rozpracování. Nic z toho samo o sobě neurčuje finální obsah ani pořadí knihy.
 
-| Text | Soubor |
-| --- | --- |
-| Jak číst tuto knihu | [Otevřít](jak-cist-tuto-knihu.md) |
-| Když vina přijde místo spánku | [Otevřít](kdyz-vina-prijde-misto-spanku.md) |
-| Nejsi jediná žena, která takhle leží ve tmě | [Otevřít](nejsi-jedina.md) |
-| Když to všechno začalo mnohem dřív | [Otevřít](kdyz-to-vsechno-zacalo-mnohem-driv.md) |
-| Bolest, kterou jsi neměla kam položit | [Otevřít](bolest-kterou-jsi-nemela-kam-polozit.md) |
-| Co když to nikdy nebylo celé tvoje | [Otevřít](co-kdyz-to-nikdy-nebylo-cele-tvoje.md) |
+## Mapa kapitol a podkladů
 
-Původ textů: [katalog zdrojů](../docs/SOURCE_CATALOG.md). Redakční stav a další kroky: [CURRENT_STATE](../project-memory/CURRENT_STATE.md). Mapa projektu: [PROJECT.md](../PROJECT.md).
+| Kapitola / téma | Pracovní výběr | Další texty a varianty |
+| --- | --- | --- |
+| Úvod a pozvání ke čtení | [Otevřít](jak-cist-tuto-knihu.md) | [Procházet](podklady/uvod/README.md) |
+| Noční scéna a výčitky | [Otevřít](kdyz-vina-prijde-misto-spanku.md) | [Procházet](podklady/noc/README.md) |
+| Nejsi sama | [Otevřít](nejsi-jedina.md) | [Procházet](podklady/nejsi-sama/README.md) |
+| Dětství a hodná holka | [Otevřít](kdyz-to-vsechno-zacalo-mnohem-driv.md) | [Procházet](podklady/detstvi-a-hodna-holka/README.md) |
+| Bolest obrácená proti sobě | [Otevřít](bolest-kterou-jsi-nemela-kam-polozit.md) | [Procházet](podklady/bolest-a-vina/README.md) |
+| Vlastní odpovědnost a cizí vina | [Otevřít](co-kdyz-to-nikdy-nebylo-cele-tvoje.md) | [Procházet](podklady/odpovednost-a-cizi-vina/README.md) |
+| Každodenní chyba a rozsudek | Dosud nevybrán | [Procházet](podklady/chyba-a-rozsudek/README.md) |
+| Naděje a závěr Dovol si… | Dosud nevybrán | [Procházet](podklady/zaver-a-nadeje/README.md) |
+| Krátké texty, náplasti a samostatné věty | Dosud nevybrán | [Procházet](podklady/kratke-texty/README.md) |
+| Obálka, claimy a doprovodné texty | Dosud nevybrán | [Procházet](podklady/propagace/README.md) |
+| Historické osnovy s ukázkovými pasážemi | Dosud nevybrán | [Procházet](podklady/osnovy/README.md) |
 
-Verze uchovává Git; nevytváříme paralelní FINAL/FINAL2. Projektová dokumentace zůstává mimo tuto složku.
+## Jak s texty pracovat
+
+- **Text:** souvislá historická varianta kapitoly, úvodu nebo eseje; nemusí být schválená.
+- **Rozpracování / osnova:** ukázkové odstavce spolu s redakčními návrhy. Není to hotová kapitola.
+- **Sbírka / doprovodný text:** krátké samostatné texty, obálka nebo propagace.
+- **Fragment / výňatky:** neúplně dostupné znění; mezery se nedoplňují odhadem.
+
+Soubory E01/E05 jsou převzaté z konkrétních míst PDF exportů. E02 obsahuje pouze výňatky vrácené vyhledáváním rozhovorů. Každý soubor má původ a případně autorovy tehdejší připomínky. Identické pasáže v několika exportech nejsou kopírovány znovu. Názvy souborů identifikují zdroj a téma; následné změny verzujeme Gitem.
+
+Původ a rozsah importů: [katalog zdrojů](../docs/SOURCE_CATALOG.md). Aktuální redakční stav: [CURRENT_STATE](../project-memory/CURRENT_STATE.md). Mapa projektu: [PROJECT.md](../PROJECT.md).

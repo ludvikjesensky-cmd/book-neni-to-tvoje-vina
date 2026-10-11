@@ -1,32 +1,34 @@
 # Current State
 
-**Poslední ověření:** 2026-10-11 (Europe/Prague)  
-**Fáze:** obnova podkladů a zahájení systematické redakční práce v GitHubu.
+**Poslední ověření:** 2026-10-11  
+**Fáze:** historické texty obnoveny v rozsahu dostupných podkladů; čeká redakční výběr a dokončení.
 
 ## Ověřeně existuje
-- Repozitář, PROJECT.md a osm kanonických souborů Project Memory.
-- Destilace koncepce, rozhodnutí, slepých cest a historie.
-- Šest importovaných pracovních textů v texts/: úvod a pět kapitol historické první části.
-- Katalog zdrojů rozlišující přímo ověřené PDF, importované texty a poznatky z vyhledávání rozhovorů.
-- Přehled textů je v texts/README.md; kapitoly jsou odděleny od projektové dokumentace.
-- GitHub je autoritativní pro další práci; importované texty nejsou finální schválený rukopis.
+- PROJECT.md a osm kanonických souborů Project Memory.
+- Šest dosavadních pracovních textů v texts/ zůstává zachováno.
+- Přidáno 52 zdrojových souborů v texts/podklady/: 14 souvislých textových variant, 8 rozpracování, 14 historických osnov, 7 doprovodných textů, 2 sbírky krátkých textů, 1 fragment z PDF a 6 souborů neúplných výňatků z rozhovorů.
+- Nový import obsahuje přibližně 28 900 slov zdrojového materiálu; nejde o rozsah hotové knihy, obsahuje varianty a redakční poznámky.
+- Navigace podle 11 témat je v texts/README.md a tematických přehledech. Texty jsou přiřazeny podle obsahu, bez fixace finální osnovy.
+- Přímo přečteny tři různé exporty: E01 (215 stran), E04 (139 stran), E05 (166 stran). E04 nepřinesl další unikátní knižní text; E05 přinesl samostatnou větev s pěti celými kapitolami.
+- Závěr „Dovol si…“ je obnoven jako rozsáhlé rozpracování, nikoli hotový závěr.
 
 ## Známé mezery
-- Úplnost všech historických rozhovorů a rukopisných verzí není prokázána.
-- Dohledaná zmínka o pozdějším přepisu první kapitoly z 30. 7. nebyla obnovena v plném znění. Import noční kapitoly je starší verze.
-- Texty „Jsem úplně blbá.“ a úvod „Nemusíš nést, co tě zraňuje“ jsou doložené vyhledáním rozhovorů, nikoli zde importovaným plným textem.
-- PDF export obsahuje komentáře vložené extrakcí mezi odstavce; import odstranil označené komentáře, neprovedl literární korekturu.
-- Konečný obsah, pořadí a rozsah nejsou schválené. Existující kapitoly mají překryvy a starší vztahové zaměření.
+- Úplnost všech historických rozhovorů a rukopisných verzí není prokázána. Vyhledávání neposkytuje úplný archiv.
+- Pozdější noční přepisy a úvod z 30. 7. jsou v E02 jen v úryvcích.
+- „Jsem úplně blbá.“ je zachyceno jen fragmenty. Úplný úvod „Nemusíš nést, co tě zraňuje“ nebyl obnoven; jeho starší osnova je k dispozici.
+- Lednový návrh deseti kapitol a dvaceti náplastí je doložen vyhledáním, obnoveny jsou pouze vrácené fragmenty.
+- Finální pořadí, rozsah a výběr verzí zůstávají otevřené. Starší vztahové zaměření a zobecnění potřebují obsahovou redakci.
+- PDF import zachovává řádkové zlomy extrakce; před sazbou je nutná korektura a kontrola proti originálu.
 
 ## Blockery
-Žádný technický blocker pro práci s texty. Pro označení kompletního rukopisu za hotový chybí uzavřená osnova, redakční výběr verzí a doplnění zbývajícího textu.
+Žádný technický blocker pro redakci. Chybějící plné přepisy brání tvrzení o kompletním historickém archivu, nikoli pokračování nad získanými texty.
 
 ## Nejbližší kroky
-1. Porovnat šest importovaných textů s cílovým záběrem knihy; označit ponechat/přepsat/sloučit.
-2. Dohledat plná znění chybějících verzí uvedených v katalogu.
-3. S autorem uzavřít přiměřenou osnovu a rozsah; zaznamenat rozhodnutí.
-4. Doplnit chybějící části a závěr „Dovol si…“, poté projít celý rukopis kvůli návaznosti a opakování.
-5. Až po obsahové redakci rozhodnout sazbu a vydání.
+1. Po tématech vybrat nosnou verzi; další pasáže označit ponechat/sloučit/přepsat.
+2. Uzavřít přiměřenou osnovu s autorem, včetně každodenních chyb a něžného závěru.
+3. Doplnit chybějící části, redigovat návaznost a opakování.
+4. Pokud budou dostupné celé chybějící přepisy, doplnit je s proveniencí; nové psaní označovat jako nové.
+5. Po obsahové redakci rozhodnout sazbu a vydání.
 
 ## Provozní pravda
-Samostatný runtime, dashboard ani provozní databáze nejsou potřeba. Současný redakční stav je zde; přesné změny textů jsou v historii Gitu. Katalog zdrojů není paralelní status.
+GitHub je autoritativní pro další práci. Současný stav je zde; historie textů v Gitu, původ v docs/SOURCE_CATALOG.md. Samostatná databáze ani dashboard nejsou potřeba.

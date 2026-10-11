@@ -10,6 +10,8 @@ První dvě fáze jsou zahájeny. Produkční nástroj, místo produkčních sou
 ## Textová struktura
 V texts/ jsou stabilně pojmenované soubory podle témat. Jejich názvy ani historická čísla v katalogu neurčují finální pořadí.
 Přehled textů poskytuje texts/README.md; jde pouze o navigaci. Projektové dokumenty zůstávají v kořeni, project-memory/ a docs/.
+Vedle základního pracovního výběru v kořeni texts/ uchovává texts/podklady/<téma>/ historické varianty, rozpracování a úryvky. Tematické README propojují varianty s příslušným pracovním textem. Historické osnovy jsou v texts/podklady/osnovy/ a doprovodné texty v texts/podklady/propagace/. Souborové názvy obsahují identitu zdroje, nikoli příznak FINAL. Toto je archiv odlišných původních variant; následné editace jednotlivých textů verzujeme Gitem.
+
 Každý nynější text má hlavičku s původem a označením pracovního importu. Finální lineární obsah dosud neexistuje.
 Koncepční opory: noční sebeodsuzování, sdílenost, rozlišení chyby a identity, hodná holčička/hodná žena, bolest obrácená proti sobě a závěrečné svolení k něze. Jejich finální členění zůstává otevřené.
 

@@ -65,3 +65,10 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: autor požaduje přehledné oddělení projektu a kapitol.
 - Důsledky: dosavadních šest souborů přesunuto ze source/manuscript/ do texts/; texts/README.md je pouze navigace. Obsah kapitol se tím nemění. Upřesňuje úložnou cestu D008.
 - Zdroj: explicitní zadání autora v konverzaci 2026-10-11.
+
+## D010 — Vytěžit i neschválené texty
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: obnovit maximum předchozího psaní včetně rozpracovaných a neschválených variant a přiřadit je k příslušným kapitolám/tématům.
+- Důvod: autor chce maximálně využít předešlou práci.
+- Důsledky: základní pracovní výběr zůstává; podklady obsahují odlišné zdrojové varianty, rozpracování a výňatky s proveniencí. Mezery se nevymýšlejí. Import není schválení literární ani faktické správnosti.
+- Zdroj: explicitní zadání autora v této konverzaci.
