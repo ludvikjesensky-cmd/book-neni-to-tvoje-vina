@@ -14,6 +14,8 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Claim knihy – původní návrh](e01-claim.md) | doprovodný text | E01, s. 99–99 |
 | [Tři jemnější varianty claimu](e01-claim-jemne-varianty.md) | doprovodný text | E01, s. 100–100 |
 
+| [E11 — Tvůrčí a distribuční záměr](e11-distribucni-zamer.md) | autorské zadání / projektový podklad | E11 |
+
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 
 ## Další drobné pasáže
