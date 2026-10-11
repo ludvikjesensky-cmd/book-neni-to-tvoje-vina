@@ -125,3 +125,16 @@ Dalších 27 sad V015–V041, celkem 90 samostatně uvedených úryvků (956 slo
 | [V041](podklady/uvod/drobne-texty-a-metafory.md#v041) | Pár slov – červencový text | 2026-07-30 21:00:13 UTC |
 
 Rozsah dalších hledání a omezení: [kontrola pokrytí](../docs/HARVEST_REVIEW.md). Všechny položky této části jsou neúplné výňatky E02, jejich primární doslovnost není ověřena. Část pochází z širší související tvorby a slouží jako inspirační zásoba.
+
+
+## E06 — přímo dostupná konverzace 2026-10-11
+
+Na rozdíl od Vxxx nejde o výňatky z historického vyhledávání, ale o přímo dostupné znění současné konverzace. Zachováno samostatně, aby se nemíchalo s číselnou řadou starších zdrojů.
+
+| Soubor | Obsah | Status |
+| --- | --- | --- |
+| [E06 — mikrokapitoly a náplasti](podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md) | 37 konkrétních pocitů viny; návrh 14; 29 krátkých náplastí; jejich pracovní napárování | pracovní zásobník |
+| [E06 — autorské zadání a úvodní texty](podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md) | současné autorovo zadání; celý pracovní úvod; tři návrhy úvodního bloku; formulace knihy jako pohlazení a objetí | autorovo zadání + pracovní varianty |
+| [E06 — struktury a redakční pohledy](podklady/osnovy/e06-struktury-a-redakcni-pohledy.md) | pohled nakladatele, editora, kritika, blogerky a čtenářky; pracovní návrhy stavby celku | redakční podklad |
+
+E06 nepovyšuje návrh 14 mikrokapitol ani žádnou jinou osnovu na finální obsah. Autor v témže zdroji výslovně uvedl, že knihu zatím nepovažuje za kompletní.
