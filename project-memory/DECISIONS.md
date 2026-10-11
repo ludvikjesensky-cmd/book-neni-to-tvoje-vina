@@ -64,7 +64,7 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Datum: 2026-10-11; stav: ACTIVE.
 - Rozhodnutí: všechny texty knihy ukládat v kořenové složce texts/, odděleně od projektové dokumentace.
 - Důvod: autor požaduje přehledné oddělení projektu a kapitol.
-- Důsledky: dosavadních šest souborů přesunuto ze source/manuscript/ do texts/; texts/README.md je pouze navigace. Obsah kapitol se tím nemění. Upřesňuje úložnou cestu D008.
+- Důsledky: dosavadních šest souborů přesunuto ze source/manuscript/ do texts/; texts/README.md je pouze navigace. Obsah kapitol se tím nemění. Upřesňuje úložnou cestu D008. Pro další práci je rozdělení archivu a redigovaného rukopisu upřesněno D015.
 - Zdroj: explicitní zadání autora v konverzaci 2026-10-11.
 
 ## D010 — Vytěžit i neschválené texty
@@ -103,3 +103,10 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: autor hledá pro tuto větev spíše YouTube, podcast/audio a placenou vrstvu; současně chce mluvit především k ženám, se kterými jeho způsob psaní souzní.
 - Důsledky: příbuzné texty lze archivovat jako zdroj hlasu, obrazů a distribučního kontextu, ale nesmějí být bez dalšího autorského rozhodnutí zařazeny do rukopisu nebo použity k fixaci osnovy. Výběr platformy Herohero vs. YouTube subscription není tímto rozhodnut.
 - Zdroj: E15, `texts/podklady/propagace/e15-kdyz-laska-boli-souvisejici-autorsky-text.md` a `e15-publikum-forma-osobni-vazba.md`.
+
+## D015 — Podklady zachovat, výsledný rukopis skládat v manuscript/
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: všechny dosavadní podklady nechat na místě; vytvořit manuscript/ pro výslednou podobu textu. Nejprve provést detailní redakční průchod, potom se s autorem dohodnout na dalších krocích.
+- Důvod: autor chce bezpečně oddělit zachráněný materiál od skládané knihy.
+- Důsledky: texts/ zůstává archivem, manuscript/ bude content master redigovaného rukopisu. Nyní obsahuje pouze README. Redakční posouzení v docs/EDITORIAL_REVIEW.md neuzavírá osnovu, výběr variant ani schválení textů. Literární editace předloh se do archivu nepromítají.
+- Zdroj: explicitní zadání autora v této konverzaci: „Necháme všechny podklady na místě. Vytvoříme nový adresář manuscript/ … Udělej nejdřív detailní redakční průchod a pak se dohodneme na dalších krocích.“

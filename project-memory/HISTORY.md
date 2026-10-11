@@ -44,3 +44,9 @@ Po E12 byla znovu vytěžena nejpozdější část téže konverzace. Přibyly �
 Přenosy E06–E16 rozšířily archiv o 27 souborů. E07 doplnil celé „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“, E08 další úvod a odpovědnost, E09 dvě noční varianty a oddělení funkcí úvodu a první kapitoly. E10 ověřil pokrytí PDF. E11–E14 doplnily autorský hlas, struktury a literární varianty; E15 příbuznou tvorbu mimo rukopis, E16 rozpracování přechodu.
 
 Následná kontrola repozitáře odstranila rozpory mezi původními mezerami a novými importy, přepsala CURRENT_STATE na současný stav a doplnila devět chybějících odkazů v tematické navigaci. Rozpadlé tabulky a zastaralé počty byly sjednoceny. Katalog rozlišuje datum přenosu od nedoloženého data vzniku a uvádí konkrétní překryvy E11/E13 s již uloženými pasážemi. Literární texty, jejich zdrojové hlavičky i šest pracovních kapitol zůstaly beze změny; finální výběr je nadále otevřený.
+
+## 2026-10-11 — Detailní redakční průchod a oddělení rukopisu
+
+Na výslovné zadání autora přečteno a posouzeno všech 96 zdrojových souborů. V docs/EDITORIAL_REVIEW.md vzniklo porovnání variant, doporučení podle funkcí, rozbor opakování, hlasu, metafor, skutečných mezer a úplný souborový přehled. Ověřeny tři dvojice se shodným slovním zněním literárních těl; tím se zpřesňuje dřívější označování nových importů za neduplicitní.
+
+Založeno manuscript/ s README, zatím bez kapitol. Všechny podklady v texts/ ponechány na místě a beze změny. D015 odděluje archiv od budoucího content masteru. Osnova, výběr a literární sestavení zůstávají předmětem následné autorské domluvy.

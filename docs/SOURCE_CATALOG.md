@@ -429,3 +429,9 @@ E15 nedoplňuje žádný starší E02 fragment do historického celku a nepřepi
 ### Doplnění fragmentu do celku
 
 E16 nedoplňuje starý E02 fragment. Doplňuje však dosud nedořečené místo již plně uloženého E01 úvodu: původní věta zůstává beze změny v E01 a nové pokračování je uchováno samostatně, aby nevznikl domnělý „originál“ složený z různých období.
+
+## Zpřesnění po detailním redakčním porovnání 2026-10-11
+
+[Redakční průchod](EDITORIAL_REVIEW.md) ověřil shodné slovní znění celých literárních těl ve třech dvojicích: kořenová noční kapitola a E07; E01 „Jak číst, když nemáš sílu“ a E13 krátká varianta; E01 zpomalená šatna a E14 „Někdy to není vina“. Porovnání ignoruje formátování a interpunkci; metodika a rozsahy jsou uvedeny v rozboru. Nejde o bitově stejné soubory ani o důkaz původního autorství či datace.
+
+Nový soubor proto nemusí být novou literární variantou. Historické formulace „neduplicitní“ v záznamech přenosů nejsou konečným výsledkem srovnání všech těl textů. Oba doklady každé dvojice zůstávají zachované; při skládání manuscript/ se nesčítají jako odlišné texty.

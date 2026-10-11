@@ -11,7 +11,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 
 ## Co číst
 - Vždy: [SCOPE](project-memory/SCOPE.md), [CURRENT_STATE](project-memory/CURRENT_STATE.md).
-- Před psaním/editací: [ARCHITECTURE](project-memory/ARCHITECTURE.md), [DECISIONS](project-memory/DECISIONS.md), [evidence textů](docs/SOURCE_CATALOG.md).
+- Před psaním/editací: [ARCHITECTURE](project-memory/ARCHITECTURE.md), [DECISIONS](project-memory/DECISIONS.md), [evidence textů](docs/SOURCE_CATALOG.md), [redakční průchod](docs/EDITORIAL_REVIEW.md).
 - Před změnou koncepce: navíc [FAILURES](project-memory/FAILURES.md), [OPEN_QUESTIONS](project-memory/OPEN_QUESTIONS.md).
 - Pro vývoj: [HISTORY](project-memory/HISTORY.md), [LESSONS](project-memory/LESSONS.md).
 
@@ -19,7 +19,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 | Vrstva | Autoritativní umístění |
 | --- | --- |
 | KNOWLEDGE | PROJECT.md, project-memory/; detailní provenience v docs/SOURCE_CATALOG.md |
-| SOURCE | texts/ — textový content master; nyní importované pracovní texty, nikoli schválená kompletní kniha |
+| SOURCE | texts/ — zachované historické podklady; manuscript/ — samostatný content master budoucího redigovaného rukopisu, zatím bez kapitol |
 | PRODUCTION | TBD; sazba ani její nástroj nejsou určeny |
 | ARTIFACTS | Žádné vydání; umístění finálního PDF/EPUB TBD |
 | EXTERNAL | Historické PDF exporty E01/E04/E05 a výňatky rozhovorů E02; přesná identifikace v katalogu zdrojů |
@@ -33,6 +33,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 - Nepřidávat další STATUS/HANDOFF. Současnost patří pouze do CURRENT_STATE.
 - Text není návod ani univerzální zbavení odpovědnosti. Chyba není identita; odpovědnost není sebetrýznění.
 - Neupravovat při importu formulace a nevymýšlet chybějící rukopis.
+- Podklady v texts/ ponechávat na místě; výsledný text skládat a redigovat v manuscript/. Výběr variant čeká na autorskou domluvu.
 - Po významné práci konsolidovat správné soubory; zdrojové texty verzovat Gitem.
 
 Centrální pravidla: [GUIDANCE](https://github.com/ludvikjesensky-cmd/project-memory/blob/main/GUIDANCE.md), [PROJECT_STANDARD](https://github.com/ludvikjesensky-cmd/project-memory/blob/main/PROJECT_STANDARD.md).

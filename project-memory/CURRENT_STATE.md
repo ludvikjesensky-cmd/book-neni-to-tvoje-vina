@@ -1,44 +1,37 @@
 # Current State
 
 **Poslední ověření:** 2026-10-11  
-**Fáze:** shromážděný materiál čeká na redakční výběr a dokončení.
+**Fáze:** detailní redakční průchod dokončen; výběr a skládání rukopisu čekají na autorskou domluvu.
 
 ## Ověřený stav
 
-- Repozitář obsahuje 96 zdrojových textových souborů: šest dosavadních pracovních textů v kořeni `texts/` a 90 podkladů v 11 tematických složkách. README a rejstřík se nepočítají. Počet zahrnuje osnovy, dialogy, fragmenty i dva související soubory E15 mimo rukopis; není počtem kapitol ani unikátních textů.
-- Přenosy E06–E16 přidaly 27 souborů k předchozím 69. Šest kořenových pracovních textů zůstalo beze změny.
-- Přímé PDF importy E01/E05 doplňují plná znění dostupná při přenosech rozhovorů. E04 je překrývající se export, E10 kontrola pokrytí bez nového literárního souboru.
-- Zásobníky drobností obsahují M001–M060 a V001–V041; pozdější přímé přenosy jsou označeny samostatně.
-- Všechny podkladové soubory mají odkaz z příslušného tematického přehledu. Vstup pro čtení: [mapa textů](../texts/README.md). Původ, překryvy a dostupnost: [katalog zdrojů](../docs/SOURCE_CATALOG.md).
-- Finální rukopis, pořadí kapitol ani cílový rozsah nejsou schváleny. Import a úplnost varianty nejsou redakční schválení.
+- Dostupný archiv tvoří 96 zdrojových souborů: šest kořenových textů a 90 podkladů v jedenácti tématech. Počet zahrnuje osnovy, dialogy, fragmenty i dva soubory E15 mimo rukopis; není počtem kapitol ani unikátních textů.
+- Všech 96 souborů bylo přečteno a individuálně posouzeno v [detailním redakčním průchodu](../docs/EDITORIAL_REVIEW.md). Obsah celé složky texts/ zůstává při tomto průchodu nezměněný.
+- [manuscript/](../manuscript/README.md) je založen pro budoucí redigovanou podobu. Zatím obsahuje pouze README, žádné vybrané kapitoly.
+- Finální osnova, rozsah ani nosné varianty nejsou schválené. Doporučení rozboru nejsou autorská rozhodnutí.
+- Slovní porovnání literárních těl potvrdilo tři shody: kořenová noc/E07, E01/E13 Jak číst, zpomalená šatna E01/E14 Někdy to není vina. Souborové a provenienční rozdíly zůstávají zachované.
+- E07 obsahuje celé „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“; E09 dvě celé noční varianty. Tyto dřívější obsahové mezery nejsou blokery.
+- Navigace: [texts](../texts/README.md). Provenience, M001–M060, V001–V041 a přenosy E01–E16: [katalog](../docs/SOURCE_CATALOG.md).
 
-## Dřívější mezery, které se podařilo doplnit
+## Redakční zjištění k projednání
 
-- „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“ mají celé pracovní znění E07. Starší fragmenty zůstávají historickým dokladem.
-- Dvě pozdější noční varianty jsou celé v E09; jejich charakteristické úryvky odpovídají E02. Další noční texty jsou v E07/E13 a původním pracovním výběru.
-- Úvody a přechody mají více úplných variant E06/E08/E09/E13/E16. Toto samo o sobě nepotvrzuje obnovu každého konkrétního přepisu z E02.
-- E06 obsahuje 29 náplastí a zásobník mikrokapitol; není tím doložena totožnost s lednovou sadou deseti kapitol a dvaceti náplastí.
+- Úvod, noc a několik navazujících kapitol opakují výčitky, vysvětlení viny a stejné ujištění. Každý vybraný text potřebuje vlastní funkci.
+- Nejbohatší je vztahová bolest a dětství. Vlastní běžná chyba má výrazné koncepční zpracování, ale méně hotových scén. E07 „Jsem úplně blbá“ zůstává převážně vztahovým textem.
+- E08 nabízí důležitý základ odpovědnosti bez sebeodsouzení, potřebuje zestručnění.
+- Závěr „Dovol si“ je rozsáhlé rozpracování, nikoli dokončený závěr. Návrat do noci je doložený námět, jeho výsledná podoba otevřená.
+- E15 zůstává mimo rukopis podle D014. Propagace se má sladit s budoucím rukopisem, zejména absolutní ujištění o nevině.
 
-## Přetrvávající mezery a redakční otázky
+## Omezení evidence
 
-- Úplnost historických rozhovorů není prokázána. Zejména konkrétní pozdější úvod E02, původní lednová sada a celé texty „Jinýma očima“, „Pár slov“ a stárnutí zůstávají nedoložené v plném původním znění.
-- E14 obsahuje celý návrh „Měla jsem to poznat dřív“, ale není doloženo, že jde o původní dubnový text z E02.
-- U přenosů rozhovorů je často doložen den importu, nikoli původní datum zpráv či stabilní URL. Z čísel E nelze určit nejnovější autorskou verzi.
-- Některé pasáže se opakují mezi přímými přenosy a E01; katalog eviduje vazby. Při výběru je nesčítat jako nezávislé nové myšlenky.
-- Závěr „Dovol si…“ je rozsáhlé rozpracování. Každodenní chyby, vztahové bolesti a jejich návaznost potřebují společnou redakci podle D004–D007.
-- Delší přechod E16 částečně vysvětluje mechanismus viny už před první kapitolou; jeho použití je nutné posoudit podle D007. Konkrétní dokončení není vybráno.
-- E15 „Když láska bolí“ zůstává příbuznou tvorbou mimo rukopis (D014).
-- PDF importy potřebují před sazbou kontrolu řádkových zlomů, jazykovou a obsahovou redakci.
+Úplnost všech historických rozhovorů není prokázána. Konkrétní úvod E02, původní lednová sada a celé historické „Jinýma očima“, „Pár slov“ a stárnutí nejsou doloženy v plném původním znění. E06 ani E14 samy nepotvrzují totožnost hledaných verzí. U přenosů často známe datum importu, nikoli datum původní zprávy. To nebrání redakci dostupných textů.
 
-## Blockery a nejbližší kroky
+## Nejbližší kroky
 
-Technický blocker pro redakci není. Chybějící zdroje brání tvrzení o úplném historickém archivu, nikoli pokračování v knize.
+Technický blocker není. Podle zadání autora se před skládáním rukopisu společně domluvíme na dalším postupu.
 
-1. Po tématech porovnat plné varianty a s autorem vybrat nosný text.
-2. Uzavřít přiměřenou osnovu a rozsah; zachovat cestu od bolesti k naději i samostatnou použitelnost pasáží.
-3. Redigovat návaznost, opakování a chybějící části. Nově napsané pasáže označovat jako nové.
-4. Po obsahové stabilizaci rozhodnout sazbu a vydání.
+1. Projednat redakční průchod a nosné varianty, zejména volbu noční kapitoly.
+2. Dohodnout přiměřený oblouk, rozsah a konkrétní scénu běžné chyby i podobu závěru.
+3. Teprve potom skládat a redigovat v manuscript/; udržovat dohledatelný původ a odlišit nové psaní.
+4. Sazbu a vydání řešit po obsahové stabilizaci.
 
 [Otevřené otázky](OPEN_QUESTIONS.md) · [Rozhodnutí](DECISIONS.md) · [Historie](HISTORY.md)
-
-GitHub je autoritativní pro další práci. Tento soubor drží současnost; podrobnosti přenosů patří do katalogu zdrojů a historie změn do Gitu.

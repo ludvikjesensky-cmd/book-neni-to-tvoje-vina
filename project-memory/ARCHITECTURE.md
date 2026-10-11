@@ -1,30 +1,37 @@
 # Architecture
 
 ## Současné uspořádání
-Jeden knižní projekt = jeden repozitář. PROJECT.md směruje k project-memory/ a texts/. Kanonická paměť popisuje projekt; editovatelné texty jsou samostatný content master.
+
+Jeden knižní projekt = jeden repozitář. PROJECT.md je bootstrap. project-memory/ drží kanonickou znalost projektu; docs/ podrobnou provenienci a redakční rozbory.
+
+Texty mají dvě oddělené vrstvy podle D015:
+- **texts/** — zachované historické zdroje, pracovní výběr, varianty, fragmenty a zadání.
+- **manuscript/** — místo pro nově skládanou a redigovanou podobu knihy; nyní README bez kapitol.
 
 ## Tok práce
-Historické podklady → ověřený import s proveniencí → autorská editace textových zdrojů → schválený rukopis → sazba → vydané artefakty.
-První dvě fáze jsou zahájeny. Produkční nástroj, místo produkčních souborů a exportní workflow nejsou určeny.
+
+Historický zdroj → import s proveniencí do texts/ → redakční porovnání v docs/ → autorská domluva o výběru → skládání a editace v manuscript/ → schválený rukopis → sazba → vydané artefakty.
+
+Produkční nástroj, místo produkčních souborů a exportní workflow nejsou určeny.
 
 ## Textová struktura
-V texts/ jsou stabilně pojmenované soubory podle témat. Jejich názvy ani historická čísla v katalogu neurčují finální pořadí.
-Přehled textů poskytuje texts/README.md; jde pouze o navigaci. Projektové dokumenty zůstávají v kořeni, project-memory/ a docs/.
-Vedle základního pracovního výběru v kořeni texts/ uchovává texts/podklady/<téma>/ historické varianty, rozpracování a úryvky. Tematické README propojují varianty s příslušným pracovním textem. Historické osnovy jsou v texts/podklady/osnovy/ a doprovodné texty v texts/podklady/propagace/. Souborové názvy obsahují identitu zdroje, nikoli příznak FINAL. Toto je archiv odlišných původních variant; následné editace jednotlivých textů verzujeme Gitem.
 
-Každý nynější text má hlavičku s původem a označením pracovního importu. Finální lineární obsah dosud neexistuje.
-Koncepční opory: noční sebeodsuzování, sdílenost, rozlišení chyby a identity, hodná holčička/hodná žena, bolest obrácená proti sobě a závěrečné svolení k něze. Jejich finální členění zůstává otevřené.
+Šest kořenových textů v texts/ je historický pracovní výběr, nikoli přednostně schválený rukopis. texts/podklady/<téma>/ obsahuje varianty, rozpracování a úryvky. Tematické README a texts/README.md jsou navigace. Názvy souborů ani historická čísla kapitol neurčují budoucí pořadí.
+
+Osnovy jsou v texts/podklady/osnovy/, doprovodné texty v texts/podklady/propagace/. E15 zůstává příbuznou tvorbou mimo knihu. Drobné zásobníky mají stabilní ID Mxxx pro úseky E01 a Vxxx pro neúplné výňatky E02; texts/DROBNE_TEXTY.md je rejstřík.
+
+[Redakční průchod](../docs/EDITORIAL_REVIEW.md) porovnává celý dostupný soubor. Jeho doporučení nejsou schválením variant ani osnovy. manuscript/ bude držet jednu aktuální textovou podobu; přesná struktura souborů se určí až při výběru.
 
 ## Kontrakty
-- Textové opravy se dělají v content masteru a verzují Gitem; žádné FINAL2.
-- Při opravě obsahu v sazbě přenést změnu zpět do content masteru.
-- Návrh osnovy není schválený text a export konverzace není hotová kniha.
-- PDF import nezaručuje původní typografii; řádkové zlomy jsou ponechány z extrakce.
-- docs/SOURCE_CATALOG.md drží původ a identitu podkladů. CURRENT_STATE drží současný stav.
-- Externí zdroj je historická evidence; nová práce už nemá záviset na opětovném hledání chatu.
+
+- Při skládání rukopisu nepřesouvat ani literárně nepřepisovat archivní předlohy v texts/.
+- Literární úpravy vybraných textů provádět v manuscript/ a verzovat Gitem, bez FINAL2.
+- U složeného textu vést v docs/ odkazy na použité předlohy a odlišit nově dopsané pasáže. Nevydávat novou syntézu za obnovený historický text.
+- Případnou opravu v sazbě vrátit do manuscript/ jako textového content masteru.
+- Import není schválení; úplná zpráva nemusí být celou kapitolou. Dva soubory mohou mít shodné literární tělo.
+- PDF import nezaručuje původní typografii. Zlomy a překlepy archivu neopravovat v rámci literární redakce rukopisu.
+- docs/SOURCE_CATALOG.md drží původ, docs/EDITORIAL_REVIEW.md redakční zjištění, CURRENT_STATE současný stav.
 
 ## Externí a produkční systémy
-Historický PDF export je v ChatGPT, identifikován v katalogu. Databáze, server ani webová aplikace nejsou součástí aktuální architektury. Sazba, archiv release a nezávislý backup TBD.
 
-## Zásobníky drobných textů
-Každé téma může obsahovat drobne-texty-a-metafory.md. Stabilní ID Mxxx označuje přímý úsek E01; Vxxx neúplnou sadu výňatků E02. texts/DROBNE_TEXTY.md je navigační rejstřík k těmto položkám. Nevytváří finální osnovu ani paralelní redakční stav. Původní zadání autora a redakční úvahy zůstávají odlišeny od textu určeného čtenářce.
+Historické exporty jsou identifikované v katalogu. Nová práce nemá záviset na opětovném hledání chatu. Databáze, server ani webová aplikace nejsou součástí architektury. Sazba, archiv vydání a nezávislý backup TBD.
