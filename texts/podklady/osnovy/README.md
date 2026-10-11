@@ -32,3 +32,5 @@ Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako souč�
 ## Další drobné pasáže
 
 [Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).
+
+| [E14 — Pětidílný oblouk, „Nejsi v tom sama“ a hlas autora](e14-petidilny-oblouk-nejsi-v-tom-sama-a-hlas-autora.md) | autorské rozhodování + redakční podklad | E14 |
