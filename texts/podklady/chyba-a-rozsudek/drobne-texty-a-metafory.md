@@ -99,3 +99,36 @@ Důvěra není chyba. Naděje není chyba.
 
 A to není vina. To je lidskost.
 
+
+
+## E07-04
+
+**Každodenní chyba se mění v identitu**
+
+Zdroj: E07 — současná konverzace 2026-10-11. Původ: autor. Status: autorské zadání / obsahový princip.
+
+„Mnohdy vycházejí z obyčejných denních situací, kdy žena něco nezvládla nebo pokazila, něco připálila, řekla špatně, přišla pozdě, na něco zapomněla nebo se jí něco nepovedlo v práci. V hlavě pak slyší nejen výčitku za vinu, ale i rozsudek. A ten mnohdy vyzní ve větě: Jsem úplně blbá, Jsem neschopná, Jsem k ničemu, Nezasloužím si lásku. Vina pak utváří to, kým je. Vina se stává součástí její identity.“
+
+## E07-05
+
+**Ne chyba, ale rozsudek**
+
+Zdroj: E07 — současná konverzace 2026-10-11. Původ: návrh asistenta. Status: pracovní redakční formulace.
+
+„Neřekneš si:
+
+‚Udělala jsem chybu.‘
+
+Řekneš si:
+
+**‚Já jsem chyba.‘**
+
+A mezi těmi dvěma větami je obrovský rozdíl.“
+
+„Chybu udělá každý člověk.
+
+Ale když sama sebe začneš považovat za chybu, není už kam utéct.
+
+Protože kamkoli půjdeš...
+
+Půjdeš sama se sebou.“
