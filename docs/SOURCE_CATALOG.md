@@ -250,3 +250,29 @@ Charakteristické formulace „Nemusela jsi to zvládnout líp“, „Ráno vsta
 - E09 úvod není identický s kořenovým texts/jak-cist-tuto-knihu.md, E01 variantou ani E08 rozšířenou variantou. Je kratší a funkčně zúžený na pozvání ke čtení, proto je zachován jako samostatná varianta.
 - Obě E09 noční varianty se liší od kořenového historického textu, E05 i E07. Nejsou slučovány a nepřepisují pracovní výběr.
 - D007/F004 už existovaly jako starší záznam oddělení úvodu a první kapitoly. E09 je nepřidává duplicitně jako nové rozhodnutí, ale poskytuje celý přímo dostupný dialog a zpřesňuje důsledky.
+
+## E10 — Konverzace s katalogizací E01 a E04 (2026-07-30)
+
+- Identifikace zdroje: přímo dostupná konverzace začínající uživatelovou žádostí „Jsi schopen projít celý tento dokument našich předešlých konverzací?“ a pokračující žádostí „Skvěle. Udělej to stejné s tímto souborem“.
+- Název konverzace ani stabilní přímý odkaz nejsou v dostupném kontextu doloženy.
+- Dostupný rozsah: obě uživatelovy žádosti, průběžné zprávy asistenta a dvě celé závěrečné zprávy s katalogem textů a počátečními stránkami. Části případné starší historie před první dostupnou žádostí nejsou k dispozici.
+- Přílohy: E01 „NTTV - Část 1.pdf“ a E04 „Příběh vs mapa pro muže - 0606.pdf“. Obě byly znovu zpřístupněny v plném znění a přímo porovnány 2026-10-11.
+- Jistota: vysoká pro přímo dostupné zprávy a PDF; závěrečné slovní přehledy jsou redakční pomůcka, nikoli samostatný pramen původních formulací.
+
+### Výsledek porovnání
+
+- Přehled E01 rozlišil 16 souvislých rukopisných textů, další hotové či téměř hotové texty a zásadní koncepční pasáže. Všechny uvedené položky už byly před tímto auditem uloženy v `texts/`, `texts/podklady/` nebo v rejstříku `texts/DROBNE_TEXTY.md`.
+- E04 byl znovu porovnán s E01. Je to starší výřez stejné konverzace do strany 139; kromě názvu exportu, patiček stránkování a izolovaného časového štítku nebyl nalezen další unikátní knižní text.
+- Nevznikl žádný nový soubor v `texts/` a žádný existující text nebyl přepsán. Tento zdroj přidává kontrolu pokrytí a provenience, nikoli novou textovou variantu.
+- V tomto průchodu nebyl žádný dříve neúplný fragment doplněn do celku: plná znění z E01 už byla v repozitáři a E04 nepřinesl nic navíc.
+
+### Opravy stránkování proti tehdejšímu slovnímu přehledu
+
+Přímá kontrola značek stran v E01 potvrzuje jako přesnější dosavadní katalog repozitáře:
+
+- „Až tě to zase v noci probudí“ začíná na s. 101, nikoli 100.
+- Zpomalená varianta „Vina jako šatna pro bolest“ začíná na s. 67, nikoli 66.
+- Analytická varianta „Bolest, kterou jsi neměla kam položit“ začíná na s. 142 a zasahuje do s. 146, nikoli 141–145.
+- „Když ses naučila být hodná“ zasahuje do s. 159, nikoli pouze do s. 158.
+
+Podrobná vazba tehdejšího přehledu na uložené soubory je v [kontrole pokrytí](HARVEST_REVIEW.md).

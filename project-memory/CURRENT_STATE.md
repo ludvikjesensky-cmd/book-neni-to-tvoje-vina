@@ -76,3 +76,12 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Uložen celý redakční dialog, v němž autor pojmenoval opakování mezi úvodem a první kapitolou a výslovně souhlasil s jejich radikálním oddělením.
 - D007 a F004 byly upřesněny: úvod zve, první kapitola má primárně zprostředkovat prožitek a vysvětlení mechanismu má přijít až později. Titulní větu je vhodné používat střídmě, aby neztratila sílu.
 - V aktuálně dostupné části této konverzace nejsou použity žádné knižní přílohy. Přenos neprokazuje úplnost částí historie, které nejsou v dostupném kontextu této konverzace přítomné.
+
+## Audit E10 z přímo dostupné konverzace a PDF (2026-10-11)
+
+- Znovu zpřístupněny a přímo porovnány E01 (215 stran) a E04 (139 stran) spolu s úplnými závěrečnými přehledy konverzace z 2026-07-30.
+- Ověřeno, že všech 16 souvislých textů, doprovodné texty a vyjmenované koncepční pasáže už mají v repozitáři odpovídající plné znění nebo evidovaný podklad.
+- E04 je výřez E01 do strany 139 a nepřinesl další unikátní knižní text. Nebyly přidány ani přepsány žádné soubory v `texts/`.
+- Aktuální inventář zůstává 81 zdrojových textových souborů: 6 v kořeni `texts/` a 75 v `texts/podklady/`; tematické README a rejstříky se do počtu nezahrnují.
+- Tento audit opravil v evidenci čtyři nepřesnosti tehdejšího slovního stránkování podle samotného E01; podrobnosti jsou v E10 v katalogu zdrojů.
+- Žádný fragment nebyl tímto průchodem doplněn do celku. Známé mezery mimo E01/E04 zůstávají beze změny.
