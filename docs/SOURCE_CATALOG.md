@@ -310,3 +310,13 @@ Následující texty byly při E11 znovu ověřeny, ale nepřeneseny znovu, prot
 - `texts/podklady/osnovy/e01-prozitkovy-oblouk.md`
 
 Žádný dříve neúplný E02 fragment nebyl E11 doplněn do celku nad rámec již evidovaných E07–E10 doplnění.
+
+
+## E12 — Pozdější dostupná část konverzace 2026-10-11
+
+- Zdroj: přímo dostupná část aktuální konverzace po předchozím auditu E11.
+- Přenesen nový neduplicitní pracovní strukturální návrh: pět částí + úvod a závěr, návrh šestikrokové vnitřní stavby kapitol a související redakční doporučení pro dokončování knihy.
+- Soubor: [E12 — definitivní forma a pracovní proces](../texts/podklady/osnovy/e12-definitivni-forma-a-pracovni-proces.md).
+- Status: pracovní strukturální návrh a redakční doporučení. Není povýšen na finální osnovu; Q001 zůstává OPEN.
+- V pozdější dostupné části konverzace nebyly nalezeny nové celé kapitoly, úvody, závěry ani další literární pasáže určené přímo čtenářce, které by nebyly už zachyceny v E01/E06–E11. Rozhovor o Novém Dvoře, nástrojích pro psaní, Markdownu a AI modelech nebyl importován jako text knihy.
+- Aktuální kontext neposkytuje úplný přepis celé dlouhé konverzace od jejího počátku; nedostupné části nebyly rekonstruovány.
