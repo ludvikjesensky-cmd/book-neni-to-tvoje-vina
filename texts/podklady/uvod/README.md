@@ -16,6 +16,8 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Jak číst… a pozdější úpravy](e08-jak-cist-a-upravy.md) | pracovní varianta + redakční připomínka | E08 |
 | [Jak číst… jako čistá pozvánka](e09-jak-cist-cista-pozvanka.md) | pracovní varianta | E09 |
 
+| [E11 — Smysl knihy a role autora](e11-smysl-knihy-a-role-autora.md) | autorské zadání | E11 |
+
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 
 ## Další drobné pasáže
