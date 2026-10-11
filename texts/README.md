@@ -48,3 +48,9 @@ Pozdější část dostupné konverzace 2026-10-11 doplňuje tři podklady bez z
 - [redakční dialog o oddělení funkcí úvodu a první kapitoly](podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md).
 
 Tento přenos zpřesňuje dramaturgický princip, ale neurčuje finální osnovu ani nevybírá definitivní textovou variantu.
+
+## Přímý přenos současné konverzace E16
+Nejnovější neduplicitní rozpracování z dostupné konverzace 2026-10-11 je uloženo bez zásahu do pracovního výběru:
+- [„A teď ti chci něco ukázat“ — vysvětlení, pět variant a přechod do první kapitoly](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md).
+
+E16 zachovává autorovu připomínku, že věta podle něj do textu patří, ale je nedořečená. Delší pracovní varianta není finální volbou a musí být redakčně posouzena vedle D007.

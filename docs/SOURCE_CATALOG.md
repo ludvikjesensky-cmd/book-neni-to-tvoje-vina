@@ -380,3 +380,21 @@ V tomto E14 průchodu nebyl žádný starší E02 fragment doplněn do původní
 E15 významově navazuje na E11 distribuční záměr, ale není jeho kopií. E11 zachycuje obecný ekosystém YouTube/Facebook → Herohero → kniha/e-book/kurz. E15 přidává skutečný celý text z konkrétního kanálu, přímý feedback publika a explicitní hranici, že tato konkrétní témata autor nepovažuje za knihu.
 
 E15 nedoplňuje žádný starší E02 fragment do historického celku a nepřepisuje pracovní texty v kořeni `texts/`. Drobné obrazy a věty z dlouhého textu nejsou duplikovány do `texts/DROBNE_TEXTY.md`; jejich úplný původní kontext zůstává v jednom zdrojovém souboru E15.
+
+## E16 — dokončení věty „A teď ti chci něco ukázat“ (2026-10-11)
+
+- Zdroj: nejnovější přímo dostupná část této konverzace po E15.
+- Rozsah: autorova otázka po významu věty „A teď ti chci něco ukázat“, pracovní vysvětlení asistenta, autorova výslovná připomínka „Mám pocit, že tam patří. Jen je nedořečená“, pět odlišných dokončení a jedna celá navazující pracovní varianta přechodu do první kapitoly.
+- Úplnost: celé znění tohoto navazujícího dialogu je v E16 souboru zachováno. Nejde o rekonstrukci z fragmentů.
+- Přílohy: v této části konverzace nebyla použita žádná nová příloha.
+- Status: pracovní redakční materiál; konkrétní dokončení věty ani navazující první kapitola nebyly autorem schváleny jako finální.
+- Kontrola duplicity: původní úvod E01 už končí větou „A teď ti chci něco ukázat“ a krátkým přechodem, ale dnešní vysvětlení, pět variant a rozšířený přechod v E16 v repozitáři nebyly. E16 proto doplňuje pokračování, nikoli kopii E01.
+- Redakční vazba: při případném použití zkontrolovat proti D007; delší varianta částečně vysvětluje mechanismus viny ještě před první kapitolou.
+
+### Přenesený soubor
+
+- [E16 — „A teď ti chci něco ukázat“](../texts/podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md) — celý redakční dialog, pět variant dokončení a pracovní přechod do první kapitoly.
+
+### Doplnění fragmentu do celku
+
+E16 nedoplňuje starý E02 fragment. Doplňuje však dosud nedořečené místo již plně uloženého E01 úvodu: původní věta zůstává beze změny v E01 a nové pokračování je uchováno samostatně, aby nevznikl domnělý „originál“ složený z různých období.

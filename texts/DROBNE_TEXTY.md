@@ -169,3 +169,15 @@ E06 nepovyšuje návrh 14 mikrokapitol ani žádnou jinou osnovu na finální ob
 | [E09 — Dvě pozdější varianty první kapitoly](podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md) | dvě celé noční varianty a autorovo mezilehlé zadání „Obrazně, niterně“ | pracovní varianty |
 
 E09 nepřepisuje kořenové pracovní texty ani E07/E08. Zpřesňuje D007/F004 a uchovává plné formulace přímo dostupné pozdější části konverzace.
+
+## E16 — nejnovější přímo dostupná konverzace
+
+E16 je celé znění dostupné přímo, nikoli historický fragment. Je evidováno zde kvůli třem samostatně použitelným redakčním bodům; úplný kontext zůstává v jednom zdrojovém souboru.
+
+| ID | Pasáž | Téma | Zdroj |
+| --- | --- | --- | --- |
+| [E16-01](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md#e16-01) | Co znamená „A teď ti chci něco ukázat“ | Úvod a přechod | přímá konverzace 2026-10-11 |
+| [E16-02](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md#e16-02) | Autor: věta patří do textu, ale je nedořečená; pět variant dokončení | Úvod a přechod | přímá konverzace 2026-10-11 |
+| [E16-03](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md#e16-03) | Celý pracovní přechod do „Když se rozpadá to, čemu jsi věřila“ | Úvod a první kapitola | přímá konverzace 2026-10-11 |
+
+E16 není finální redakční volba a nemění D007 ani Q001/Q003.

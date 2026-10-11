@@ -124,3 +124,10 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - D014 a SCOPE výslovně chrání hranici: „Když láska bolí“ je příbuzná tvorba, nikoli automatický rukopis „Není to tvoje vina“.
 - `texts/DROBNE_TEXTY.md` nebyl plněn duplicitními výřezy z E15, protože celý zdroj je dostupný v jednom souboru a nejde o schválený knižní materiál.
 - E15 nedoplnil žádný starší E02 fragment do celku a nemění finální osnovu ani šest pracovních textů v kořeni `texts/`.
+
+## Doplnění E16 z nejnovější dostupné části konverzace 2026-10-11
+- Přidán jeden neduplicitní podkladový soubor k větě „A teď ti chci něco ukázat“: pracovní vysvětlení její funkce, pět variant dokončení a celý plynulý přechod do pracovní první kapitoly „Když se rozpadá to, čemu jsi věřila“.
+- Zachována autorova přesná připomínka, že věta podle něj do textu patří, ale je nedořečená. Konkrétní dokončení nebylo povýšeno na finální volbu.
+- E16 navazuje na uložený E01 úvod, ale nespojuje s ním různé historické varianty do domnělého originálu.
+- Delší E16 varianta částečně vysvětluje mechanismus viny před první kapitolou; při další redakci je nutné ji posoudit vedle aktivního D007. E16 D007, Q001 ani Q003 nemění.
+- V celé části této konverzace, kterou mám nyní skutečně k dispozici, jsou ostatní knižní texty a návrhy již pokryty E01 a E06–E15 nebo jsou významově/tekstově duplicitní. Úplnost částí historie, které nejsou v dostupném kontextu, nelze tvrdit.
