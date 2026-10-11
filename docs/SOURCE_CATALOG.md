@@ -320,3 +320,24 @@ Následující texty byly při E11 znovu ověřeny, ale nepřeneseny znovu, prot
 - Status: pracovní strukturální návrh a redakční doporučení. Není povýšen na finální osnovu; Q001 zůstává OPEN.
 - V pozdější dostupné části konverzace nebyly nalezeny nové celé kapitoly, úvody, závěry ani další literární pasáže určené přímo čtenářce, které by nebyly už zachyceny v E01/E06–E11. Rozhovor o Novém Dvoře, nástrojích pro psaní, Markdownu a AI modelech nebyl importován jako text knihy.
 - Aktuální kontext neposkytuje úplný přepis celé dlouhé konverzace od jejího počátku; nedostupné části nebyly rekonstruovány.
+
+
+## E13 — nejpozdější dostupná část této konverzace 2026-10-11
+
+- Zdroj: přímo dostupné zprávy v aktuální konverzaci po E12.
+- Metoda: porovnání s E01 a E06–E12; identické nebo již úplně uložené texty nebyly kopírovány.
+- Omezení: ani tento průchod neprokazuje úplnost částí historie, které nejsou v aktuálním kontextu přítomné. Nic z nedostupných částí nebylo rekonstruováno.
+- Přílohy: v této nejpozdější části nebyla pro knihu použita nová příloha.
+
+### Přenesené soubory E13
+
+- [E13 — kniha jako lékárnička a dvojí čitelnost](../texts/podklady/osnovy/e13-lekarnicka-a-dvoji-citelnost.md) — celé autorovo zadání o návratovém používání knihy a navazující pracovní rozpracování dvojí struktury: lineární cesta + samostatně použitelné „ampule úlevy“.
+- [E13 — Jak číst tuhle knihu, když nemáš sílu číst](../texts/podklady/uvod/e13-jak-cist-tuhle-knihu-kratka-varianta.md) — celé znění nové pracovní varianty úvodu z této části konverzace.
+- [E13 — celek před efektem](../texts/podklady/osnovy/e13-celek-pred-efektem.md) — autorova explicitní formulace problému „hromady výborných vět, které ale nedrží pohromadě“ a celý navazující redakční návrh rytmu, jedné hlavní rány/pohlazení a „parkoviště vět“.
+- [E13 — Když se všechno obrátí proti tobě](../texts/podklady/noc/e13-kdyz-se-vsechno-obrati-proti-tobe.md) — celý pracovní návrh nové noční první kapitoly. Jde o odlišnou variantu vedle E07/E09 a kořenového pracovního textu.
+
+### Neduplicitní kontrola
+
+E13 znovu nepotřeboval kopírovat manifest, mužský hlas, důvody viny, „Vinu jako šatnu pro bolest“, Facebook/voiceover texty, dvě série krátkých příspěvků ani starší osnovy, protože tyto materiály už jsou v E01/E06–E12 uloženy v plném nebo evidovaném znění.
+
+E13 nedoplnil žádný další starý E02 fragment do primárního historického originálu; přidal nové celé znění vzniklé v této přímo dostupné konverzaci.
