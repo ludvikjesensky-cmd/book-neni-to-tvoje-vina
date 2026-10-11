@@ -108,3 +108,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Nová noční kapitola je archivována jako další varianta. Nenahrazuje E07/E09 ani současný pracovní výběr v kořeni `texts/`.
 - Žádný další historický E02 fragment nebyl tímto průchodem doplněn do původního celku. Starší materiály, které už byly úplně uloženy v E01/E06–E12, nebyly duplikovány.
 - Tento přenos nemění Q001/Q003 a neurčuje finální osnovu ani finální znění úvodu či první kapitoly.
+
+## Doplnění E14 z přímo dostupné konverzace 2026-10-11
+- Přidány čtyři neduplicitní podklady z nejnovější části konverzace: autorské sebevymezení a literární role, celý autorský text „Někdy to není vina“, strukturální dialog o pětidílném oblouku / „Nejsi v tom sama“ / hlasu autora a celý pracovní návrh kapitoly „Měla jsem to poznat dřív“.
+- Nový strukturální materiál potvrzuje směr od katalogu bolestí k emocionálnímu pohybu knihy a posiluje dvojhlas: vnitřní hlas ženy + klidný autorův hlas. Neuzavírá však finální osnovu Q001.
+- „Někdy to není vina“ je uloženo jako odlišná celá varianta, nikoli jako náhrada E01/E05.
+- „Měla jsem to poznat dřív“ je výslovně vedeno jako neschválený návrh asistenta.
+- V E14 nebyl doplněn žádný starší E02 fragment do původního celku.
+- Dostupná historie této konverzace může být neúplná; nedostupné části nebyly rekonstruovány.
