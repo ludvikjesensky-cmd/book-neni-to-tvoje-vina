@@ -23,3 +23,5 @@ Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako souč�
 ## Další drobné pasáže
 
 [Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 20 úseků přímo z E01 a 4 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
+
+| [E14 — Autorský hlas a literární role](e14-autorsky-hlas-a-literarni-role.md) | autorské zadání | E14 |
