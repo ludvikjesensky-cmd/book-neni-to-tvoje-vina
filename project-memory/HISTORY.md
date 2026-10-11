@@ -30,3 +30,7 @@ Po třech historických průchodech byla vytěžena i tato právě dostupná kon
 
 ## 2026-10-11 — Audit celé dostupné větve E11
 Aktuálně dostupná větev této konverzace byla znovu projita proti historickým importům a katalogu. Většina velkých textů už byla zachráněna v E01/E06–E10. Přidány pouze tři neduplicitní autorské/koncepční podklady: hranice role autora, explicitní vývojový oblouk a pracovní vícevrstvý distribuční záměr. Nedostupné části historie nebyly domýšleny.
+
+
+## 2026-10-11 — Pozdější přímý harvest E12
+Po auditu E11 byla vytěžena ještě pozdější přímo dostupná část téže konverzace. Přibyl jeden nový strukturální podklad: návrh páteře s pěti částmi, úvodem a závěrem, šestikroková vnitřní stavba kapitoly a redakční doporučení pro dokončování. Návrh nebyl povýšen na finální osnovu; Q001 zůstává otevřené. Ostatní pozdější rozhovor se týkal zejména Nového Dvora, Scriveneru/Ulysses/Bear/Apple Notes, Markdownu a AI workflow a nebyl importován jako rukopis.
