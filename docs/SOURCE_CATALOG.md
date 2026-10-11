@@ -276,3 +276,37 @@ Přímá kontrola značek stran v E01 potvrzuje jako přesnější dosavadní ka
 - „Když ses naučila být hodná“ zasahuje do s. 159, nikoli pouze do s. 158.
 
 Podrobná vazba tehdejšího přehledu na uložené soubory je v [kontrole pokrytí](HARVEST_REVIEW.md).
+
+
+## E11 — audit celé přímo dostupné větve konverzace 2026-10-11
+
+- Zdroj: tato právě dostupná konverzace v ChatGPT, znovu projitá 2026-10-11 po jednotlivých typech materiálu proti existujícímu repozitáři.
+- Metoda: porovnání přímo dostupného znění s `texts/podklady/`, `texts/DROBNE_TEXTY.md`, tematickými README a tímto katalogem. Identické nebo již úplně uložené texty nebyly kopírovány pod novým názvem.
+- Výsledek: hlavní souvislé texty této větve už byly zachyceny v E01 a pozdějších přímých přenosech E06–E10. Audit potvrdil úplné uložení zejména: „Dopis ženě“, mužský pohled na zpětné sebeobviňování, obě varianty „Vina jako šatna pro bolest“, obálkové/Facebook/voiceover texty, dvě série krátkých příspěvků, claimy, úvod „Až tě to zase v noci probudí“, několik historických osnov a prožitkový oblouk.
+- Drobné nové položky: samostatně archivovány níže uvedené autorské formulace a pracovní redakční poznámky, které byly v dostupné větvi explicitní, ale nebyly dosud vedeny jako vlastní E11 položka.
+- Omezení: tato kontrola pokrývá pouze zprávy skutečně přítomné v aktuálním kontextu konverzace. Část starší historie může být systémem zkrácena nebo nedostupná; audit tedy neprokazuje úplnost celé původní konverzace. Nic z nedostupných částí nebylo rekonstruováno.
+- Přílohy: v této viditelné větvi je obrázek nádražních hodin v 16:30, ale nesouvisí s textovým rukopisem a nebyl importován do projektu knihy.
+
+### E11 položky
+
+- [E11 — autorská formulace smyslu knihy a hranice role autora](../texts/podklady/uvod/e11-smysl-knihy-a-role-autora.md) — autorova formulace „Nejsem tu od toho, abych říkal ženám, co mají cítit…“ a navazující úvaha, že cílem není vytvářet náhradu partnera, ale potvrdit skutečnost prožitku.
+- [E11 — vývojový oblouk knihy vlastními slovy autora](../texts/podklady/osnovy/e11-vyvojovy-oblouk-autora.md) — autorův explicitní návrh: noční vtažení → vysvětlení bolesti bez místa → ujištění, že v tom není sama → důvody → úleva → hlavní kapitoly.
+- [E11 — tvůrčí a distribuční záměr](../texts/podklady/propagace/e11-distribucni-zamer.md) — autorův pracovní plán více vrstev: YouTube/Facebook, hlubší Herohero, kratší kniha/e-book, vybraná témata jako kurz; jde o doprovodný projektový podklad, nikoli o rozhodnutí o vydání této knihy.
+
+### Neduplicitní kontrola
+
+Následující texty byly při E11 znovu ověřeny, ale nepřeneseny znovu, protože už mají samostatné plné znění:
+- `texts/podklady/bolest-a-vina/e01-dopis-zene.md`
+- `texts/podklady/bolest-a-vina/e01-proc-si-zena-bere-vinu.md`
+- `texts/podklady/bolest-a-vina/e01-vina-jako-satna-zpomalena.md`
+- `texts/podklady/kratke-texty/e01-bolest-a-uznani.md`
+- `texts/podklady/kratke-texty/e01-pohlazeni-uleva-nadeje.md`
+- `texts/podklady/propagace/e01-zadni-strana.md`
+- `texts/podklady/propagace/e01-facebook.md`
+- `texts/podklady/propagace/e01-voiceover.md`
+- `texts/podklady/propagace/e01-claim-jemne-varianty.md`
+- `texts/podklady/uvod/e01-az-te-to-zase-v-noci-probudi.md`
+- `texts/podklady/osnovy/e01-deset-vet.md`
+- `texts/podklady/osnovy/e01-prozitkovy-oblouk.md`
+
+Žádný dříve neúplný E02 fragment nebyl E11 doplněn do celku nad rámec již evidovaných E07–E10 doplnění.
