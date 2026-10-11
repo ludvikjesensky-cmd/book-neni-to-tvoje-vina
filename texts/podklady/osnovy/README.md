@@ -21,6 +21,10 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Prvotní koncept a pět kapitol](e01-prvotni-koncept.md) | osnova | E01, s. 49–51 |
 | [Dvě poloviny knihy – bolest a jiná možnost](e05-dve-poloviny.md) | osnova | E05, s. 111–119 |
 
+| [Struktury a redakční pohledy](e06-struktury-a-redakcni-pohledy.md) | redakční podklad | E06 |
+| [První část a redakční rozhodování](e08-prvni-cast-a-redakcni-rozhodovani.md) | redakční podklad | E08 |
+| [Oddělení úvodu a první kapitoly](e09-oddeleni-uvodu-a-prvni-kapitoly.md) | redakční dialog + rozhodnutí | E09 |
+
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
 
 ## Další drobné pasáže
