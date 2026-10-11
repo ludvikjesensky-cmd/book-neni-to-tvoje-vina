@@ -24,3 +24,5 @@ Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako souč�
 ## Další drobné pasáže
 
 [Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 7 úseků přímo z E01 a 4 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
+
+| [E14 — Někdy to není vina](e14-nekdy-to-neni-vina.md) | autorský pracovní text | E14 |
