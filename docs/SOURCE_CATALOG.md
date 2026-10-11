@@ -212,3 +212,21 @@ Charakteristické formulace „Nemusela jsi to zvládnout líp“, „Ráno vsta
 ### Co nebylo duplikováno
 - Úplný text „Jak číst tuhle knihu, když nemáš sílu číst“ je již uložen jako E01 a v této konverzaci se shoduje s dochovanou verzí, proto nebyl zkopírován znovu.
 - Redakční princip „šperkárna po výbuchu“, parkoviště vět a „Nechci ohromit. Chci doprovodit.“ již existuje v M044 a nebyl znovu kopírován.
+
+
+## E08 — pozdější práce z přímo dostupné konverzace 2026-10-11
+
+- Zdroj: tato přímo dostupná konverzace 2026-10-11.
+- Rozsah: pozdější návrat k úplnému začátku knihy, rozšíření knihy i na každodenní chyby, nová pracovní varianta „Jak číst…“, autorova jazyková připomínka ke slovu „výkon“, redakční rozhodování kolem první noční kapitoly, návrh první části a celý pracovní text „Něco je tvoje. Ale ne všechno.“
+- Úplnost: úplné znění níže uvedených zpráv tak, jak je přímo dostupné v této konverzaci. Tím není prokázána úplnost všech starších konverzací projektu.
+- Metoda: zachováno přesné znění; text knihy, autorovo zadání a redakční komentář jsou odděleny. Varianty nejsou sloučeny.
+
+### Přenesené soubory E08
+- [Jak číst… a pozdější úpravy](../texts/podklady/uvod/e08-jak-cist-a-upravy.md) — rozšířená pracovní varianta pro každodenní chyby, autorova připomínka ke slovu „výkon“ a tři náhradní formulace.
+- [První část a redakční rozhodování](../texts/podklady/osnovy/e08-prvni-cast-a-redakcni-rozhodovani.md) — autorovo zaváhání nad složitější novou noční kapitolou, doporučení zachovat původní jednoduchost a návrh sedmi kapitol první části. Jde o podklad, ne finální osnovu.
+- [Něco je tvoje. Ale ne všechno.](../texts/podklady/odpovednost-a-cizi-vina/e08-neco-je-tvoje-ale-ne-vsechno.md) — celý pracovní návrh kapitoly, který v dosavadním repozitáři nebyl nalezen.
+
+### Porovnání a neduplikované položky
+- Původní úplný text „Jak číst tuhle knihu, když nemáš sílu číst“ z E01 zůstává zachován beze změny. E08 ukládá odlišnou pozdější variantu, nikoli kopii původní verze.
+- Původní noční kapitola E07 zůstává zachována beze změny. Pokus o její širší přepis nebyl při tomto přenosu vydáván za náhradu; důležitější je zde zachycené autorovo rozhodování, že složitější verze ztratila jednoduchost původního textu.
+- Návrh sedmi kapitol první části je archivován pouze jako pracovní struktura. Neuzavírá Q001/Q002 ani nepřepisuje existující pracovní kapitoly.
