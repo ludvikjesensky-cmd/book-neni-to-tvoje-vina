@@ -26,3 +26,7 @@ Na opakované zadání autora devět cílených hledání historických rozhovor
 
 ## 2026-10-11 — Přímý přenos současné konverzace E06
 Po třech historických průchodech byla vytěžena i tato právě dostupná konverzace. Na rozdíl od E02 nejde o vyhledávací úryvky, ale o přímo dostupné znění zpráv v aktuálním vlákně. Uloženy tři podkladové soubory: autorské zadání a úvodní texty, mikrokapitoly a náplasti, pracovní struktury a redakční pohledy. Přenos zachovává varianty a role; návrhy asistenta nejsou vydávány za autorův rukopis. Autor současně výslovně zabrzdil předčasné uzavření osnovy a potvrdil princip knihy jako pohlazení a objetí.
+
+
+## 2026-10-11 — Audit celé dostupné větve E11
+Aktuálně dostupná větev této konverzace byla znovu projita proti historickým importům a katalogu. Většina velkých textů už byla zachráněna v E01/E06–E10. Přidány pouze tři neduplicitní autorské/koncepční podklady: hranice role autora, explicitní vývojový oblouk a pracovní vícevrstvý distribuční záměr. Nedostupné části historie nebyly domýšleny.
