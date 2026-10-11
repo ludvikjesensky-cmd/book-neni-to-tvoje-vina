@@ -116,3 +116,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - „Měla jsem to poznat dřív“ je výslovně vedeno jako neschválený návrh asistenta.
 - V E14 nebyl doplněn žádný starší E02 fragment do původního celku.
 - Dostupná historie této konverzace může být neúplná; nedostupné části nebyly rekonstruovány.
+
+## Doplnění E15 z této přímo dostupné konverzace 2026-10-11
+- Uložen celý původní autorský text pro kanál „Když láska bolí“ jako související zdroj mimo rukopis; zachovány i dvě odlišné závěrečné varianty v původním znění.
+- Uloženy autorovy formulace o skutečné odezvě publika, rozhodnutí mluvit především k ženám, oddělení těchto témat od knihy, preferenci audia, rozšíření na IG/Reels/Shorts, potřebě osobní vazby a otázce placené vrstvy.
+- Pracovní návrhy asistenta k YouTube/Herohero, osobnímu hlasu a teleprompteru jsou archivovány odděleně a nejsou vedeny jako autorská rozhodnutí.
+- D014 a SCOPE výslovně chrání hranici: „Když láska bolí“ je příbuzná tvorba, nikoli automatický rukopis „Není to tvoje vina“.
+- `texts/DROBNE_TEXTY.md` nebyl plněn duplicitními výřezy z E15, protože celý zdroj je dostupný v jednom souboru a nejde o schválený knižní materiál.
+- E15 nedoplnil žádný starší E02 fragment do celku a nemění finální osnovu ani šest pracovních textů v kořeni `texts/`.
