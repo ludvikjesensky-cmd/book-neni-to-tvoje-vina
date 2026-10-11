@@ -341,3 +341,23 @@ Následující texty byly při E11 znovu ověřeny, ale nepřeneseny znovu, prot
 E13 znovu nepotřeboval kopírovat manifest, mužský hlas, důvody viny, „Vinu jako šatnu pro bolest“, Facebook/voiceover texty, dvě série krátkých příspěvků ani starší osnovy, protože tyto materiály už jsou v E01/E06–E12 uloženy v plném nebo evidovaném znění.
 
 E13 nedoplnil žádný další starý E02 fragment do primárního historického originálu; přidal nové celé znění vzniklé v této přímo dostupné konverzaci.
+
+## E14 — pozdější přímo dostupná část této konverzace 2026-10-11
+
+- Zdroj: přímo dostupné zprávy v aktuální konverzaci po E13.
+- Metoda: porovnání s existujícími E01–E13, tematickými podklady a aktuální Project Memory. Identické texty nebyly znovu kopírovány; odlišné celé varianty byly zachovány samostatně.
+- Omezení: dostupný kontext této konverzace není zárukou úplného přepisu všech jejích starších částí. Nedostupný text nebyl rekonstruován ani domýšlen.
+- Přílohy: v této části konverzace nebyla použita nová příloha související s knihou.
+
+### Přenesené soubory E14
+
+- [E14 — Autorský hlas a literární role](../texts/podklady/uvod/e14-autorsky-hlas-a-literarni-role.md) — celé autorovo dnešní sebevymezení „Píšu. Dívám se kolem sebe…“ a navazující zadání literárního partnerství, včetně role tichého svědka, naslouchání a motivu ženského sebeobviňování.
+- [E14 — Někdy to není vina](../texts/podklady/bolest-a-vina/e14-nekdy-to-neni-vina.md) — celý autorský souvislý text vložený v této konverzaci; samostatná pracovní varianta vedle historických textů o bolesti a vině.
+- [E14 — Pětidílný oblouk, „Nejsi v tom sama“ a hlas autora](../texts/podklady/osnovy/e14-petidilny-oblouk-nejsi-v-tom-sama-a-hlas-autora.md) — autorovo odmítnutí katalogu bolestí, souhlas s pětidílným obloukem, doplnění motivu „Nejsi v tom sama“ a návrh delšího autorova hlasu na začátku každého dílu.
+- [E14 — „Měla jsem to poznat dřív“](../texts/podklady/odpovednost-a-cizi-vina/e14-mela-jsem-to-poznat-driv-pracovni-kapitola.md) — celé znění pracovního návrhu kapitoly asistenta; výslovně označeno jako neschválená varianta, nikoli původní autorský text.
+
+### Neduplicitní kontrola a doplnění fragmentů
+
+E14 znovu nekopíruje starší E05 texty „Když bolest nemá kam jít…“, „Nejsi jediná, kdo to takhle cítí“ ani „Nejsi špatná, že tohle cítíš“. Nový autorský text „Někdy to není vina“ je významově příbuzný, ale formulacemi a stavbou odlišný, proto je zachován jako samostatná varianta.
+
+V tomto E14 průchodu nebyl žádný starší E02 fragment doplněn do původního historického celku. Přibyly nové celé texty z aktuálně dostupné konverzace.
