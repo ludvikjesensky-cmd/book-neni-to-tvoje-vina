@@ -190,3 +190,25 @@ Datum u každé sady je údaj vyhledávání, ne nově ověřená datace primár
 
 ### Porovnání s existujícími podklady
 Charakteristické formulace „Nemusela jsi to zvládnout líp“, „Ráno vstaneš a už máš pocit, že jdeš pozdě“, „Tvoje vina není kuriozita“, celý současný pracovní úvod a dnešní redakční role nebyly před přenosem nalezeny v repozitáři. Historicky příbuzné motivy („sednout si vedle“, lékárnička, bolest jako vina, důstojnost) již existují v E01/E02/E05; E06 se uchovává jako samostatná nová varianta, nikoli náhrada starších textů.
+
+
+## E07 — přímo dostupná konverzace 2026-10-11
+
+- Typ zdroje: přímo dostupná aktuální konverzace, nikoli historické vyhledávání.
+- Rozsah: zprávy od návratu k projektu a fixace struktury přes psaní úvodu, první noční kapitoly, druhé části „Nemusíš nést, co tě zraňuje“, celé kapitoly „Jsem úplně blbá.“ a následné koncepční upřesnění o každodenních chybách a vině jako součásti identity.
+- Úplnost: dostupná část této konverzace byla pro tento přenos přímo čitelná. Tím není prokázána úplnost všech dřívějších konverzací projektu.
+- Přílohy: v této dostupné části nejsou použity žádné knižní přílohy.
+- Metoda: přesné znění bylo zachováno; text knihy, autorské zadání a redakční komentář jsou odděleny.
+
+### Nově uložené celé texty
+- [Když vina přijde místo spánku](../texts/podklady/noc/e07-kdyz-vina-prijde-misto-spanku.md) — celý pracovní návrh první noční kapitoly. Samostatná varianta vedle E05 a fragmentů E02.
+- [Nemusíš nést, co tě zraňuje](../texts/podklady/odpovednost-a-cizi-vina/e07-nemusis-nest-co-te-zranuje.md) — celý pracovní úvod druhé části. Doplňuje fragment V011.
+- [„Jsem úplně blbá.“](../texts/podklady/chyba-a-rozsudek/e07-jsem-uplne-blba-cele-zneni.md) — celý pracovní text kapitoly. Doplňuje soubor E02, kde byly dosud jen tři fragmenty.
+
+### Nové drobné a koncepční podklady
+- Do [Rytmu a propojení částí](../texts/podklady/osnovy/drobne-texty-a-metafory.md) doplněny: autorova formulace knihy jako „lékárničky“, dvojí struktura cesta + fragmentární použitelnost, návrh šesti rozsudků druhé části a pracovní formulace „vnitřního soudu“.
+- Do [Chyby a rozsudku](../texts/podklady/chyba-a-rozsudek/drobne-texty-a-metafory.md) doplněny: autorova formulace každodenních selhání a věty „Vina se stává součástí její identity“, plus pracovní rozlišení „Udělala jsem chybu“ / „Já jsem chyba“.
+
+### Co nebylo duplikováno
+- Úplný text „Jak číst tuhle knihu, když nemáš sílu číst“ je již uložen jako E01 a v této konverzaci se shoduje s dochovanou verzí, proto nebyl zkopírován znovu.
+- Redakční princip „šperkárna po výbuchu“, parkoviště vět a „Nechci ohromit. Chci doprovodit.“ již existuje v M044 a nebyl znovu kopírován.
