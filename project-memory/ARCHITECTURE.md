@@ -25,3 +25,6 @@ Koncepční opory: noční sebeodsuzování, sdílenost, rozlišení chyby a ide
 
 ## Externí a produkční systémy
 Historický PDF export je v ChatGPT, identifikován v katalogu. Databáze, server ani webová aplikace nejsou součástí aktuální architektury. Sazba, archiv release a nezávislý backup TBD.
+
+## Zásobníky drobných textů
+Každé téma může obsahovat drobne-texty-a-metafory.md. Stabilní ID Mxxx označuje přímý úsek E01; Vxxx neúplnou sadu výňatků E02. texts/DROBNE_TEXTY.md je navigační rejstřík k těmto položkám. Nevytváří finální osnovu ani paralelní redakční stav. Původní zadání autora a redakční úvahy zůstávají odlišeny od textu určeného čtenářce.

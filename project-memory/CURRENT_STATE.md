@@ -12,6 +12,12 @@
 - Přímo přečteny tři různé exporty: E01 (215 stran), E04 (139 stran), E05 (166 stran). E04 nepřinesl další unikátní knižní text; E05 přinesl samostatnou větev s pěti celými kapitolami.
 - Závěr „Dovol si…“ je obnoven jako rozsáhlé rozpracování, nikoli hotový závěr.
 
+## Doplnění po druhém podrobném průchodu
+- Dalších 60 přímo převzatých úseků E01 a 14 sad neúplných výňatků E02 v 11 tematických souborech drobne-texty-a-metafory.md; přibližně 9 550 dalších slov podkladů.
+- Vedle drobných vět a metafor je obnoven i celý manifest „Proč píšu pro ženy“ a podklady pro hlas autora. Širší předhistorie je výslovně označena.
+- Samostatný navigační rejstřík: texts/DROBNE_TEXTY.md. Kontrola importu: docs/HARVEST_REVIEW.md.
+- Celkem 69 zdrojových textových souborů: šest základních, 52 z prvního rozšíření a 11 tematických zásobníků z druhého průchodu; přehledy se do počtu nepočítají.
+
 ## Známé mezery
 - Úplnost všech historických rozhovorů a rukopisných verzí není prokázána. Vyhledávání neposkytuje úplný archiv.
 - Pozdější noční přepisy a úvod z 30. 7. jsou v E02 jen v úryvcích.

@@ -16,3 +16,6 @@ Dědí se hlas, účel, prožitková cesta a rozlišení odpovědnosti od sebeod
 
 ## 2026-10-11 — Rozšířená obnova historického psaní
 Znovu prohledány rozhovory a přímo přečteny tři unikátní PDF exporty E01/E04/E05. Přidáno 52 souborů zdrojových textů a 11 tematických přehledů; původních šest pracovních textů zachováno. Import obsahuje 14 dalších souvislých variant, krátké série, obálkové texty, historické osnovy a rozpracování závěru. Fragmenty z vyhledávání jsou odděleny od přímého PDF přepisu. Opakované pasáže E04 a kopie stejných exportů nebyly importovány znovu. Finální osnova tím nevzniká.
+
+## 2026-10-11 — Druhý průchod po drobných formulacích
+Na výslovnou žádost autora znovu porovnány zdrojové úseky s dosavadními importy. Doplněno 60 pasáží E01 a 14 sad výňatků E02, tematicky v 11 souborech. Přibyl rejstřík drobností a kontrola pokrytí. Obnoven i manifest a rané zásobníky témat; jejich širší původ je označen. Celé původní kapitoly nebyly přepisovány.

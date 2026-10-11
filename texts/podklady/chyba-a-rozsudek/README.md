@@ -10,3 +10,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Jsem úplně blbá. – dostupné úryvky](e02-jsem-uplne-blba.md) | výňatky | E02 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 1 úseků přímo z E01 a 1 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).

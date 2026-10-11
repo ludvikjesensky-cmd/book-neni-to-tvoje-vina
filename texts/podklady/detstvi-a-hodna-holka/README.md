@@ -14,3 +14,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Most od hodné holky k bolesti](e01-most-k-bolesti.md) | fragment | E01, s. 163–163 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 3 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).

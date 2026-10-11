@@ -12,3 +12,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Noční kapitola – dva pozdější začátky](e02-noc-2026-07-30.md) | výňatky | E02 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 2 úseků přímo z E01 a 2 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).

@@ -15,3 +15,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Tři jemnější varianty claimu](e01-claim-jemne-varianty.md) | doprovodný text | E01, s. 100–100 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).

@@ -22,3 +22,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Dvě poloviny knihy – bolest a jiná možnost](e05-dve-poloviny.md) | osnova | E05, s. 111–119 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).

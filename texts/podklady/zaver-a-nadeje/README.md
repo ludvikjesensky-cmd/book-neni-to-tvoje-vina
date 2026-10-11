@@ -10,3 +10,7 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Ale takhle to být nemusí](e05-ale-takhle-to-byt-nemusi.md) | text | E05, s. 131–134 |
 
 Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+
+## Další drobné pasáže
+
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 2 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).

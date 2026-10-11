@@ -142,3 +142,23 @@ Přidáno 52 souborů s původními texty a podklady. Přímo převzaté pasáž
 - U „Nemusíš nést, co tě zraňuje“ jsou výsledky nejednotné: část vrací jen starší osnovu, část popisuje pozdější úvod. Nespojovali jsme je do falešné úplné kapitoly.
 - Starší zobecnění o ženách/mužích a mechanismu viny jsou historické návrhy, nikoli ověřené odborné závěry.
 - Vyhledání a porovnání dostupných podkladů nezaručuje úplnost všech předchozích konverzací. Případné nové zdroje se mají přidat s vlastní proveniencí.
+
+## Druhý podrobný průchod — drobné pasáže
+
+Dne 2026-10-11 na opakované zadání autora doplněno 60 přímo přečtených úseků E01 (9 211 slov) a 14 sad výňatků E02 (341 slov). Uloženy v 11 tematických souborech drobne-texty-a-metafory.md. Konkrétní místa a rozsahy: [rejstřík](../texts/DROBNE_TEXTY.md). Počítají se úseky a slova podkladů, nikoli nové kapitoly či unikátní myšlenky.
+
+### Co přinesla další kontrola
+
+- Pasáže mezi dříve importovanými kapitolami: malé metafory, přechody, úvahy o rytmu, autorská zadání a významná místa pracovního dialogu.
+- Předhistorie E01: celý manifest „Proč píšu pro ženy“, rozvinutý text o hlasu autora, vize/mise širší tvorby, české náměty a původní anglický zásobník názvů/podtitulů. Tyto části nejsou prohlášeny za text určený od počátku do této knihy.
+- Další E02: listopadové návrhy úvodu a minikapitoly, metafory kabátu/volantu/šatny a kuchyně, drobné formulace z listopadu 2025 a března až července 2026.
+- Autorovy formulace jsou označené „autor“; souvislá výměna „rozhovor“; návrhy asistenta samostatně.
+- E02 má nižší jistotu doslovnosti než E01. Výsledek může popisovat tehdejší nově navržené nebo rekonstruované znění; uchováváme je jako takové. Nezaručujeme primární doslovnost podle vyhledávacího souhrnu.
+
+### Přenos a kontrola
+
+Přímé úseky jsou odvozené z konkrétních řádků E01 bez přepsání formulací. Odstraněny technické patičky, značky stran, marker 2/2, ovládací text a izolované označení větve rozhovoru. Původní pravopis, citace, řádkové zlomy a starší přehánějící výroky zůstávají. Autorovy připomínky a redakční metafory jsou záměrně zachovány jako podklad, nikoli jako souvislý hlas knihy.
+
+Porovnáno se všemi dosavadními textovými soubory: žádný z 60 celých nových úseků není doslovnou kopií celého úseku již uloženého v repozitáři po sjednocení bílých znaků. Některé jednotlivé věty se přirozeně opakují v různých diskusích a variantách; jejich kontext je zachován. Opakované položky uvnitř původního anglického seznamu nebyly potichu škrtány.
+
+Podrobnosti, co se kontrolovalo a co zůstalo mimo knižní import: [kontrola pokrytí](HARVEST_REVIEW.md).
