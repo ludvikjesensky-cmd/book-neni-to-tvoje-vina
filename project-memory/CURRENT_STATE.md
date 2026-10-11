@@ -85,3 +85,11 @@ GitHub je autoritativní pro další práci. Současný stav je zde; historie te
 - Aktuální inventář zůstává 81 zdrojových textových souborů: 6 v kořeni `texts/` a 75 v `texts/podklady/`; tematické README a rejstříky se do počtu nezahrnují.
 - Tento audit opravil v evidenci čtyři nepřesnosti tehdejšího slovního stránkování podle samotného E01; podrobnosti jsou v E10 v katalogu zdrojů.
 - Žádný fragment nebyl tímto průchodem doplněn do celku. Známé mezery mimo E01/E04 zůstávají beze změny.
+
+
+## Audit E11 z celé přímo dostupné větve konverzace 2026-10-11
+- Znovu porovnána aktuálně dostupná historie této konverzace proti E01 a přenosům E06–E10.
+- Hlavní souvislé texty a známé varianty už byly v repozitáři; nebyly duplikovány.
+- Přidány tři neduplicitní koncepční podklady E11: smysl knihy a hranice role autora, vývojový oblouk vlastními slovy autora a širší tvůrčí/distribuční záměr.
+- Audit neprokazuje úplnost částí historie, které nejsou v aktuálním kontextu konverzace dostupné. Nedostupné části nebyly rekonstruovány.
+- Žádný další E02 fragment nebyl E11 doplněn do celku.
