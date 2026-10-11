@@ -172,3 +172,21 @@ Přeneseno 27 sad V015–V041, 90 citovaných úryvků, 956 slov. Přesná při�
 U delších citací byly odstraněny pouze vnější citační uvozovky a prezentační kurzíva výsledku; zachovány výpustky i neúplné začátky/kontext. Překrývající se varianty počátku textu o stárnutí jsou uvedeny odděleně; nedoplňují se do domnělého originálu. Některé krátké věty zůstávají významově obdobné již uloženým formulacím, jde však o další vrácené varianty.
 
 Datum u každé sady je údaj vyhledávání, ne nově ověřená datace primárního dokumentu. Výsledky někdy tvrdí „celý text“ a současně poskytují jen několik úryvků. Do repozitáře vstupuje pouze vrácené znění, nikdy domnělá chybějící část.
+
+
+## E06 — přímo dostupná konverzace 2026-10-11
+
+- Zdroj: tato konverzace v ChatGPT, přímo dostupná při přenosu 2026-10-11.
+- Název konverzace ani její stabilní přímý odkaz nejsou v dostupném přepisu spolehlivě doloženy, proto nejsou doplněny.
+- Jistota doslovnosti: vysoká pro zprávy zachycené v aktuálním kontextu; nejde o vyhledávací rekonstrukci E02.
+- Hranice: dostupná je tato konverzace od současného autorského zadání po žádost o přenos. Tím není prokázána úplnost všech starších konverzací projektu.
+- Přílohy: v dostupné části této konverzace nejsou pro knihu použity žádné přílohy.
+- Při importu byly odděleny autorovy formulace, textové návrhy asistenta a redakční komentáře. Nebyla provedena literární korektura ani syntéza různých variant do nového „originálu“.
+
+### Přenesené soubory E06
+- [Autorské zadání a úvodní pracovní texty](../texts/podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md) — autorovo současné zadání, celý pracovní úvod „Sedím si teď vedle tebe“, autorův návrh úvodního bloku, tři celé návrhy pohlazení/ujistění/odejmutí a pozdější koncepční připomínky.
+- [Mikrokapitoly a řada náplastí](../texts/podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md) — zásobník 37 konkrétních pocitů viny, návrh zúžení na 14, 29 samostatných náplastí a pracovní napárování.
+- [Pracovní struktury a redakční pohledy](../texts/podklady/osnovy/e06-struktury-a-redakcni-pohledy.md) — pohled nakladatele, editora, kritika, blogerky a modelové čtenářky; pracovní návrh celku a pozdější návrh chybějících pilířů.
+
+### Porovnání s existujícími podklady
+Charakteristické formulace „Nemusela jsi to zvládnout líp“, „Ráno vstaneš a už máš pocit, že jdeš pozdě“, „Tvoje vina není kuriozita“, celý současný pracovní úvod a dnešní redakční role nebyly před přenosem nalezeny v repozitáři. Historicky příbuzné motivy („sednout si vedle“, lékárnička, bolest jako vina, důstojnost) již existují v E01/E02/E05; E06 se uchovává jako samostatná nová varianta, nikoli náhrada starších textů.

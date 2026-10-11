@@ -72,3 +72,18 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: autor chce maximálně využít předešlou práci.
 - Důsledky: základní pracovní výběr zůstává; podklady obsahují odlišné zdrojové varianty, rozpracování a výňatky s proveniencí. Mezery se nevymýšlejí. Import není schválení literární ani faktické správnosti.
 - Zdroj: explicitní zadání autora v této konverzaci.
+
+
+## D011 — Kniha jako pohlazení a objetí, ne výčet bolestí
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: kniha jako celek nemá být jen výčtem bolestí. Má fungovat jako pohlazení a objetí; před konkrétními tématy má být prostor, který ženu nejprve drží, ujišťuje a odebírá část nesené viny.
+- Důvod: autor to v této konverzaci výslovně formuloval: „Nechtěl bych, aby ta kniha byla jen výčtem bolestí. Proto tam chci tu úvodní část. Chci aby kniha byla pohlazením, objetím“.
+- Důsledky: návrhy 37, 14 ani jiného počtu mikrokapitol nejsou samy o sobě kostrou knihy. Před další fixací osnovy je třeba posoudit celek a chybějící opěrné vrstvy.
+- Zdroj: E06, texts/podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md.
+
+## D012 — Úvodní blok před konkrétními tématy
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: před konkrétními mikrokapitolami má být krátký blok, který 1) ukáže prožívání viny na obrazu ženy, 2) ujistí ji, že v tom není sama a že tento způsob sebeobviňování má širší naučený kontext, 3) připomene, že ne všechno, co nese, je její a ne každá bolest je její vina.
+- Důvod: explicitní autorův návrh a následné potvrzení potřeby úvodní části.
+- Důsledky: konkrétní znění tří textů E06 je pouze pracovní návrh asistenta. Rozhodnutí se týká funkce bloku, nikoli jeho definitivního textu, počtu stránek nebo přesného pořadí.
+- Zdroj: E06, texts/podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md.

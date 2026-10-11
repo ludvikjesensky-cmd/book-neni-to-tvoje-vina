@@ -44,3 +44,10 @@
 
 ## Provozní pravda
 GitHub je autoritativní pro další práci. Současný stav je zde; historie textů v Gitu, původ v docs/SOURCE_CATALOG.md. Samostatná databáze ani dashboard nejsou potřeba.
+
+
+## Doplnění z přímo dostupné konverzace 2026-10-11
+- Přeneseny tři nové soubory E06 z této přímo dostupné konverzace: současné autorské zadání a úvodní texty, mikrokapitoly/náplasti a pracovní strukturální/redakční pohledy.
+- Zachováno celé znění nového pracovního úvodu „Sedím si teď vedle tebe“, tří návrhů úvodního bloku, 37 témat viny, návrhu 14 témat, 29 samostatných náplastí a jejich pracovního napárování.
+- Zachovány autorské formulace, že kniha nemá být výčtem bolestí, ale pohlazením a objetím, a že autor nepovažuje celek za uzavřený.
+- Tyto texty jsou podklady. Neuzavírají Q001 ani Q002 a nepřepisují současných šest pracovních textů.

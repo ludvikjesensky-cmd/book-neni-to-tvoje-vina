@@ -30,3 +30,12 @@ Jednotlivé věty, metafory, autorská zadání a malé odstavce najdeš v [rejs
 Soubory E01/E05 jsou převzaté z konkrétních míst PDF exportů. E02 obsahuje pouze výňatky vrácené vyhledáváním rozhovorů. Každý soubor má původ a případně autorovy tehdejší připomínky. Identické pasáže v několika exportech nejsou kopírovány znovu. Názvy souborů identifikují zdroj a téma; následné změny verzujeme Gitem.
 
 Původ a rozsah importů: [katalog zdrojů](../docs/SOURCE_CATALOG.md). Aktuální redakční stav: [CURRENT_STATE](../project-memory/CURRENT_STATE.md). Mapa projektu: [PROJECT.md](../PROJECT.md).
+
+
+## Přímý přenos současné konverzace E06
+Nové podklady z dostupné konverzace 2026-10-11 jsou uloženy bez zásahu do pracovního výběru:
+- [autorské zadání a úvodní pracovní texty](podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md),
+- [mikrokapitoly a náplasti](podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md),
+- [struktury a redakční pohledy](podklady/osnovy/e06-struktury-a-redakcni-pohledy.md).
+
+E06 je podkladová vrstva. Autor v této konverzaci výslovně uvedl, že knihu ještě nepovažuje za kompletní a nechce, aby se z ní stal jen výčet bolestí.

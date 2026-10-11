@@ -22,3 +22,7 @@ Na výslovnou žádost autora znovu porovnány zdrojové úseky s dosavadními i
 
 ## 2026-10-11 — Třetí průchod dalšími rozhovory
 Na opakované zadání autora devět cílených hledání historických rozhovorů. Doplněno 27 sad (90 krátkých výňatků, 956 slov) do stávajících tematických souborů. V rejstříku přibyly V015–V041. Vyřazeny čtyři textové shody s dosavadními importy a nesouvisející výsledky. Rozšíření poskytuje další drobnosti, nikoli potvrzení úplnosti historického archivu.
+
+
+## 2026-10-11 — Přímý přenos současné konverzace E06
+Po třech historických průchodech byla vytěžena i tato právě dostupná konverzace. Na rozdíl od E02 nejde o vyhledávací úryvky, ale o přímo dostupné znění zpráv v aktuálním vlákně. Uloženy tři podkladové soubory: autorské zadání a úvodní texty, mikrokapitoly a náplasti, pracovní struktury a redakční pohledy. Přenos zachovává varianty a role; návrhy asistenta nejsou vydávány za autorův rukopis. Autor současně výslovně zabrzdil předčasné uzavření osnovy a potvrdil princip knihy jako pohlazení a objetí.
