@@ -12,9 +12,10 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Noční kapitola – dva pozdější začátky](e02-noc-2026-07-30.md) | výňatky | E02 |
 | [Když vina přijde místo spánku](e07-kdyz-vina-prijde-misto-spanku.md) | celý pracovní text | E07 |
 | [Když vina přijde místo spánku – dvě pozdější varianty](e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md) | dvě celé pracovní varianty | E09 |
+| [Když se všechno obrátí proti tobě](e13-kdyz-se-vsechno-obrati-proti-tobe.md) | pracovní text asistenta. | E13 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 2 úseků přímo z E01 a 2 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 2 úseků E01 (M) a 3 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).

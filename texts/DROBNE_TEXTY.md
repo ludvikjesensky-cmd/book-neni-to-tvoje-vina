@@ -1,6 +1,6 @@
 # Rejstřík drobných textů, metafor a námětů
 
-Doplnění z druhého podrobného průchodu 2026-10-11. 60 přímo převzatých úseků E01 a 14 sad neúplných výňatků E02. Úsek může obsahovat jedinou větu, několik odstavců či celý zásobník námětů. Počty označují úseky, nikoli počet unikátních myšlenek.
+Rejstřík zahrnuje 60 přímo převzatých úseků E01 (M001–M060), 41 sad neúplných výňatků E02 (V001–V041) a níže označené přímé přenosy E06/E07/E09/E16. Úsek může obsahovat jedinou větu, několik odstavců či celý zásobník námětů. Počty označují úseky, nikoli počet unikátních myšlenek.
 
 [Celý přehled textů](README.md) · [Původ a kontrola pokrytí](../docs/SOURCE_CATALOG.md)
 

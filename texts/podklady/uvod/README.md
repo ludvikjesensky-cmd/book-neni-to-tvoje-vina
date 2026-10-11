@@ -15,16 +15,15 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Autorské zadání a úvodní pracovní texty](e06-autorske-zadani-a-uvodni-texty.md) | zadání + pracovní varianty | E06 |
 | [Jak číst… a pozdější úpravy](e08-jak-cist-a-upravy.md) | pracovní varianta + redakční připomínka | E08 |
 | [Jak číst… jako čistá pozvánka](e09-jak-cist-cista-pozvanka.md) | pracovní varianta | E09 |
-
 | [E11 — Smysl knihy a role autora](e11-smysl-knihy-a-role-autora.md) | autorské zadání | E11 |
+| [E14 — Autorský hlas a literární role](e14-autorsky-hlas-a-literarni-role.md) | autorské zadání | E14 |
+| [Jak číst tuhle knihu, když nemáš sílu číst](e13-jak-cist-tuhle-knihu-kratka-varianta.md) | pracovní text asistenta. | E13 |
+| [„A teď ti chci něco ukázat“: rozpracování přechodu z úvodu do první kapitoly](e16-a-ted-ti-chci-neco-ukazat.md) | redakční dialog + pracovní varianty asistenta. | E16 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 20 úseků přímo z E01 a 4 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 20 úseků E01 (M) a 6 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).
 
-| [E14 — Autorský hlas a literární role](e14-autorsky-hlas-a-literarni-role.md) | autorské zadání | E14 |
-
-## E16 — nejnovější rozpracování přechodu
-- [„A teď ti chci něco ukázat“](e16-a-ted-ti-chci-neco-ukazat.md) — redakční dialog, pět pracovních variant dokončení a jedna celá varianta přechodu do první kapitoly. Zdroj E16, přímo dostupná konverzace 2026-10-11. Autor potvrdil, že věta podle něj do textu patří, ale je nedořečená; konkrétní dokončení nebylo schváleno.
+E16 obsahuje pět návrhů dokončení věty „A teď ti chci něco ukázat“ a přechod do první kapitoly. Konkrétní dokončení není schváleno; delší vysvětlující variantu posoudit podle D007.

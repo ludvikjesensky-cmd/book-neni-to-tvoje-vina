@@ -15,3 +15,5 @@
 
 - **L011 — Lékárnička potřebuje dvě současné struktury.** Původ D002/E13. Kniha má fungovat jako lineární cesta od bolesti k naději i jako náhodně otevřená první pomoc pro jednu stránku, odstavec nebo větu.
 - **L012 — Síla věty roste z rytmu, ne z koncentrace efektu.** Původ E13 a dřívější L001/M044. Jedna kapitola má mít jednu hlavní ránu a jedno hlavní pohlazení; obyčejnější věty nesou zásahové. Přebytečné silné formulace ukládat mimo konkrétní kapitolu, ne je do ní násilně vrstvit.
+
+- **L013 — Po souběžných přenosech sjednotit navigaci a současný stav.** Přidaný text musí být dohledatelný z tématu; vyřešená mezera nesmí zůstat aktivním blockerem. Datum importu oddělovat od data vzniku a počet souborů od počtu unikátních textů. Původ sjednocovat v katalogu, nikoli dalším stavovém dokumentu.

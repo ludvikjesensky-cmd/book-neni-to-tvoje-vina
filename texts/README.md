@@ -2,7 +2,7 @@
 
 Texty jsou uspořádány podle kapitol a témat. Šest souborů v kořeni texts/ tvoří dosavadní pracovní výběr. Ve složce podklady/ jsou další historické varianty, fragmenty a rozpracování. Nic z toho samo o sobě neurčuje finální obsah ani pořadí knihy.
 
-Jednotlivé věty, metafory, autorská zadání a malé odstavce najdeš v [rejstříku drobných textů](DROBNE_TEXTY.md). U každého je konkrétní zdroj a odkaz na příslušné téma. Rejstřík zahrnuje i další listopadové, lednové, jarní a červencové fragmenty z třetího průchodu.
+Jednotlivé věty, metafory, autorská zadání a malé odstavce najdeš v [rejstříku drobných textů](DROBNE_TEXTY.md). U každého je konkrétní zdroj a odkaz na příslušné téma. Rejstřík zahrnuje M001–M060, V001–V041 i vybrané pozdější přímé přenosy.
 
 ## Mapa kapitol a podkladů
 
@@ -31,26 +31,22 @@ Soubory E01/E05 jsou převzaté z konkrétních míst PDF exportů. E02 obsahuje
 
 Původ a rozsah importů: [katalog zdrojů](../docs/SOURCE_CATALOG.md). Aktuální redakční stav: [CURRENT_STATE](../project-memory/CURRENT_STATE.md). Mapa projektu: [PROJECT.md](../PROJECT.md).
 
+## Přímé přenosy E06–E16
 
-## Přímý přenos současné konverzace E06
-Nové podklady z dostupné konverzace 2026-10-11 jsou uloženy bez zásahu do pracovního výběru:
-- [autorské zadání a úvodní pracovní texty](podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md),
-- [mikrokapitoly a náplasti](podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md),
-- [struktury a redakční pohledy](podklady/osnovy/e06-struktury-a-redakcni-pohledy.md).
+Všech 27 doplněných souborů je zařazeno v tematických přehledech výše. K orientaci v hlavních nálezech:
 
-E06 je podkladová vrstva. Autor v této konverzaci výslovně uvedl, že knihu ještě nepovažuje za kompletní a nechce, aby se z ní stal jen výčet bolestí.
+| Co hledáš | Kde číst |
+| --- | --- |
+| „Sedím si teď vedle tebe“, úvodní blok a autorské zadání | [E06](podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md) |
+| Zásobník mikrokapitol a 29 náplastí | [E06](podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md) |
+| Celé „Jsem úplně blbá.“ | [E07](podklady/chyba-a-rozsudek/e07-jsem-uplne-blba-cele-zneni.md) |
+| Celé „Nemusíš nést, co tě zraňuje“ | [E07](podklady/odpovednost-a-cizi-vina/e07-nemusis-nest-co-te-zranuje.md) |
+| „Něco je tvoje. Ale ne všechno.“ | [E08](podklady/odpovednost-a-cizi-vina/e08-neco-je-tvoje-ale-ne-vsechno.md) |
+| Úvody, noční kapitoly a jejich paralelní varianty | [Úvod](podklady/uvod/README.md) · [Noc](podklady/noc/README.md) |
+| Autorský hlas, oblouk knihy a redakční dialogy | [Úvod](podklady/uvod/README.md) · [Osnovy](podklady/osnovy/README.md) |
+| „Někdy to není vina“ | [E14](podklady/bolest-a-vina/e14-nekdy-to-neni-vina.md) |
+| Pracovní návrh „Měla jsem to poznat dřív“ | [E14](podklady/odpovednost-a-cizi-vina/e14-mela-jsem-to-poznat-driv-pracovni-kapitola.md) |
+| „Když láska bolí“ — související tvorba mimo rukopis | [Doprovodné zdroje E15](podklady/propagace/README.md) |
+| „A teď ti chci něco ukázat“ — varianty přechodu | [E16](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md) |
 
-
-## Přímý přenos současné konverzace E09
-Pozdější část dostupné konverzace 2026-10-11 doplňuje tři podklady bez zásahu do pracovního výběru:
-- [nový krátký úvod „Jak číst…“](podklady/uvod/e09-jak-cist-cista-pozvanka.md),
-- [dvě pozdější varianty první noční kapitoly](podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md),
-- [redakční dialog o oddělení funkcí úvodu a první kapitoly](podklady/osnovy/e09-oddeleni-uvodu-a-prvni-kapitoly.md).
-
-Tento přenos zpřesňuje dramaturgický princip, ale neurčuje finální osnovu ani nevybírá definitivní textovou variantu.
-
-## Přímý přenos současné konverzace E16
-Nejnovější neduplicitní rozpracování z dostupné konverzace 2026-10-11 je uloženo bez zásahu do pracovního výběru:
-- [„A teď ti chci něco ukázat“ — vysvětlení, pět variant a přechod do první kapitoly](podklady/uvod/e16-a-ted-ti-chci-neco-ukazat.md).
-
-E16 zachovává autorovu připomínku, že věta podle něj do textu patří, ale je nedořečená. Delší pracovní varianta není finální volbou a musí být redakčně posouzena vedle D007.
+E06–E16 označují přenosy dostupných konverzací a audit, nikoli pořadí kapitol. Datum přenosu není samo o sobě dokladem data napsání. Některé pasáže se překrývají se staršími importy; vazby a přetrvávající mezery uvádí [katalog zdrojů](../docs/SOURCE_CATALOG.md). Plné znění určité varianty není automaticky konečná podoba textu.

@@ -20,17 +20,17 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Pokus o kratší knihu – 12 až 15 kapitol](e01-kratsi-kniha.md) | osnova | E01, s. 201–203 |
 | [Prvotní koncept a pět kapitol](e01-prvotni-koncept.md) | osnova | E01, s. 49–51 |
 | [Dvě poloviny knihy – bolest a jiná možnost](e05-dve-poloviny.md) | osnova | E05, s. 111–119 |
-
 | [Struktury a redakční pohledy](e06-struktury-a-redakcni-pohledy.md) | redakční podklad | E06 |
 | [První část a redakční rozhodování](e08-prvni-cast-a-redakcni-rozhodovani.md) | redakční podklad | E08 |
 | [Oddělení úvodu a první kapitoly](e09-oddeleni-uvodu-a-prvni-kapitoly.md) | redakční dialog + rozhodnutí | E09 |
-
 | [E11 — Vývojový oblouk vlastními slovy autora](e11-vyvojovy-oblouk-autora.md) | autorské zadání / pracovní osnova | E11 |
+| [E14 — Pětidílný oblouk, „Nejsi v tom sama“ a hlas autora](e14-petidilny-oblouk-nejsi-v-tom-sama-a-hlas-autora.md) | autorské rozhodování + redakční podklad | E14 |
+| [Pozdější dostupná část konverzace: definitivní forma a pracovní proces](e12-definitivni-forma-a-pracovni-proces.md) | pracovní strukturální návrh + redakční doporučení z konverzace; nikoli finální osnova ani schválený text rukopisu. | E12 |
+| [celek před efektem: silné věty versus soudržnost](e13-celek-pred-efektem.md) | autorská připomínka + redakční odpověď asistenta. | E13 |
+| [kniha jako lékárnička a dvojí čitelnost](e13-lekarnicka-a-dvoji-citelnost.md) | autorské zadání + pracovní redakční návrh asistenta. | E13 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).
-
-| [E14 — Pětidílný oblouk, „Nejsi v tom sama“ a hlas autora](e14-petidilny-oblouk-nejsi-v-tom-sama-a-hlas-autora.md) | autorské rozhodování + redakční podklad | E14 |
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 4 úseků E01 (M) a 1 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).

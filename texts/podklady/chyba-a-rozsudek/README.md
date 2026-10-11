@@ -8,9 +8,10 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | --- | --- | --- |
 | [Každodenní chyba, rozsudek a dva mechanismy viny](e01-dva-mechanismy.md) | rozpracování | E01, s. 181–189 |
 | [Jsem úplně blbá. – dostupné úryvky](e02-jsem-uplne-blba.md) | výňatky | E02 |
+| [„Jsem úplně blbá.“](e07-jsem-uplne-blba-cele-zneni.md) | pracovní návrh asistenta z přímo dostupné konverzace; celé znění. | E07 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 1 úseků přímo z E01 a 1 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 1 úseků E01 (M) a 3 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).

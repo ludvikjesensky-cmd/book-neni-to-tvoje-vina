@@ -9,7 +9,7 @@ Historie je rekonstrukce, nikoli úplný seznam všech rozhovorů. E01/E02 viz d
 - **2026-07:** několik přestaveb první části, text o hodné holčičce, bolest jako přijatá vina. Rozšíření o každodenní chyby a rozlišení chyby od identity.
 - **2026-07-24:** čtyři části/34 kapitol: Soud, který nad sebou vedeš; Viny obyčejných dnů; Viny, které sis odnesla z lásky; Už nad sebou nemusíš vynášet rozsudek. Autor upozornil na hutnost. Následoval návrh 12–15 kratších kapitol. Ani jeden není finálně uzavřen.
 - **2026-07-26:** motiv závěru „Dovol si…“, něha a východisko bez návodů. Návrh šesti zastavení není hotový závěr.
-- **2026-07-30:** úprava úvodu, rozšíření mimo rozchody a řešení jeho překryvu s první kapitolou. Dochován export NTTV – Část 1.pdf; pozdější přepis první kapitoly je zatím doložen pouze vyhledáním rozhovoru.
+- **2026-07-30:** úprava úvodu, rozšíření mimo rozchody a řešení jeho překryvu s první kapitolou. Dochován export NTTV – Část 1.pdf; pozdější přepisy byly při prvním hledání doloženy pouze výňatky; celé varianty doplnil následný přenos E09.
 - **2026-10-11:** obnovení projektu, identifikace zdrojů a inicializace GitHub Project Memory podle centrálního standardu. Přeneseno šest pracovních textů z exportu; žádná nová koncepce knihy tím nebyla schválena.
 
 Dědí se hlas, účel, prožitková cesta a rozlišení odpovědnosti od sebeodsouzení. Opouští se závislost na jedné konverzaci; různé osnovy se uchovávají jako historické varianty, nikoli souběžné autority.
@@ -38,3 +38,9 @@ Po auditu E11 byla vytěžena ještě pozdější přímo dostupná část též
 
 ## 2026-10-11 — Nejpozdější přímý harvest E13
 Po E12 byla znovu vytěžena nejpozdější část téže konverzace. Přibyly čtyři neduplicitní podklady: explicitní autorova koncepce knihy jako „lékárničky“ pro návrat k jedné větě či stránce, další celá varianta úvodu „Jak číst…“, redakční zásada soudržnosti „celek před efektem“ a nová celá noční varianta „Když se všechno obrátí proti tobě“. Paralelní textové verze zůstaly oddělené a nebyly povýšeny na finální rukopis.
+
+## 2026-10-11 — Přenosy z dalších konverzací a sjednocení evidence
+
+Přenosy E06–E16 rozšířily archiv o 27 souborů. E07 doplnil celé „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“, E08 další úvod a odpovědnost, E09 dvě noční varianty a oddělení funkcí úvodu a první kapitoly. E10 ověřil pokrytí PDF. E11–E14 doplnily autorský hlas, struktury a literární varianty; E15 příbuznou tvorbu mimo rukopis, E16 rozpracování přechodu.
+
+Následná kontrola repozitáře odstranila rozpory mezi původními mezerami a novými importy, přepsala CURRENT_STATE na současný stav a doplnila devět chybějících odkazů v tematické navigaci. Rozpadlé tabulky a zastaralé počty byly sjednoceny. Katalog rozlišuje datum přenosu od nedoloženého data vzniku a uvádí konkrétní překryvy E11/E13 s již uloženými pasážemi. Literární texty, jejich zdrojové hlavičky i šest pracovních kapitol zůstaly beze změny; finální výběr je nadále otevřený.

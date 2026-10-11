@@ -18,11 +18,10 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Bolest, kterou jsi neměla kam položit – něžnější varianta](e01-bolest-nezhnejsi.md) | text | E01, s. 146–150 |
 | [Když bolest nemá kam jít, promění se ve vinu](e05-kdyz-bolest-nema-kam-jit.md) | text | E05, s. 128–130 |
 | [Bolest potřebuje svědka](e02-bolest-potrebuje-svedka.md) | výňatky | E02 |
+| [E14 — Někdy to není vina](e14-nekdy-to-neni-vina.md) | autorský pracovní text | E14 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 7 úseků přímo z E01 a 4 sad výňatků z E02. [Společný rejstřík](../../DROBNE_TEXTY.md).
-
-| [E14 — Někdy to není vina](e14-nekdy-to-neni-vina.md) | autorský pracovní text | E14 |
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 7 úseků E01 (M) a 11 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).

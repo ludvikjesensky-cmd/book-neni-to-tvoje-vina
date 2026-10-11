@@ -13,8 +13,8 @@ Zde jsou historické varianty a podklady k tomuto tématu. Zařazení je redakč
 | [Hlídání nálad, zasloužená láska a bezmoc](e01-hlidani-nalad-a-laska.md) | rozpracování | E01, s. 159–161 |
 | [Most od hodné holky k bolesti](e01-most-k-bolesti.md) | fragment | E01, s. 163–163 |
 
-Pracovní komentáře uvnitř rozpracování a osnov jsou ponechány jako součást historie. Jejich tvrzení ani doporučení nejsou automaticky aktuálním rozhodnutím.
+Pracovní komentáře uvnitř rozpracování a osnov jsou součástí zdrojové evidence. Import ani pořadí E01–E16 neurčují finální verzi nebo chronologii vzniku.
 
 ## Další drobné pasáže
 
-[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 3 úseků přímo z E01. [Společný rejstřík](../../DROBNE_TEXTY.md).
+[Drobné texty, metafory a autorská zadání](drobne-texty-a-metafory.md): 3 úseků E01 (M) a 2 sad výňatků E02 (V). Další přímé přenosy jsou v souboru označeny zvlášť. [Společný rejstřík](../../DROBNE_TEXTY.md).

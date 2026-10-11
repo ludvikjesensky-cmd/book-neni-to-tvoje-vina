@@ -2,6 +2,37 @@
 
 Tento dokument eviduje původ textu; současný stav projektu je pouze v [CURRENT_STATE](../project-memory/CURRENT_STATE.md).
 
+## Orientace po sjednocení evidence (2026-10-11)
+
+Čísla E označují evidované zdroje či přenosy, ne pořadí kapitol a ne spolehlivou chronologii vzniku. U E06–E16 je 2026-10-11 bezpečně datem přenosu/auditu; samotné označení „tato/současná konverzace“ bez původních časových údajů nedokazuje, že tehdy byly napsány všechny citované starší zprávy. Původní hlavičky zůstávají zachovány jako záznam importu. Stabilní URL ani datum jednotlivých zpráv zde nejsou dodatečně vymyšleny.
+
+### Dostupnost dříve hledaných textů
+
+| Hledaný text | Co je nyní dostupné | Zbývající nejistota |
+| --- | --- | --- |
+| „Jsem úplně blbá.“ | [Celé E07](../texts/podklady/chyba-a-rozsudek/e07-jsem-uplne-blba-cele-zneni.md); všechny tři charakteristické výňatky E02 mají protějšek v textu. | Samostatná datace původní zprávy a finální redakční výběr. |
+| „Nemusíš nést, co tě zraňuje“ | [Celé E07](../texts/podklady/odpovednost-a-cizi-vina/e07-nemusis-nest-co-te-zranuje.md), které doplňuje V011. | Původní časový údaj E02 není nově ověřený. |
+| Dva pozdější noční začátky E02 | [Dvě celé varianty E09](../texts/podklady/noc/e09-kdyz-vina-prijde-misto-spanku-dve-varianty.md). Ověřeny charakteristické začátky a věta o „každé verzi příběhu“. | Shoda textu neověřuje časové štítky E02. |
+| Pozdější úvod E02 | Více úplných úvodů v [tematickém přehledu](../texts/podklady/uvod/README.md). | Delší charakteristické formulace souboru e02-jak-cist-2026-07-30.md nemají přesný protějšek v E08/E09/E13; konkrétní původní přepis zůstává neověřený. |
+| Lednových deset kapitol / dvacet náplastí | Fragmenty E02 a [samostatná sada E06](../texts/podklady/kratke-texty/e06-mikrokapitoly-a-naplasti.md) s 29 náplastmi. | E06 není doloženou obnovou totožné lednové sady. |
+| „Měla jsem to poznat dřív“ | [Celý pracovní návrh E14](../texts/podklady/odpovednost-a-cizi-vina/e14-mela-jsem-to-poznat-driv-pracovni-kapitola.md). | Neprokazuje obnovu původního dubnového textu E02. |
+| „Jinýma očima“, „Pár slov“, stárnutí | Fragmenty v [rejstříku](../texts/DROBNE_TEXTY.md). | Celé historické znění není doloženo. |
+
+### Ověřené překryvy mezi přenosy
+
+Označení „neduplicitní“ v původních záznamech importů nelze vztahovat na každou jejich větu. Kontrola normalizovala mezery, velikost písmen a interpunkci; nejde o důkaz typografické identity. Zdrojové soubory zůstaly zachovány.
+
+| Přenos | Dřívější protějšek | Jak vztah číst |
+| --- | --- | --- |
+| [Autorský vývojový oblouk E11](../texts/podklady/osnovy/e11-vyvojovy-oblouk-autora.md) | [M039](../texts/podklady/osnovy/drobne-texty-a-metafory.md#m039) | Celá hlavní autorská citace již byla uložena. E11 přidává samostatné uvedení a redakční komentář, nikoli nový autorský výrok. |
+| Zadání k [úvodu E08](../texts/podklady/uvod/e08-jak-cist-a-upravy.md) | [M060](../texts/podklady/uvod/drobne-texty-a-metafory.md#m060) | Shodné zadání; navazující variantu posuzovat samostatně. |
+| [Celek před efektem E13](../texts/podklady/osnovy/e13-celek-pred-efektem.md) | [M044](../texts/podklady/osnovy/drobne-texty-a-metafory.md#m044) | Shodná autorská připomínka a více odstavců odpovědi. |
+| [Lékárnička E13](../texts/podklady/osnovy/e13-lekarnicka-a-dvoji-citelnost.md) | [M041](../texts/podklady/uvod/drobne-texty-a-metafory.md#m041), [M042](../texts/podklady/kratke-texty/drobne-texty-a-metafory.md#m042), [M043](../texts/podklady/uvod/drobne-texty-a-metafory.md#m043) | Dříve uložené zadání a ukázkové formulace v souvislejším kontextu. |
+| [Krátký úvod E13](../texts/podklady/uvod/e13-jak-cist-tuhle-knihu-kratka-varianta.md) | [Úvod E01](../texts/podklady/uvod/e01-jak-cist-kdyz-nemas-silu.md) | Sdílený delší odstavec o místech, kde lze knihu otevřít; ne důvod smazat celou variantu. |
+| [„Někdy to není vina“ E14](../texts/podklady/bolest-a-vina/e14-nekdy-to-neni-vina.md) | [Zpomalená šatna E01](../texts/podklady/bolest-a-vina/e01-vina-jako-satna-zpomalena.md) | Sdílený odstavec „Jenže ty jsi nechtěla být oběť…“; texty mají vlastní kontext. |
+
+E15 je příbuzná tvorba mimo rukopis. E16 je pracovní přechod, jehož vysvětlující polohu je nutné posoudit vůči D007. Žádný z přenosů sám neuzavírá finální osnovu.
+
 ## E01 — NTTV – Část 1.pdf
 - Přesný název zdroje: NTTV - Část 1.pdf.
 - ChatGPT Library ID: libfile_e3c3bc1dd0648191b8f2668db2f3ae28.
@@ -38,7 +69,7 @@ Vyhledáno 2026-10-11 pro tento projekt. Výstupy poskytly souhrny/výňatky, ne
 Doložené časové body: 2025-10-13; 2025-11-15 až 23; 2026-01-24; 2026-03-30; 2026-06-06; 2026-07-22 až 30; 2026-10-11.
 Datace je převzata z výsledků, není odvozena z relativních časových popisků PDF.
 
-Dohledané, ale neobnovené úplné texty:
+Při původním hledání E02 byly následující texty neúplné. Jejich stav po přenosech E07/E09 upřesňuje tabulka dostupnosti výše:
 - Pozdější úvod/první kapitola po požadavku oddělit jejich funkce, 2026-07-30 (kolem 07:58–08:09 UTC).
 - Úvod části „Nemusíš nést, co tě zraňuje“, 2026-07-24.
 - „Jsem úplně blbá.“, 2026-07-24.

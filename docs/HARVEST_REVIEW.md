@@ -1,4 +1,4 @@
-# Kontrola druhého průchodu historickými podklady
+# Kontroly importů a pokrytí zdrojů
 
 Datum: 2026-10-11. Evidence postupu importu, nikoli další stavový dokument. Aktuální stav je v [CURRENT_STATE](../project-memory/CURRENT_STATE.md).
 
@@ -94,3 +94,22 @@ Dne 2026-10-11 byly znovu načteny obě přílohy konverzace z 2026-07-30 a jej�
 ### Závěr auditu
 
 Nebyl nalezen žádný nový text ani odlišná varianta k importu. E04 nepřináší samostatný materiál a nic z něj se nekopíruje podruhé. Tehdejší katalogizační práce je zachována tímto mapováním; původní znění zůstává v již existujících souborech E01.
+
+
+## Sjednocení repozitáře po přenosech E06–E16 (2026-10-11)
+
+Kontrolovaný výchozí commit: `7ed81c3308c6acaec0dbcc00537624d84b3c80b6`. Přečteno všech 121 souborů; inventář obsahoval 96 zdrojových textových souborů včetně 27 přidaných přenosy E06–E16. Porovnání s posledním společným průchodem `ca23d8884dd0f501a3bfbb249963a3bbe281cbc4` neukázalo změny šesti kořenových pracovních textů.
+
+### Nálezy a opravy
+
+- CURRENT_STATE se změnil v deník jednotlivých importů a současně tvrdil 69 i 81 souborů a neexistenci již obnovených textů. Nahrazen souhrnem současného stavu; detailní evidence zůstává v katalogu a staré znění v Gitu.
+- Devět zdrojových souborů chybělo v příslušných tematických README. Odkazy doplněny; všechny podkladové soubory mají tematickou navigaci.
+- Nové řádky tabulek byly na několika místech připojené mimo tabulku. Sjednoceny do tabulek, opraveny počty M/V v tematických přehledech a souhrn rejstříku.
+- Aktualizovány OPEN_QUESTIONS a původní seznam neobnovených textů E02. Dvě pozdější noční varianty a všechny tři charakteristické úryvky „Jsem úplně blbá.“ mají protějšky v celých přenosech.
+- Zjištěny konkrétní překryvy E11/E13 a dalších importů s E01. Jsou popsány v katalogu; počet nových souborů proto neznamená stejný počet unikátních děl.
+- Údaj 2026-10-11 u přenosů není bez dalšího důkazem data vzniku starších zpráv. Původní hlavičky nebyly přepsány a chybějící metadata nebyla domýšlena.
+- Nebyl smazán, přejmenován ani literárně upraven žádný zdrojový text. Stejné motivy v různých variantách se při tomto úklidu neslučovaly.
+
+### Rozsah ověření
+
+Kontrola zahrnuje inventář, změny od předchozího průchodu, relativní odkazy a cílové kotvy, pokrytí tematických rozcestníků, rozpory projektové paměti a konkrétní textové překryvy. Nejde o novou kontrolu doslovnosti všech přenosů proti původním konverzacím ani o schválení jejich literární či faktické správnosti. Právě tyto zdroje byly v době úklidu dostupné jako texty repozitáře.
