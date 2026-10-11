@@ -87,3 +87,11 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: explicitní autorův návrh a následné potvrzení potřeby úvodní části.
 - Důsledky: konkrétní znění tří textů E06 je pouze pracovní návrh asistenta. Rozhodnutí se týká funkce bloku, nikoli jeho definitivního textu, počtu stránek nebo přesného pořadí.
 - Zdroj: E06, texts/podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md.
+
+
+## D013 — První noční kapitola má primárně rozpoznat, ne vysvětlit
+- Datum: 2026-10-11; stav: ACTIVE.
+- Rozhodnutí: při další redakci první noční kapitoly preferovat jednoduchost a prožitek původní verze; nevkládat do ní celý výklad mechanismu vnitřního soudu. Širší každodenní rovinu může nést úvod a následující kapitoly.
+- Důvod: po přepracování na širší každodenní osu autor uvedl, že nová verze je „mnohem složitější než byla ta původní“ a začal váhat ve prospěch původní verze.
+- Důsledky: E07 se nepřepisuje novější variantou; případné změny první kapitoly mají být chirurgické, nikoli úplná koncepční přestavba. Návrh sedmi kapitol první části v E08 zůstává pouze pracovní strukturou.
+- Zdroj: E08, texts/podklady/osnovy/e08-prvni-cast-a-redakcni-rozhodovani.md.
