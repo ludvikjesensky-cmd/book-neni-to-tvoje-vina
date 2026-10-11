@@ -34,3 +34,7 @@ Aktuálně dostupná větev této konverzace byla znovu projita proti historick�
 
 ## 2026-10-11 — Pozdější přímý harvest E12
 Po auditu E11 byla vytěžena ještě pozdější přímo dostupná část téže konverzace. Přibyl jeden nový strukturální podklad: návrh páteře s pěti částmi, úvodem a závěrem, šestikroková vnitřní stavba kapitoly a redakční doporučení pro dokončování. Návrh nebyl povýšen na finální osnovu; Q001 zůstává otevřené. Ostatní pozdější rozhovor se týkal zejména Nového Dvora, Scriveneru/Ulysses/Bear/Apple Notes, Markdownu a AI workflow a nebyl importován jako rukopis.
+
+
+## 2026-10-11 — Nejpozdější přímý harvest E13
+Po E12 byla znovu vytěžena nejpozdější část téže konverzace. Přibyly čtyři neduplicitní podklady: explicitní autorova koncepce knihy jako „lékárničky“ pro návrat k jedné větě či stránce, další celá varianta úvodu „Jak číst…“, redakční zásada soudržnosti „celek před efektem“ a nová celá noční varianta „Když se všechno obrátí proti tobě“. Paralelní textové verze zůstaly oddělené a nebyly povýšeny na finální rukopis.
