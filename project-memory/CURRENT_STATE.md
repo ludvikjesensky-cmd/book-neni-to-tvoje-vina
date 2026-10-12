@@ -1,14 +1,15 @@
 # Current State
 
-**Poslední ověření:** 2026-10-11  
-**Fáze:** detailní redakční průchod dokončen; výběr a skládání rukopisu čekají na autorskou domluvu.
+**Poslední ověření:** 2026-10-12  
+**Fáze:** hotový konkrétní návrh struktury; čeká na autorské schválení před dosazováním textů.
 
 ## Ověřený stav
 
 - Dostupný archiv tvoří 96 zdrojových souborů: šest kořenových textů a 90 podkladů v jedenácti tématech. Počet zahrnuje osnovy, dialogy, fragmenty i dva soubory E15 mimo rukopis; není počtem kapitol ani unikátních textů.
 - Všech 96 souborů bylo přečteno a individuálně posouzeno v [detailním redakčním průchodu](../docs/EDITORIAL_REVIEW.md). Obsah celé složky texts/ zůstává při tomto průchodu nezměněný.
 - [manuscript/](../manuscript/README.md) je založen pro budoucí redigovanou podobu. Zatím obsahuje pouze README, žádné vybrané kapitoly.
-- Finální osnova, rozsah ani nosné varianty nejsou schválené. Doporučení rozboru nejsou autorská rozhodnutí.
+- [Návrh struktury](../docs/BOOK_STRUCTURE.md) obsahuje úvod a 15 kapitol v pěti částech, funkci, návaznost, předlohy a rozpočet každé kapitoly (celkem 9 750–12 150 slov). Je to doporučený návrh, nikoli schválená osnova.
+- Autor určil pořadí práce: nejprve zafixovat strukturu, potom dosazovat texty, myšlenky a metafory (D016). Konkrétní varianty textů nejsou vybrané.
 - Slovní porovnání literárních těl potvrdilo tři shody: kořenová noc/E07, E01/E13 Jak číst, zpomalená šatna E01/E14 Někdy to není vina. Souborové a provenienční rozdíly zůstávají zachované.
 - E07 obsahuje celé „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“; E09 dvě celé noční varianty. Tyto dřívější obsahové mezery nejsou blokery.
 - Navigace: [texts](../texts/README.md). Provenience, M001–M060, V001–V041 a přenosy E01–E16: [katalog](../docs/SOURCE_CATALOG.md).
@@ -29,9 +30,9 @@
 
 Technický blocker není. Podle zadání autora se před skládáním rukopisu společně domluvíme na dalším postupu.
 
-1. Projednat redakční průchod a nosné varianty, zejména volbu noční kapitoly.
-2. Dohodnout přiměřený oblouk, rozsah a konkrétní scénu běžné chyby i podobu závěru.
-3. Teprve potom skládat a redigovat v manuscript/; udržovat dohledatelný původ a odlišit nové psaní.
+1. S autorem uzavřít funkce a pořadí kapitol podle docs/BOOK_STRUCTURE.md; názvy mohou následně dozrát.
+2. Do přijaté struktury přiřadit nosné předlohy a konkrétní fragmenty, poté dopsat označené mezery.
+3. Skládat a redigovat v manuscript/; udržovat dohledatelný původ a odlišit nové psaní.
 4. Sazbu a vydání řešit po obsahové stabilizaci.
 
 [Otevřené otázky](OPEN_QUESTIONS.md) · [Rozhodnutí](DECISIONS.md) · [Historie](HISTORY.md)

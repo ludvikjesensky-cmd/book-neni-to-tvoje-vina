@@ -2,7 +2,7 @@
 
 Tento adresář je určen pro postupně skládanou a redigovanou podobu knihy. Založen na výslovné zadání autora 2026-10-11.
 
-**Zatím zde nejsou kapitoly.** Proběhl [detailní redakční průchod](../docs/EDITORIAL_REVIEW.md); volba nosných variant, osnova a další kroky čekají na společnou domluvu.
+**Zatím zde nejsou kapitoly.** Proběhl [detailní redakční průchod](../docs/EDITORIAL_REVIEW.md); navazuje [konkrétní návrh struktury](../docs/BOOK_STRUCTURE.md). Nejprve společně uzavřeme funkce a pořadí kapitol, potom do nich budeme dosazovat materiál.
 
 ## Jak zde pracovat
 

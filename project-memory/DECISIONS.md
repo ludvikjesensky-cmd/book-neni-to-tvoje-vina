@@ -110,3 +110,10 @@ Datace historických rozhodnutí pochází z vyhledávání rozhovorů; primárn
 - Důvod: autor chce bezpečně oddělit zachráněný materiál od skládané knihy.
 - Důsledky: texts/ zůstává archivem, manuscript/ bude content master redigovaného rukopisu. Nyní obsahuje pouze README. Redakční posouzení v docs/EDITORIAL_REVIEW.md neuzavírá osnovu, výběr variant ani schválení textů. Literární editace předloh se do archivu nepromítají.
 - Zdroj: explicitní zadání autora v této konverzaci: „Necháme všechny podklady na místě. Vytvoříme nový adresář manuscript/ … Udělej nejdřív detailní redakční průchod a pak se dohodneme na dalších krocích.“
+
+## D016 — Nejprve struktura, potom skládání textů
+- Datum: 2026-10-12; stav: ACTIVE.
+- Rozhodnutí: nejdříve zafixovat strukturu knihy; následně do ní dosazovat zachráněné texty, myšlenky, metafory a vytvářet jednotlivé kapitoly podle jejich funkce.
+- Důvod: autor chce soudržnou konstrukci před další prací na jednotlivých textech.
+- Důsledky: docs/BOOK_STRUCTURE.md předkládá konkrétní návrh úvodu a patnácti kapitol v pěti částech. Jeho počet, pořadí a rozpočet zatím nejsou schválené; Q001/Q002 zůstávají otevřené. D016 schvaluje postup, nikoli automaticky tento nový návrh.
+- Zdroj: přímé zadání autora v této konverzaci: „V prvním kroku bychom měli zafixovat strukturu knihy a pak do ní postupně dosazovat texty, myšlenky, metafory…“

@@ -50,3 +50,7 @@ Následná kontrola repozitáře odstranila rozpory mezi původními mezerami a 
 Na výslovné zadání autora přečteno a posouzeno všech 96 zdrojových souborů. V docs/EDITORIAL_REVIEW.md vzniklo porovnání variant, doporučení podle funkcí, rozbor opakování, hlasu, metafor, skutečných mezer a úplný souborový přehled. Ověřeny tři dvojice se shodným slovním zněním literárních těl; tím se zpřesňuje dřívější označování nových importů za neduplicitní.
 
 Založeno manuscript/ s README, zatím bez kapitol. Všechny podklady v texts/ ponechány na místě a beze změny. D015 odděluje archiv od budoucího content masteru. Osnova, výběr a literární sestavení zůstávají předmětem následné autorské domluvy.
+
+## 2026-10-12 — Návrh celkové struktury před skládáním textů
+
+Autor určil, že první krok má být fixace struktury a až další dosazování materiálu. Na základě redakčního průchodu a zachráněných podkladů vznikl docs/BOOK_STRUCTURE.md: pozvánka a 15 kapitol v pěti částech, s dramaturgickou funkcí, přechodem, zdroji, hranicemi překryvů a pracovním rozpočtem. Návrh dává běžné vlastní chybě prostor už v kapitole 3 a závěr vrací do noci. D016 zaznamenává zvolený postup; konkrétní osnova zůstává návrhem k autorově domluvě. Archiv a literární texty nebyly upraveny.
