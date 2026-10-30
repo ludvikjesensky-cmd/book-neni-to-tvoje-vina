@@ -1,6 +1,6 @@
 # Current State
 
-**Poslední ověření:** 2026-10-12  
+**Poslední ověření:** 2026-10-30  
 **Fáze:** hotový konkrétní návrh struktury; čeká na autorské schválení před dosazováním textů.
 
 ## Ověřený stav
@@ -13,6 +13,8 @@
 - Slovní porovnání literárních těl potvrdilo tři shody: kořenová noc/E07, E01/E13 Jak číst, zpomalená šatna E01/E14 Někdy to není vina. Souborové a provenienční rozdíly zůstávají zachované.
 - E07 obsahuje celé „Jsem úplně blbá.“ a „Nemusíš nést, co tě zraňuje“; E09 dvě celé noční varianty. Tyto dřívější obsahové mezery nejsou blokery.
 - Navigace: [texts](../texts/README.md). Provenience, M001–M060, V001–V041 a přenosy E01–E16: [katalog](../docs/SOURCE_CATALOG.md).
+
+- Dne 2026-10-30 byl do [detailního dokumentu o autorském hlasu](../docs/AUTHORIAL_VOICE_AND_SPIRIT.md) konsolidován smysl knihy, etika důstojnosti, obraz čtenářky, literární přístup a vývoj myšlení; doplněny lessons a historie. Žádný text rukopisu se tím neschvaluje.
 
 ## Redakční zjištění k projednání
 
