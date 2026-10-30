@@ -239,3 +239,13 @@ Před přijetím odstavce se ptát:
 10. Nevyužil jsem něhu k tomu, abych zakryl nepřesnost?
 
 **Závěrečné redakční připomenutí tohoto průchodu:** Něžnost, hloubka a lidskost nejsou ozdoby nalepené na obsah. Jsou způsobem, jakým čtenářku vnímáme. Mají být patrné v tom, co si dovolíme říci, co nevíme, co záměrně nevyslovíme a kolik prostoru jí ponecháme. Vedle uznání bolesti zachovat krásu života. Vedle naděje zachovat pravdu. Vedle autora zachovat svobodu čtenářky.
+
+## 15. Korekce autora: hloubka potřebuje emoce, vlídnost a něhu (2026-10-30)
+
+**Přímá reakce autora:** „Výborně. Je to možná trochu analytické, ale ten závěr vrací celé její duši emoce, vlídnost a něhu. Chtěl bych, abychom si tuto hloubku pro další psaní uchovali.“
+
+Předchozí odpověď nabídla osm pohledů na smysl knihy. Autor ocenil jejich hloubku, ale upozornil na rozdíl mezi **rozborem duše knihy** a **hlasem samotné knihy**. To druhé nastalo až v prostém závěru: kniha je pro ženu, která si pamatuje chyby víc než to dobré, která někdy nese i cizí odpovědnost, která možná potřebuje něco napravit, ale nemusí se za to navždy trestat. Kniha se jí nesnaží předepsat, jaká má být; na chvíli si k ní přisedá. Její příběh je větší než její výčitky a její důstojnost trvá.
+
+**Závěrečná formulace asistenta, kterou autor přijal jako emocionálně věrnou (nejde automaticky o schválenou větu rukopisu):** „Není to tvoje vina není kniha, která chce člověka zbavit jeho minulosti. Je to kniha, která mu nechce dovolit, aby kvůli své minulosti ztratil sám sebe.“
+
+**Pravidlo do dalších kapitol:** nejprve promyslet pravdivost a hloubku, potom je ztvárnit tak, aby se daly cítit. Přesné pojmy a morální rozlišení tvoří podloží; nad nimi mají být živá situace, něžný a zdrženlivý hlas, všímavost a prostor pro čtenářku. Nezaměňovat emocí naplněnou literaturu za citovou rétoriku. Po každé redakci se ptát: rozumím této ženě pouze lépe, nebo ji skutečně vidím? A cítí ona v textu úctu, která po ní nic dalšího nežádá?
