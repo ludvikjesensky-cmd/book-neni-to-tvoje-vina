@@ -17,3 +17,10 @@
 - **L012 — Síla věty roste z rytmu, ne z koncentrace efektu.** Původ E13 a dřívější L001/M044. Jedna kapitola má mít jednu hlavní ránu a jedno hlavní pohlazení; obyčejnější věty nesou zásahové. Přebytečné silné formulace ukládat mimo konkrétní kapitolu, ne je do ní násilně vrstvit.
 
 - **L013 — Po souběžných přenosech sjednotit navigaci a současný stav.** Přidaný text musí být dohledatelný z tématu; vyřešená mezera nesmí zůstat aktivním blockerem. Datum importu oddělovat od data vzniku a počet souborů od počtu unikátních textů. Původ sjednocovat v katalogu, nikoli dalším stavovém dokumentu.
+
+- **L014 — Nejdříve vidět, teprve pak vysvětlovat.** Původ: historické hledání autorského hlasu, syntéza 2026-10-30. Vypravěč má přednostně nabídnout konkrétní rozpoznatelnou situaci a důstojnou přítomnost, nikoli psychologickou diagnózu nebo poučku. Detailní hranice viz [poetika](../docs/AUTHORIAL_VOICE_AND_SPIRIT.md).
+- **L015 — Čtenářka je celá osoba, nikoli pouze její zranění.** Původ: širší autorský kontext a syntéza 2026-10-30. Ukazovat také schopnost, radost, obyčejnost, složitost a možnost života; nepřetvářet knihu v nekonečný katalog ran.
+- **L016 — Něha je vztah a přesnost, nikoli počet něžných vět.** Původ: opakované korektury noční kapitoly a bolesti. Jediný věrohodný detail může nést víc než deset ujištění; nepoužívat ornamentalitu či opakované „nemusíš“ jako náhražku blízkosti.
+- **L017 — Hlas, který naslouchá, si nepřivlastňuje čtenářku.** Původ: historická autorská hranice a redakční syntéza 2026-10-30. Mužský osobní hlas nesmí vystupovat jako terapeut, spasitel, výlučný důvěrník ani univerzální znalec žen.
+- **L018 — Etická pravdivost je součást literární něhy.** Původ: D004–D005 a syntéza 2026-10-30. Čin může být skutečně chybný; její osobní důstojnost se tím nevyčerpává. Netvrdit univerzální nevinu ani nepopírat nápravu.
+- **L019 — Redakční rozhovor začíná prožitkem, ne titulkem kapitoly.** Původ: vývoj psaní do října 2026. Nejprve pojmenovat, co se má ve čtenářčině zkušenosti stát, pak hledat scénu, obraz, tempo a textovou předlohu. Nepovyšovat návrhy asistenta na schválené autorské volby.
