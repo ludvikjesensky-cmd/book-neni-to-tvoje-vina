@@ -161,3 +161,81 @@ Zachovat rozlišení zdrojů: **historický text** / **autorské rozhodnutí** /
 - [Archiv dochovaných textů](../texts/README.md)
 
 **Závěrečný kompas:** Nechceme ženě její bolest dokonale vysvětlit. Chceme ji vidět tak přesně, s takovou úctou a bez rozsudku, aby se v příběhu mohla sama poznat. Odtud může vyrůst její vlastní, nikoli autorem vynucená naděje.
+
+
+## 14. Druhý průchod historickými rozhovory: přímé autorské hlasy a další jemné vrstvy (30. října 2026)
+
+**Povaha evidence.** Následující záznam vznikl druhým vyhledáním historických osobních rozhovorů (2025–2026) a porovnáním s uloženými přímými zdroji E06 a E13. U archivovaných přímých textů odkazy vedou na konkrétní soubory. U starších rozhovorů, které jsou dostupné jen přes vyhledané zprávy či jejich shrnutí, je uvedeno přibližné či přesné datum zprávy a výslovně neprohlašujeme úplnost celé konverzace. **Citace označené jako autorova slova nejsou hotovými větami rukopisu.** Citace původních odpovědí asistenta nejsou autorovými výroky a nejsou automaticky schváleným literárním textem.
+
+### 14.1 O životě, který je krásnější než jeho rány
+
+**Autorský postoj, 26. října 2025 (historická dohledaná konverzace):** autor výslovně odmítal redukovat svůj svět pouze na bolest a rány. Vybavoval si, že čtenářky u Ludvíka nacházely naději, krásu a svět, který je stále dobrým místem k životu. Už tehdy zaznělo přesvědčení, že svět je „nejúžasnějším místem k životu“. Z toho plyne velmi důležitá protiváha dnešnímu tématu viny: **pohlazení není jen zmírnění bolesti; je také znovuotevřením možnosti vnímat život**.
+
+**Autorský postoj, 30. července 2026 (dohledaná konverzace):** autor nechce mluvit jen o vině; zajímá ho ženský svět v šíři bolesti, trápení, radosti a živosti. V úvahách o řadě „Slova pro unavenou duši“ a o románech o obyčejných ženách se tak ukazuje širší literární horizont. **Není to tvoje vina** nemusí všechen tento svět pojmout, ale nesmí popřít jeho existenci.
+
+**Redakční důsledek:** nepsat celou knihu v jedné tónině soužení. V konkrétních kapitolách je prostor pro život mezi ranami: ranní vzduch, zvláštní humor situace, práci, obyčejné starosti, radost ze světa, věci, které ještě mají krásu. Tyto motivy nevkládat dekorativně či jako povinně optimistickou kapitolu. Jejich účelem je nedovolit, aby se čtenářka v našem textu změnila na soubor příznaků.
+
+### 14.2 Důstojnost není slogan, ale nejstarší společný závazek
+
+**Autor, 29. listopadu 2025 (dohledaná konverzace):** všechny zamýšlené knihy spojuje „důstojnost“. Širší kontext tehdy rozlišoval autorské světy a edice Pohlazení, Kořeny a Cesty; tady je podstatné, že důstojnost nebyla objevena až při pozdější redakci kapitoly o odpovědnosti. Patří k dlouhodobému základu autorova psaní.
+
+**Autor, 24. února 2026 (dohledaná konverzace):** žena se má cítit **viděná**. Důstojnost je třeba vracet také zkušenostem únavy, nedocenění, přehlížení, ublížení, pocitu malosti či méněcennosti. Její pocity nemají být odbyty jako nepodstatné či směšné. Zde je třeba rozlišit: **uznat realitu pocitu neznamená potvrdit jako fakt každou její interpretaci nebo čin**.
+
+**Redakční důsledek:** když píšeme o stydící se nebo unavené ženě, nepotřebujeme ji oslavovat. Stačí ji neponížit. Důstojnost se projevuje v přesnosti pohledu: nepodsouvat jí diagnózu, nepřikazovat jí rychlou proměnu, nepromluvit za ni, nezlehčovat její bolest ani její odpovědnost. Čtenářka má být subjektem, ne materiálem autorovy laskavosti.
+
+### 14.3 Původní podpis Ludvíka: obyčejný obraz, otevřený význam, naděje
+
+**Autorský kontext, 30. července 2026:** autor připomínal roky psaní krátkých textů z Bali o kráse, rodině, životě a vztazích, které četlo početné ženské publikum. V tehdejší redakční analýze byl popisován opakující se pohyb: **osobní všimnutí → konkrétní obraz → obecnější lidský význam → naděje či přímé přání**. Jde o popis dřívější poetiky, nikoli šablonu pro každou kapitolu.
+
+V dohledané výměně se objevují formulace „Teď už roste duše“, „Jejich bohatstvím je naplněné srdce“ a „Snad pro jejich bolest, kterou čas proměnil v krásu“; vyhledané záznamy je připisují dobovým ukázkám nebo rozborům, ale bez úplného primárního textu **zde nelze jednotlivé věty bezpečně prohlásit za definitivní autorské znění**. Jsou stopou motivů, nikoli materiálem k nekontrolovanému vložení do rukopisu.
+
+**Redakční důsledek:** nebojíme se krásy a naděje; nebojíme se melancholie, pokud není posledním slovem. Ale nestavíme knihu jako opakování dřívějšího formátu sociálního příspěvku. Delší literatura potřebuje souvislé scény, proměnu a rytmus.
+
+### 14.4 Pohlazení: malá kniha není malá ambice
+
+**Historická koncepce, listopad 2025 a únor 2026:** malá kniha do kabelky a edice Pohlazení; úvahy o titulech „Není to tvoje vina“, „Nejsi špatná máma“, „Jsi dost“ a „Nemusíš všechno zvládat“. Formát A6, řada či nakladatelská značka nejsou automaticky schválenou výrobní specifikací. Cenná je hlubší představa: kniha jako **bezpečné místo**, kam se lze vracet s velmi malou kapacitou na čtení, a nikoliv další úkol, který je třeba zvládnout.
+
+Slovo „lékárnička“ proto není reklamní obraz bez důsledků. Proměňuje konstrukci jednotlivé stránky. Musí mít jasný smysl i v izolaci a nesmí čtenářku přetížit.
+
+### 14.5 Autorův nejpřesnější soud nad svým vlastním postupem
+
+**Přímá autorská citace, E13:** „Skvěle. Je to silné, je to dobré. Funguje to. Můj problém je v tom, že se snažím každou část vypilovat k dokonalosti. Dát tam ty nejsilnější formulace a pak končím s hromadou výborných vět, které ale nedrží pohromadě.“
+
+[Zdroj: E13 — celek před efektem](../texts/podklady/osnovy/e13-celek-pred-efektem.md)
+
+Tato věta je důležitější než libovolná nová stylistická instrukce. Autor neodmítá krásu věty. Vidí, že její místo a její okolí jsou důležitější než izolovaná dokonalost. **Text potřebuje nádech, předznamenání, obyčejnou větu, ztišení a pravdivý konec.**
+
+**Historický návrh asistenta ve stejném E13, nikoli autorské rozhodnutí:** „Nechci ohromit. Chci doprovodit.“ Jde o přesnou možnou pracovní připomínku, nikoli povinný slogan ani ověřenou autorovu citaci. Podobně obraz jedné lampy namísto ohňostroje byl pomocným redakčním příměrem. Nelze z něj mechanicky odvozovat kvótu „jedné silné věty na stránku“.
+
+### 14.6 Dvě další autorova zastavení jsou součástí metody, ne jen připomínky
+
+**Přímá autorská citace, E06:** „Nechtěl bych, aby ta kniha byla jen výčtem bolestí. Proto tam chci tu úvodní část. Chci aby kniha byla pohlazením, objetím.“
+
+**Přímá autorská citace, E06:** „Vydrž. Ty se hned ženeš do minikapitol. Já si nejsem jistý, že máme knihu kompletní. Pořád mám pocit, že tam toho hodně chybí.“
+
+[Zdroj: E06 — autorské zadání a úvodní texty](../texts/podklady/uvod/e06-autorske-zadani-a-uvodni-texty.md)
+
+První věta chrání **účinek celku**: pohlazení je dramaturgická vlastnost knihy, ne jen vhodné přídavné jméno. Druhá chrání **způsob naší spolupráce**: rychlá výroba minikapitol může přeskočit otázku, co kniha ještě potřebuje k celistvosti. Nesmíme zaměňovat tempo produkce za zrání koncepce. Současně pozdější D016 jasně říká, že už máme podklady pro strukturovanou redakci; zastavení z E06 není příkazem nikdy nezačít.
+
+### 14.7 Hloubka bez temnoty, naděje bez lži
+
+**Autorův širší literární požadavek, 1. srpna 2025 (z příbuzného projektu):** jít do hloubky, nespěchat, odmítat kýč, klišé, povrchnost a prvoplánovost. Toto se týkalo jiné zamýšlené knihy, a proto zůstává **kontextem autorského vkusu, nikoli rozhodnutím o obsahu Není to tvoje vina**. Přesto pomáhá rozlišit, co při psaní znamená něha: ne laciné uklidnění, ale poctivý, trpělivý vztah k lidskému osudu.
+
+U této knihy naděje neznamená, že utrpení bylo dobré nebo potřebné. Není nutné prohlašovat bolest za dar, všechno za osud či každou chybu za lekci. Naděje může být jen v možnosti, že žena už proti sobě jednou nepromluví tak krutě. A někdy ani to ještě není možné. Kniha ji za to nesmí potrestat.
+
+### 14.8 Živá redakční zkouška: pozná mě tato žena, nebo jen pozná krásnou větu?
+
+Před přijetím odstavce se ptát:
+
+1. Kdo je žena v této scéně **mimo svou bolest**? Co dělá, čeho si všímá, co je na ní živé?
+2. Je gesto nebo detail skutečně představitelný? Nebo jsem pouze vytvořil další metaforu?
+3. Cítí čtenářka pozornost, nebo tlak, aby přijala mé vysvětlení?
+4. Co je tu skutečně její odpovědností a co pouze předpokládám?
+5. Co nový odstavec přináší oproti předchozímu? Nepřidávám jen další krásnou variantu téhož?
+6. Je v knize vedle zranění zachován svět, který stojí za žití?
+7. Zůstává hlas lidský i tehdy, když přestane být nápadně poetický?
+8. Když čtenářka knihu zavře předčasně, odnese si něco neponižujícího a pravdivého?
+9. Když vydrží až do konce, posunul se celek, nebo se opakoval?
+10. Nevyužil jsem něhu k tomu, abych zakryl nepřesnost?
+
+**Závěrečné redakční připomenutí tohoto průchodu:** Něžnost, hloubka a lidskost nejsou ozdoby nalepené na obsah. Jsou způsobem, jakým čtenářku vnímáme. Mají být patrné v tom, co si dovolíme říci, co nevíme, co záměrně nevyslovíme a kolik prostoru jí ponecháme. Vedle uznání bolesti zachovat krásu života. Vedle naděje zachovat pravdu. Vedle autora zachovat svobodu čtenářky.
