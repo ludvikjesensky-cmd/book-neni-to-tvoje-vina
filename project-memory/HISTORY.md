@@ -54,3 +54,7 @@ Založeno manuscript/ s README, zatím bez kapitol. Všechny podklady v texts/ p
 ## 2026-10-12 — Návrh celkové struktury před skládáním textů
 
 Autor určil, že první krok má být fixace struktury a až další dosazování materiálu. Na základě redakčního průchodu a zachráněných podkladů vznikl docs/BOOK_STRUCTURE.md: pozvánka a 15 kapitol v pěti částech, s dramaturgickou funkcí, přechodem, zdroji, hranicemi překryvů a pracovním rozpočtem. Návrh dává běžné vlastní chybě prostor už v kapitole 3 a závěr vrací do noci. D016 zaznamenává zvolený postup; konkrétní osnova zůstává návrhem k autorově domluvě. Archiv a literární texty nebyly upraveny.
+
+## 2026-10-30 — Rekonstrukce autorského hlasu a ducha knihy
+
+Autor požádal o hlubší obnovu starších konverzací, jejich vývoje, způsobu společného uvažování a literárního hlasu. Po syntéze tuto interpretaci výslovně ocenil („Pochopil jsi to výborně“) a požádal ji zachovat co nejvěrněji v projektu. Podrobná syntéza, včetně rozlišení původních rozhodnutí, historie a interpretace, je v [docs/AUTHORIAL_VOICE_AND_SPIRIT.md](../docs/AUTHORIAL_VOICE_AND_SPIRIT.md). Hlavní důrazy: důstojnost jako podklad tématu viny; vidět konkrétního člověka před vysvětlováním; čtenářka není totožná se svou bolestí; mužský hlas jako pozorná přítomnost, nikoliv spasitel; přesná něha bez ornamentálního přetížení. Nejde o schválení návrhu patnácti kapitol ani konkrétních pracovních variant.
