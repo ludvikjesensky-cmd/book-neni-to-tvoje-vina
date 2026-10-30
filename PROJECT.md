@@ -11,6 +11,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 
 ## Co číst
 - Vždy: [SCOPE](project-memory/SCOPE.md), [CURRENT_STATE](project-memory/CURRENT_STATE.md).
+- Před literárním psaním, hodnocením hlasu nebo redakcí: [duch, poetika, čtenářka a vývoj autorského hlasu](docs/AUTHORIAL_VOICE_AND_SPIRIT.md); rozlišovat historické podklady, přijaté zásady a interpretaci 2026-10-30.
 - Před psaním/editací: [ARCHITECTURE](project-memory/ARCHITECTURE.md), [DECISIONS](project-memory/DECISIONS.md), [evidence textů](docs/SOURCE_CATALOG.md), [redakční průchod](docs/EDITORIAL_REVIEW.md).
 - Před změnou koncepce: navíc [FAILURES](project-memory/FAILURES.md), [OPEN_QUESTIONS](project-memory/OPEN_QUESTIONS.md).
 - Pro vývoj: [HISTORY](project-memory/HISTORY.md), [LESSONS](project-memory/LESSONS.md).
@@ -34,6 +35,7 @@ Tento soubor je jediný bootstrap. Aktuální stav: [CURRENT_STATE](project-memo
 - Text není návod ani univerzální zbavení odpovědnosti. Chyba není identita; odpovědnost není sebetrýznění.
 - Neupravovat při importu formulace a nevymýšlet chybějící rukopis.
 - Podklady v texts/ ponechávat na místě; výsledný text skládat a redigovat v manuscript/. Výběr variant čeká na autorskou domluvu.
+- Kniha má chránit důstojnost, dát čtenářce prostor a vyprávět skrze přesné situace; nezaměňovat něhu s plošnou nevinou ani krásnou větu s funkcí v celku. Viz docs/AUTHORIAL_VOICE_AND_SPIRIT.md.
 - Po významné práci konsolidovat správné soubory; zdrojové texty verzovat Gitem.
 
 Centrální pravidla: [GUIDANCE](https://github.com/ludvikjesensky-cmd/project-memory/blob/main/GUIDANCE.md), [PROJECT_STANDARD](https://github.com/ludvikjesensky-cmd/project-memory/blob/main/PROJECT_STANDARD.md).
